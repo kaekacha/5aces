@@ -19,10 +19,18 @@ def ggdata():
     # Find one record of data from the mongo database
     # This creates a python copy of the collection in the db
     gg_data = [data for data in mongo.db["grad&garden_data"].find({}, {"_id": False})]
-    # print(gg_data)
+    #collection2
+    #collection3
+    # all_data = {
+    #     "ny_garden": ny_garden,
+    #     "ga_garden": ga_garden,
+    #     "ny_grad": ny_grad,
+    #     "ga_grad": ga_grad
+    # }
     
     # Return template and data
-    return jsonify(gg_data[:10])
+    # return jsonify(all_data["nyg_data"])
+    return jsonify(all_data)
 
 if __name__ == "__main__":
     app.run(debug=True)
