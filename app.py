@@ -13,12 +13,16 @@ def home():
     return render_template("index.html")
 
 # Route to render index.html template using data from Mongo
-@app.route("/data")
-def ggdata():
+@app.route("/datanygarden")
+@app.route("/datanygrad")
+@app.route("/datagagarden")
+@app.route("/datagagrad")
+
+def datanygarden():
 
     # Find one record of data from the mongo database
     # This creates a python copy of the collection in the db
-    gg_data = [data for data in mongo.db["grad&garden_data"].find({}, {"_id": False})]
+    gg_datany = [data for data in mongo.db["ny_garden"].find({}, {"_id": False})]
     #collection2
     #collection3
     # all_data = {
@@ -30,7 +34,28 @@ def ggdata():
     
     # Return template and data
     # return jsonify(all_data["nyg_data"])
-    return jsonify(all_data)
+    return jsonify(gg_datany)
+def datanygrad():
+    # Find one record of data from the mongo database
+    # This creates a python copy of the collection in the db
+    gg_datany = [data for data in mongo.db["ny_grad"].find({}, {"_id": False})]
+    
+    return jsonify(gg_datany)
+    
+def datagagarden():
+    # Find one record of data from the mongo database
+    # This creates a python copy of the collection in the db
+    gg_dataga = [data for data in mongo.db["ga_garden"].find({}, {"_id": False})]
+    
+    return jsonify(gg_dataga)
+
+def datagagrad():
+    # Find one record of data from the mongo database
+    # This creates a python copy of the collection in the db
+    gg_dataga = [data for data in mongo.db["ga_grad"].find({}, {"_id": False})]
+    
+    return jsonify(gg_dataga)
+
 
 if __name__ == "__main__":
     app.run(debug=True)

@@ -8,7 +8,7 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
-	<link rel="stylesheet" href="static/css/style.css">
+	<link rel="stylesheet" href="../static/css/style.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
@@ -20,7 +20,7 @@
 					<table class="table" width="100%">
 						<thead>
 							<tr>
-								<td bgcolor="#004466">
+								<td bgcolor="#7279da">
 									<h3>Title:</h3>
 								</td>
 							</tr>
@@ -33,26 +33,26 @@
 						<!--Area for display map & chart-->
 					</div>
 					<div id="img2" class="panelOne">
-						<img src="/images/view2.PNG" width="500" alt="view2"><br />
+						<img src="images/view2.PNG" width="500" alt="view2"><br />
 					</div>
 					<div id="img3" class="panelOne">
-						<img src="/images/daily-normals.png" width="500" alt="view3"><br />
+						<img src="images/daily-normals.png" width="500" alt="view3"><br />
 					</div>
 				</div>
 
 				<div class="text-center panelTwo col-md-4 col-12">
 						<table width="90%" border="1" >
 							<tr>
-								<td bgcolor="#006699">
+								<td bgcolor="#7279da">
 									<h3>Visualizations:</h3><hr class="new5">
 									<div class="col-1  col-sm-4 col-md-12">
-										<img class="imgPanel" src="/images/mapStates.PNG" alt="view1" id="view1">
+										<img class="imgPanel" src="images/mapStates.PNG" alt="view1" id="view1">
 									</div>
 									<div class="col-1 col-sm-4 col-md-12">
-										<img class="imgPanel" src="/images/view2.png" alt="view2" id="view2">
+										<img class="imgPanel" src="images/view2.png" alt="view2" id="view2">
 									</div>
 									<div class="col-1 col-sm-4 col-md-12">
-										<img class="imgPanel" src="/images/daily-normals.png" alt="view3" id="view3">
+										<img class="imgPanel" src="images/daily-normals.png" alt="view3" id="view3">
 									</div>
 								</tdbgcolor="#006699">
 							</tr>
@@ -64,7 +64,7 @@
 			<div class="col-md-7" >
 				<details>
 					<summary>
-						<img class="img1" src="Resources/assets/images/Fig6.png">
+						<img class="img1" src="/images/Fig6.png">
 					</summary>
 					<p><br /><br /><br />
 						the intercept :86.934 <br>
@@ -79,60 +79,11 @@
 	</div>
 	
 
-	<!--<div class="View_Header">
-		<div class="panelOne">
-			<table border="1">
-				<tr>
-					<td>
-						<div id='map' class="panelOne">-->
-	<!--Area for display map & chart-->
-	<!--</div>
-						<div id="img2" class="panelOne">
-							<img src="/images/view2.PNG" alt="view2"><br />
-						</div>
-						<div id="img3" class="panelOne">
-							<img src="/images/daily-normals.png" width="500" alt="view3"><br />
-						</div>
-					</td>
-				</tr>
-			</table>
-		</div>
-		<div class="panelTwo">
-			<table border="1">
-				<thead><tr><th>Visualizations</th></tr></thead>
-				<tbody>
-					<tr>
-						<td>
-							<div class="col-xs-12 col-sm-12 col-md-12">
-								<img class="imgPanel" src="/images/mapStates.PNG" width="150" alt="view1" id="view1"><br />
-							</div>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<div class="col-xs-12 col-sm-12 col-md-12">
-								<img class="imgPanel" src="/images/view2.png" width="150" alt="view2" id="view2"><br />
-							</div>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<div class="col-xs-12 col-sm-12 col-md-12">
-								<img class="imgPanel" src="/images/daily-normals.png" width="150" alt="view3" id="view3"><br />
-							</div>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-		</div>
-	</div>-->
-
-
+	
 </body>
 </html>
+
+    <script src = "/static/js/app.js"> </script>
 	<script src="https://d3js.org/d3.v6.min.js"></script>
-	<script type="text/javascript" src="static/js/us_states.js"></script>
-	<!--<script src="static/js/popper.min.js" ></script>
-	<script src="static/js/bootstrap.min.js"></script>-->
-	<!--<script src="static/js/jquery-3.4.1.slim.min.js"></script>-->
-	<!--<script src="Resources/js/bootstrap.bundle.min.js"></script>-->
+	<script type="text/javascript" src="/static/js/appMap.js"></script>
+	
