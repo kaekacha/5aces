@@ -19,14 +19,7 @@ var countyLinesURL = "../data/us_Counties.json"
         layer.bindPopup("<h3>Gargen Name: " + feature.properties.garden_name +"</h3><h3>County: "+ feature.properties.county +"</h3><hr><p>" + new Date(feature.properties.timestamp) + "</p>");
       },
       pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng,
-          {radius: 10,
-          fillColor: "blue",
-          fillOpacity: .6,
-          color: "#000",
-          stroke: true,
-          weight: .8
-      })
+        return L.marker(latlng)
     }
     });
     createMap(garden);
@@ -84,7 +77,7 @@ var countyLinesURL = "../data/us_Counties.json"
               color: "yellow",
               weight: 2
             })
-            .addTo(CountyLines);
+            .addTo(countyLines);
     });
     L.control.layers(baseMaps, overlayMaps, {
         collapsed: false
