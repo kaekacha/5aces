@@ -3,9 +3,11 @@ var gaGar = "../data/georgia_Garden_DATA.csv"
 var nyGar = "../data/NYGarden.GeoJson"
 var countyLinesURL = "../data/us_Counties.json"
 
-d3.json(nyGar, function(data) {
-    createFeatures(data.features);
-  });
+// d3.json(nyGar, function(data) {
+//     createFeatures(data.features);
+//   });
+// d3.json(nyGar).then(function(data) {
+//   L.geoJson(data)});
 
     function createFeatures(NYG) {
 
@@ -19,7 +21,7 @@ d3.json(nyGar, function(data) {
     });
     createMap(garden);
   }
-  function createMap(NYGarden) {
+  function createMap(garden) {
 
       // Define streetmap and darkmap layers
     var outdoors = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
@@ -93,3 +95,7 @@ legend.onAdd = function(myMap){
 
   legend.addTo(myMap);
 }
+
+d3.json(nyGar).then(function(data) {
+  L.geoJson(data).addTo(myMap)
+});
