@@ -18,6 +18,16 @@ var countyLinesURL = "../data/us_Counties.json"
       onEachFeature: function(feature, layer) {
         layer.bindPopup("<h3>Gargen Name: " + feature.properties.garden_name +"</h3><h3>County: "+ feature.properties.county +"</h3><hr><p>" + new Date(feature.properties.timestamp) + "</p>");
       },
+      pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng,
+          {radius: 10,
+          fillColor: "blue",
+          fillOpacity: .6,
+          color: "#000",
+          stroke: true,
+          weight: .8
+      })
+    }
     });
     createMap(garden);
   }
@@ -96,6 +106,8 @@ legend.onAdd = function(myMap){
   legend.addTo(myMap);
 }
 
-d3.json(nyGar).then(function(data) {
-  L.geoJson(data).addTo(myMap)
-});
+  d3.json(nyGar, function(data) {
+    createFeatures(data)
+    // L.geoJson(data).addTo(myMap)
+  });
+
