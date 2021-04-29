@@ -1,0 +1,7581 @@
+[{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eb3"
+  },
+  "Y": "34.05757316",
+  "X": "-84.654286",
+  "garden_name": "Acworth Intermediate School",
+  "county": "Cobb",
+  "address": "4220 Cantrell Road",
+  "city": "Acworth",
+  "zip_code": "30101",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eb4"
+  },
+  "Y": "33.75505745",
+  "X": "-84.5142291",
+  "garden_name": "Adamsville Elementary School",
+  "county": "Fulton",
+  "address": "286 WILSON MILL RD SW",
+  "city": "ATLANTA",
+  "zip_code": "30331",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eb5"
+  },
+  "Y": "34.02408983",
+  "X": "-84.48989757",
+  "garden_name": "Addison Elementary School",
+  "county": "Cobb",
+  "address": "3055 Ebenezer Rd",
+  "city": "Marietta",
+  "zip_code": "30066",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eb6"
+  },
+  "Y": "34.06804253",
+  "X": "-84.30136954",
+  "garden_name": "Amana Academy Charter School",
+  "county": "Fulton",
+  "address": "285 South Main Street",
+  "city": "Alpharetta",
+  "zip_code": "30009",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eb7"
+  },
+  "Y": "33.77512146",
+  "X": "-84.0481418",
+  "garden_name": "Anderson-Livsey Elementary School",
+  "county": "Gwinnett",
+  "address": "4521 CENTERVILLE HWY",
+  "city": "SNELLVILLE",
+  "zip_code": "30039",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eb8"
+  },
+  "Y": "33.64583014",
+  "X": "-84.13116945",
+  "garden_name": "Arabia Mountain High School",
+  "county": "Dekalb",
+  "address": "6610 Brownsmill Road",
+  "city": "Lithonia",
+  "zip_code": "30038",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eb9"
+  },
+  "Y": "33.8725408",
+  "X": "-84.1410433",
+  "garden_name": "Arcado Elementary School",
+  "county": "Gwinnett",
+  "address": "5150 ARCADO RD SW",
+  "city": "LILBURN",
+  "zip_code": "30047",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eba"
+  },
+  "Y": "33.73540702",
+  "X": "-84.46251492",
+  "garden_name": "BEECHER HILLS ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "2257 BOLLING BROOK DR SW",
+  "city": "ATLANTA",
+  "zip_code": "30311",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ebb"
+  },
+  "Y": "34.01482648",
+  "X": "-84.54824037",
+  "garden_name": "BELLS FERRY ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "2600 BELLS FERRY RD",
+  "city": "MARIETTA",
+  "zip_code": "30066",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ebc"
+  },
+  "Y": "33.891057",
+  "X": "-84.53524772",
+  "garden_name": "BELMONT HILLS ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "605 GLENDALE PL SE",
+  "city": "SMYRNA",
+  "zip_code": "30080",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ebd"
+  },
+  "Y": "33.76048931",
+  "X": "-84.40324475",
+  "garden_name": "BETHUNE ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "220 NORTHSIDE DR NW",
+  "city": "ATLANTA",
+  "zip_code": "30314",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ebe"
+  },
+  "Y": "34.02822148",
+  "X": "-84.59629052",
+  "garden_name": "BIG SHANTY ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "1575 BEN KING RD NW",
+  "city": "KENNESAW",
+  "zip_code": "30144",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ebf"
+  },
+  "Y": "34.03629219",
+  "X": "-84.52763281",
+  "garden_name": "BLACKWELL ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "3470 CANTON RD",
+  "city": "MARIETTA",
+  "zip_code": "30066",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ec0"
+  },
+  "Y": "33.81750381",
+  "X": "-84.45495554",
+  "garden_name": "BOLTON ACADEMY",
+  "county": "Fulton",
+  "address": "2268 ADAMS DR NW",
+  "city": "ATLANTA",
+  "zip_code": "30318",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ec1"
+  },
+  "Y": "33.81079323",
+  "X": "-84.33766405",
+  "garden_name": "BRIAR VISTA ELEMENTARY SCHOOL",
+  "county": "Dekalb",
+  "address": "1131 BRIAR VISTA TER NE",
+  "city": "ATLANTA",
+  "zip_code": "30324",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ec2"
+  },
+  "Y": "33.83708878",
+  "X": "-84.2232519",
+  "garden_name": "BROCKETT ELEMENTARY SCHOOL",
+  "county": "Dekalb",
+  "address": "1855 Brockett Road",
+  "city": "Tucker",
+  "zip_code": "30084",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ec3"
+  },
+  "Y": "33.6995999",
+  "X": "-84.37250657",
+  "garden_name": "BURGESS-PETERSON ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "2025 Jonesboro Road",
+  "city": "Atlanta",
+  "zip_code": "30315",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ec4"
+  },
+  "Y": "33.71794252",
+  "X": "-84.46538331",
+  "garden_name": "CASCADE ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "2326 VENETIAN DR SW",
+  "city": "ATLANTA",
+  "zip_code": "30311",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ec5"
+  },
+  "Y": "33.6863104",
+  "X": "-84.29153521",
+  "garden_name": "CEDAR GROVE MIDDLE SCHOOL",
+  "county": "Dekalb",
+  "address": "2300 WILDCAT RD",
+  "city": "DECATUR",
+  "zip_code": "30034",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ec6"
+  },
+  "Y": "33.76901346",
+  "X": "-84.39593289",
+  "garden_name": "Centennial Place Elementary School",
+  "county": "Fulton",
+  "address": "531 Luckie Street",
+  "city": "Atlanta",
+  "zip_code": "30313",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ec7"
+  },
+  "Y": "34.04639349",
+  "X": "-84.55693591",
+  "garden_name": "CHALKER ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "325 N BOOTH RD NW",
+  "city": "KENNESAW",
+  "zip_code": "30144",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ec8"
+  },
+  "Y": "33.89711035",
+  "X": "-84.31183227",
+  "garden_name": "CHAMBLEE MIDDLE SCHOOL",
+  "county": "Dekalb",
+  "address": "3601 Sexton Woods Drive",
+  "city": "Chamblee",
+  "zip_code": "30341",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ec9"
+  },
+  "Y": "33.80580951",
+  "X": "-84.17324729",
+  "garden_name": "CHAMPION MIDDLE THEME SCHOOL",
+  "county": "Dekalb",
+  "address": "5265 MIMOSA DR",
+  "city": "STONE MOUNTAIN",
+  "zip_code": "30083",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eca"
+  },
+  "Y": "33.74483015",
+  "X": "-84.31425637",
+  "garden_name": "CHARLES DREW CHARTER SCHOOL",
+  "county": "Dekalb",
+  "address": "301 E LAKE BLVD SE",
+  "city": "ATLANTA",
+  "zip_code": "30317",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ecb"
+  },
+  "Y": "33.84413124",
+  "X": "-84.65083066",
+  "garden_name": "CLARKDALE ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "4455 WESLEY DR",
+  "city": "AUSTELL",
+  "zip_code": "30106",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ecc"
+  },
+  "Y": "33.68228427",
+  "X": "-84.39397173",
+  "garden_name": "Cleveland Avenue Elementary",
+  "county": "Fulton",
+  "address": "2672 OLD HAPEVILLE RD SW",
+  "city": "ATLANTA",
+  "zip_code": "30315",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ecd"
+  },
+  "Y": "33.73117311",
+  "X": "-84.44190444",
+  "garden_name": "E.L. Connally Elementary School",
+  "county": "Fulton",
+  "address": "1654 S ALVARADO TER SW",
+  "city": "ATLANTA",
+  "zip_code": "30311",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ece"
+  },
+  "Y": "33.84097297",
+  "X": "-84.63649226",
+  "garden_name": "COOPER MIDDLE SCHOOL",
+  "county": "Cobb",
+  "address": "4605 EWING RD",
+  "city": "AUSTELL",
+  "zip_code": "30106",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ecf"
+  },
+  "Y": "33.78905007",
+  "X": "-84.47910546",
+  "garden_name": "CORETTA SCOTT KING YOUNG WOMEN'S ACADEMY MIDDLE SC",
+  "county": "Fulton",
+  "address": "1190 Northwest Dr.",
+  "city": "Atlanta",
+  "zip_code": "30318",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ed0"
+  },
+  "Y": "33.66777803",
+  "X": "-84.39488741",
+  "garden_name": "Crawford W. Long Middle School",
+  "county": "Fulton",
+  "address": "3200 Latona Drive",
+  "city": "Atlanta",
+  "zip_code": "30354",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ed1"
+  },
+  "Y": "33.72795984",
+  "X": "-84.38309077",
+  "garden_name": "D. H. STANTON ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "970 MARTIN ST SE",
+  "city": "ATLANTA",
+  "zip_code": "30315",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ed2"
+  },
+  "Y": "33.67118784",
+  "X": "-84.51429795",
+  "garden_name": "DEERWOOD ACADEMY SCHOOL",
+  "county": "Fulton",
+  "address": "3070 FAIRBURN RD SW",
+  "city": "ATLANTA",
+  "zip_code": "30331",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ed3"
+  },
+  "Y": "33.6995999",
+  "X": "-84.37250657",
+  "garden_name": "DOBBS ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "2025 JONESBORO RD SE",
+  "city": "ATLANTA",
+  "zip_code": "30315",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ed4"
+  },
+  "Y": "33.81861491",
+  "X": "-84.2723096",
+  "garden_name": "DRUID HILLS MIDDLE SCHOOL",
+  "county": "Dekalb",
+  "address": "3100 MOUNT OLIVE DR",
+  "city": "DECATUR",
+  "zip_code": "30033",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ed5"
+  },
+  "Y": "33.74116368",
+  "X": "-84.40153782",
+  "garden_name": "DUNBAR ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "500 Whitehall Terrace SW",
+  "city": "ATLANTA",
+  "zip_code": "30312",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ed6"
+  },
+  "Y": "33.91642837",
+  "X": "-84.54251444",
+  "garden_name": "FAIR OAKS ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "407 BARBER RD SE",
+  "city": "MARIETTA",
+  "zip_code": "30060",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ed7"
+  },
+  "Y": "33.69664698",
+  "X": "-84.51416884",
+  "garden_name": "FICKETT ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "3935 RUX RD SW",
+  "city": "ATLANTA",
+  "zip_code": "30331",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ed8"
+  },
+  "Y": "33.98705001",
+  "X": "-84.71492723",
+  "garden_name": "FORD ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "1345 MARS HILL RD NW",
+  "city": "ACWORTH",
+  "zip_code": "30101",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ed9"
+  },
+  "Y": "33.83179476",
+  "X": "-84.378745",
+  "garden_name": "GARDEN HILLS ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "285 Sheridan Drive, NE",
+  "city": "Atlanta",
+  "zip_code": "30305",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eda"
+  },
+  "Y": "34.04945976",
+  "X": "-84.43319892",
+  "garden_name": "GARRISON MILL ELEMENTARY",
+  "county": "Cobb",
+  "address": "4111 WESLEY CHAPEL RD",
+  "city": "MARIETTA",
+  "zip_code": "30062",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669edb"
+  },
+  "Y": "33.77562372",
+  "X": "-84.50432809",
+  "garden_name": "George Alexander Towns Elementary",
+  "county": "Fulton",
+  "address": "760 Bolton Road",
+  "city": "Atlanta",
+  "zip_code": "30331",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669edc"
+  },
+  "Y": "33.73060682",
+  "X": "-84.40512998",
+  "garden_name": "GIDEONS ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "897 WELCH ST SW",
+  "city": "ATLANTA",
+  "zip_code": "30310",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669edd"
+  },
+  "Y": "33.77238789",
+  "X": "-84.4442144",
+  "garden_name": "Grove Park Intermediate School",
+  "county": "Fulton",
+  "address": "20 EVELYN WAY NW",
+  "city": "ATLANTA",
+  "zip_code": "30318",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ede"
+  },
+  "Y": "33.81148733",
+  "X": "-84.20587284",
+  "garden_name": "Hambrick Elementary School",
+  "county": "Dekalb",
+  "address": "1101 Hambrick Road",
+  "city": "Stone Mountain",
+  "zip_code": "30083",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669edf"
+  },
+  "Y": "33.65965",
+  "X": "-84.37903794",
+  "garden_name": "HERITAGE ACADEMY ELEMENTARY",
+  "county": "Fulton",
+  "address": "3500 VILLA CIR SE",
+  "city": "ATLANTA",
+  "zip_code": "30354",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ee0"
+  },
+  "Y": "34.17135704",
+  "X": "-84.47390287",
+  "garden_name": "HOLLY SPRINGS ELEMENTARY SCHOOL",
+  "county": "Cherokee",
+  "address": "1965 HICKORY RD",
+  "city": "CANTON",
+  "zip_code": "30115",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ee1"
+  },
+  "garden_name": "FINCH ELEMENTARY",
+  "county": "Fulton",
+  "address": "111 AVON AVENUE. S.W.",
+  "city": "ATLANTA",
+  "zip_code": "30310",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ee2"
+  },
+  "Y": "33.92786106",
+  "X": "-84.00043342",
+  "garden_name": "HOLT ELEMENTARY SCHOOL",
+  "county": "Gwinnett",
+  "address": "588 OLD SNELLVILLE HWY",
+  "city": "LAWRENCEVILLE",
+  "zip_code": "30046",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ee3"
+  },
+  "Y": "33.75748006",
+  "X": "-84.37226765",
+  "garden_name": "HOPE HILL ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "112 BOULEVARD NE",
+  "city": "ATLANTA",
+  "zip_code": "30312",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ee4"
+  },
+  "Y": "33.67282371",
+  "X": "-84.37661918",
+  "garden_name": "HUMPHRIES ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "3029 HUMPHRIES DR SE",
+  "city": "ATLANTA",
+  "zip_code": "30354",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ee5"
+  },
+  "Y": "33.68117369",
+  "X": "-84.41020809",
+  "garden_name": "HUTCHINSON ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "650 CLEVELAND AVE SW",
+  "city": "ATLANTA",
+  "zip_code": "30315",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ee6"
+  },
+  "Y": "33.80194058",
+  "X": "-84.28953463",
+  "garden_name": "INTERNATIONAL COMMUNITY SCHOOL",
+  "county": "Dekalb",
+  "address": "2418 Wood Trail Lane",
+  "city": "DECATUR",
+  "zip_code": "30033",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ee7"
+  },
+  "Y": "33.76780849",
+  "X": "-84.37473866",
+  "garden_name": "The Intown Academy",
+  "county": "Fulton",
+  "address": "386 PINE ST NE",
+  "city": "ATLANTA",
+  "zip_code": "30308",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ee8"
+  },
+  "Y": "33.8105776",
+  "X": "-84.22511592",
+  "garden_name": "JOLLY ELEMENTARY SCHOOL",
+  "county": "Dekalb",
+  "address": "1070 OTELLO AVE",
+  "city": "CLARKSTON",
+  "zip_code": "30021",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ee9"
+  },
+  "Y": "34.06070221",
+  "X": "-84.49513667",
+  "garden_name": "KEHELEY ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "1985 KEMP RD",
+  "city": "MARIETTA",
+  "zip_code": "30066",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eea"
+  },
+  "Y": "33.93222199",
+  "X": "-84.70169867",
+  "garden_name": "KEMP ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "865 CORNER RD",
+  "city": "POWDER SPRINGS",
+  "zip_code": "30127",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eeb"
+  },
+  "Y": "34.02721402",
+  "X": "-84.59118721",
+  "garden_name": "KENNESAW CHARTER SCHOOL",
+  "county": "Cobb",
+  "address": "1370 LOCKHART DR NW",
+  "city": "KENNESAW",
+  "zip_code": "30144",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eec"
+  },
+  "Y": "33.70287118",
+  "X": "-84.48990255",
+  "garden_name": "KIMBERLY ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "3090 McMurray Dr. SW",
+  "city": "Atlanta",
+  "zip_code": "30311",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eed"
+  },
+  "Y": "34.00185702",
+  "X": "-84.5108601",
+  "garden_name": "KINCAID ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "1410 Kincaid Road",
+  "city": "Marietta",
+  "zip_code": "30066",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eee"
+  },
+  "Y": "33.75616159",
+  "X": "-84.45120054",
+  "garden_name": "KINDEZI School",
+  "county": "Fulton",
+  "address": "98 ANDERSON AVE NW",
+  "city": "ATLANTA",
+  "zip_code": "30314",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eef"
+  },
+  "Y": "33.73887983",
+  "X": "-84.37906451",
+  "garden_name": "KING MIDDLE SCHOOL",
+  "county": "Fulton",
+  "address": "545 HILL ST SE",
+  "city": "ATLANTA",
+  "zip_code": "30312",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ef0"
+  },
+  "Y": "33.85375708",
+  "X": "-84.52352525",
+  "garden_name": "KING SPRINGS ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "1041 REED RD SE",
+  "city": "SMYRNA",
+  "zip_code": "30082",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ef1"
+  },
+  "Y": "33.74240224",
+  "X": "-84.43513984",
+  "garden_name": "KIPP STRIVE PRIMARY SCHOOL",
+  "county": "Fulton",
+  "address": "1448 LUCILE AVE SW",
+  "city": "ATLANTA",
+  "zip_code": "30310",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ef2"
+  },
+  "Y": "33.88637347",
+  "X": "-84.10300003",
+  "garden_name": "KNIGHT ELEMENTARY SCHOOL",
+  "county": "Gwinnett",
+  "address": "401 N. River Dr.",
+  "city": "Lilburn",
+  "zip_code": "30047",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ef3"
+  },
+  "Y": "33.89614402",
+  "X": "-84.55417355",
+  "garden_name": "LABELLE ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "230 CRESSON DR SW",
+  "city": "MARIETTA",
+  "zip_code": "30060",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ef4"
+  },
+  "Y": "33.8147173",
+  "X": "-84.27685897",
+  "garden_name": "LAUREL RIDGE ELEMENTARY SCHOOL",
+  "county": "Dekalb",
+  "address": "1215 BALSAM DR",
+  "city": "DECATUR",
+  "zip_code": "30033",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ef5"
+  },
+  "Y": "33.748919",
+  "X": "-84.4221026",
+  "garden_name": "M Agnes Jones Elementary",
+  "county": "Fulton",
+  "address": "1040 FAIR ST SW",
+  "city": "ATLANTA",
+  "zip_code": "30314",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ef6"
+  },
+  "Y": "33.82574232",
+  "X": "-84.58201583",
+  "garden_name": "MABLETON ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "5220 CHURCH ST SW",
+  "city": "MABLETON",
+  "zip_code": "30126",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ef7"
+  },
+  "Y": "33.72946962",
+  "X": "-84.15362792",
+  "garden_name": "Marbut Theme School",
+  "county": "Dekalb",
+  "address": "5776 Marbut Road",
+  "city": "Lithonia",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ef8"
+  },
+  "Y": "33.75368271",
+  "X": "-84.52498913",
+  "garden_name": "Miles Intermediate Elementary",
+  "county": "Fulton",
+  "address": "4215 Bakers Ferry RD SW",
+  "city": "Atlanta",
+  "zip_code": "30331",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ef9"
+  },
+  "Y": "33.91498527",
+  "X": "-84.12618173",
+  "garden_name": "MINOR ELEMENTARY SCHOOL",
+  "county": "Gwinnett",
+  "address": "4129 SHADY DR NW",
+  "city": "LILBURN",
+  "zip_code": "30047",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669efa"
+  },
+  "Y": "33.79729291",
+  "X": "-84.35261211",
+  "garden_name": "MORNINGSIDE ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "1053 E ROCK SPRINGS RD NE",
+  "city": "ATLANTA",
+  "zip_code": "30306",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669efb"
+  },
+  "Y": "33.97884164",
+  "X": "-84.4189102",
+  "garden_name": "MOUNT BETHEL ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "1210 JOHNSON FERRY RD",
+  "city": "MARIETTA",
+  "zip_code": "30068",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669efc"
+  },
+  "garden_name": "LAWRENCEVILLE ELEMENTARY SCHOOL",
+  "county": "Gwinnett",
+  "address": "122 GWINNETT DR",
+  "city": "LAWRENCEVILLE",
+  "zip_code": "30045",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669efd"
+  },
+  "Y": "33.92467999",
+  "X": "-84.37165916",
+  "garden_name": "Mount Vernon Presbyterian School",
+  "county": "Fulton",
+  "address": "471 Mount Vernon Highway",
+  "city": "Atlanta",
+  "zip_code": "30328",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669efe"
+  },
+  "Y": "33.55462401",
+  "X": "-84.29204638",
+  "garden_name": "Mt Zion Elementary",
+  "county": "Clayton",
+  "address": "2984 Mt Zion RD",
+  "city": "Jonesboro",
+  "zip_code": "30236",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669eff"
+  },
+  "Y": "33.55462401",
+  "X": "-84.29204638",
+  "garden_name": "Mt Zion Primary School",
+  "county": "Clayton",
+  "address": "2984 Mt Zion Road",
+  "city": "Jonesboro",
+  "zip_code": "30236",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f00"
+  },
+  "Y": "33.8419851",
+  "X": "-84.51752464",
+  "garden_name": "NICKAJACK ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "4555 MAVELL RD SE",
+  "city": "SMYRNA",
+  "zip_code": "30082",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f01"
+  },
+  "Y": "33.73549113",
+  "X": "-84.36466522",
+  "garden_name": "PARKSIDE ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "685 Mercer St. SE",
+  "city": "Atlanta",
+  "zip_code": "30312",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f02"
+  },
+  "Y": "33.74781653",
+  "X": "-84.47650673",
+  "garden_name": "PEYTON FOREST ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "301 Peyton Forest Road",
+  "city": "Atlanta",
+  "zip_code": "30311",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f03"
+  },
+  "Y": "33.6149527",
+  "X": "-84.62242892",
+  "garden_name": "Renaissance Middle School",
+  "county": "Fulton",
+  "address": "7155 Hall Road",
+  "city": "Fairburn",
+  "zip_code": "30213",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f04"
+  },
+  "Y": "33.90021866",
+  "X": "-84.35871539",
+  "garden_name": "Ridgeview Charter School",
+  "county": "Fulton",
+  "address": "5340 S Trimble Rd",
+  "city": "Atlanta",
+  "zip_code": "30342",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f05"
+  },
+  "Y": "33.79071869",
+  "X": "-84.56298897",
+  "garden_name": "Riverside Intermediate School",
+  "county": "Cobb",
+  "address": "285 S Gordon Road",
+  "city": "Mableton",
+  "zip_code": "30126",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f06"
+  },
+  "Y": "33.78920629",
+  "X": "-84.56851608",
+  "garden_name": "RIVERSIDE PRIMARY SCHOOL",
+  "county": "Cobb",
+  "address": "461 S GORDON RD SW",
+  "city": "MABLETON",
+  "zip_code": "30126",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f07"
+  },
+  "Y": "33.8589209",
+  "X": "-84.56836546",
+  "garden_name": "RUSSELL ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "3920 S HURT RD SW",
+  "city": "SMYRNA",
+  "zip_code": "30082",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f08"
+  },
+  "Y": "33.83260503",
+  "X": "-84.30467186",
+  "garden_name": "SAGAMORE HILLS ELEMENTARY SCHOOL",
+  "county": "Dekalb",
+  "address": "1865 ALDERBROOK RD NE",
+  "city": "ATLANTA",
+  "zip_code": "30345",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f09"
+  },
+  "Y": "33.86479636",
+  "X": "-84.37185281",
+  "garden_name": "Sarah Smith Intermediate",
+  "county": "Fulton",
+  "address": "4141 Wieuca Rd",
+  "city": "Atlanta",
+  "zip_code": "30342",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f0a"
+  },
+  "Y": "33.8576726",
+  "X": "-84.37439864",
+  "garden_name": "Sarah Smith Primary School",
+  "county": "Fulton",
+  "address": "370 Old Ivy Road",
+  "city": "Atlanta",
+  "zip_code": "30342",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f0b"
+  },
+  "Y": "34.03284975",
+  "X": "-84.43714612",
+  "garden_name": "SHALLOWFORD FALLS ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "3529 LASSITER RD",
+  "city": "MARIETTA",
+  "zip_code": "30062",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f0c"
+  },
+  "Y": "33.71861316",
+  "X": "-84.39324522",
+  "garden_name": "SLATER ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "1320 PRYOR RD SW",
+  "city": "ATLANTA",
+  "zip_code": "30315",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f0d"
+  },
+  "Y": "33.88946069",
+  "X": "-84.52142869",
+  "garden_name": "Smyrna Elementary",
+  "county": "Cobb",
+  "address": "1099 Fleming Street",
+  "city": "Smyrna",
+  "zip_code": "30080",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f0e"
+  },
+  "Y": "33.77449659",
+  "X": "-84.3468255",
+  "garden_name": "SPRINGDALE PARK ELEMENTARY SCHOOL",
+  "county": "Dekalb",
+  "address": "1246 PONCE DE LEON AVE NE",
+  "city": "ATLANTA",
+  "zip_code": "30306",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f0f"
+  },
+  "Y": "33.93273975",
+  "X": "-84.66208655",
+  "garden_name": "STILL ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "870 CASTEEL RD",
+  "city": "POWDER SPRINGS",
+  "zip_code": "30127",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f10"
+  },
+  "Y": "33.88172672",
+  "X": "-84.23122247",
+  "garden_name": "Tapestry Public Charter",
+  "county": "Dekalb",
+  "address": "4046 Chamblee Tucker Road",
+  "city": "Atlanta",
+  "zip_code": "30340",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f11"
+  },
+  "Y": "33.78682101",
+  "X": "-84.41741385",
+  "garden_name": "The Howard School",
+  "county": "Fulton",
+  "address": "1192 Foster St NW",
+  "city": "Atlanta",
+  "zip_code": "30318",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f12"
+  },
+  "Y": "34.06988797",
+  "X": "-84.30002298",
+  "garden_name": "The Lionheart School",
+  "county": "Fulton",
+  "address": "225 Roswell Street",
+  "city": "Alpharetta",
+  "zip_code": "30009",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f13"
+  },
+  "Y": "33.76767544",
+  "X": "-84.27128688",
+  "garden_name": "The Museum School",
+  "county": "Dekalb",
+  "address": "923 Forrest Blvd",
+  "city": "Decatur",
+  "zip_code": "30030",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f14"
+  },
+  "Y": "33.75513754",
+  "X": "-84.32900249",
+  "garden_name": "TOOMER ELEMENTARY SCHOOL",
+  "county": "Dekalb",
+  "address": "65 ROGERS ST NE",
+  "city": "ATLANTA",
+  "zip_code": "30317",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f15"
+  },
+  "Y": "34.0166028",
+  "X": "-84.42091805",
+  "garden_name": "Tritt Elementary",
+  "county": "Cobb",
+  "address": "4435 Post Oak Tritt Road",
+  "city": "Marietta",
+  "zip_code": "30062",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f16"
+  },
+  "Y": "33.84749395",
+  "X": "-84.21343585",
+  "garden_name": "TUCKER MIDDLE SCHOOL",
+  "county": "Dekalb",
+  "address": "2160 IDLEWOOD RD",
+  "city": "TUCKER",
+  "zip_code": "30084",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f17"
+  },
+  "Y": "33.77218698",
+  "X": "-84.49539619",
+  "garden_name": "Usher-Collier Heights Elementary",
+  "county": "Fulton",
+  "address": "631 Harwell Road",
+  "city": "Atlanta",
+  "zip_code": "30318",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f18"
+  },
+  "Y": "33.89528548",
+  "X": "-84.69427087",
+  "garden_name": "VARNER ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "4761 GAYDON RD",
+  "city": "POWDER SPRINGS",
+  "zip_code": "30127",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f19"
+  },
+  "Y": "33.95942574",
+  "X": "-84.7238949",
+  "garden_name": "VAUGHAN ELEMENTARY SCHOOL",
+  "county": "Cobb",
+  "address": "5950 NICHOLS RD",
+  "city": "POWDER SPRINGS",
+  "zip_code": "30127",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f1a"
+  },
+  "Y": "33.87123946",
+  "X": "-84.42192099",
+  "garden_name": "Warren T Jackson Elementary School",
+  "county": "Fulton",
+  "address": "1325 MOUNT PARAN RD NW",
+  "city": "ATLANTA",
+  "zip_code": "30327",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f1b"
+  },
+  "Y": "33.74672326",
+  "X": "-84.3807262",
+  "garden_name": "Wesley International Academy",
+  "county": "Dekalb",
+  "address": "211 Memorial Drive",
+  "city": "Atlanta",
+  "zip_code": "30312",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f1c"
+  },
+  "Y": "33.7400119",
+  "X": "-84.49066863",
+  "garden_name": "WEST MANOR ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "570 LYNHURST DR SW",
+  "city": "ATLANTA",
+  "zip_code": "30311",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f1d"
+  },
+  "Y": "34.14460798",
+  "X": "-84.06399558",
+  "garden_name": "WHITE OAK ELEMENTARY SCHOOL",
+  "county": "Gwinnett",
+  "address": "6442 SUWANEE DAM RD",
+  "city": "Sugar Hill",
+  "zip_code": "30518",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f1e"
+  },
+  "Y": "33.80333286",
+  "X": "-84.47042428",
+  "garden_name": "William J Scott ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "1752 Hollywood Road NW",
+  "city": "ATLANTA",
+  "zip_code": "30318",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f1f"
+  },
+  "Y": "33.66609657",
+  "X": "-84.47870535",
+  "garden_name": "Woodland Middle School",
+  "county": "Fulton",
+  "address": "2745 Stone Rd",
+  "city": "East Point",
+  "zip_code": "30344",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f20"
+  },
+  "Y": "33.77217809",
+  "X": "-84.44029128",
+  "garden_name": "WOODSON ELEMENTARY SCHOOL",
+  "county": "Fulton",
+  "address": "1605 DONALD LEE HOLLOWELL PKWY",
+  "city": "ATLANTA",
+  "zip_code": "30318",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f21"
+  },
+  "Y": "33.78706177",
+  "X": "-84.47786768",
+  "garden_name": "AD Williams Park",
+  "county": "Fulton",
+  "address": "James Jackson Parkway",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f22"
+  },
+  "Y": "33.73332215",
+  "X": "-84.40449736",
+  "garden_name": "Welch Street Community Garden",
+  "county": "Fulton",
+  "address": "Welch Street",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f23"
+  },
+  "Y": "33.77180708",
+  "X": "-84.28399539",
+  "garden_name": "Academe of the Oaks",
+  "county": "DeKalb",
+  "address": "New Street",
+  "city": "Decatur",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f24"
+  },
+  "Y": "33.77414942",
+  "X": "-84.41941961",
+  "garden_name": "Redoubt Garden at ACFB",
+  "county": "Fulton",
+  "address": "Joseph E. Lowery Blvd",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f25"
+  },
+  "Y": "33.7569579",
+  "X": "-84.49961048",
+  "garden_name": "Adamsville Community Garden",
+  "county": "Fulton",
+  "address": "Delmar Lane",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f26"
+  },
+  "Y": "33.70574933",
+  "X": "-84.37976957",
+  "garden_name": "Albert T. Mills Enrichment Center",
+  "county": "Fulton",
+  "address": "Lakewood Avenue",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f27"
+  },
+  "Y": "33.75181455",
+  "X": "-84.27485665",
+  "garden_name": "Good Things Garden",
+  "county": "DeKalb",
+  "address": "Rupert Road",
+  "city": "Decatur",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f28"
+  },
+  "Y": "33.76896384",
+  "X": "-84.32733717",
+  "garden_name": "Frazer Center",
+  "county": "DeKalb",
+  "address": "Ponce de Leon Avenue",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f29"
+  },
+  "Y": "33.8182149",
+  "X": "-84.37701754",
+  "garden_name": "Peachtree Hills Park Community Garden",
+  "county": "Fulton",
+  "address": "Peachtree Hills Avenue NE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f2a"
+  },
+  "Y": "33.73371949",
+  "X": "-84.42954323",
+  "garden_name": "Atwood Street Garden",
+  "county": "Fulton",
+  "address": "Atwood Street SW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f2b"
+  },
+  "Y": "33.80327344",
+  "X": "-84.16704348",
+  "garden_name": "Frances Smith Stone Mountain Community Garden",
+  "county": "DeKalb",
+  "address": "Venable Street",
+  "city": "Stone Mountain",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f2c"
+  },
+  "Y": "33.80496711",
+  "X": "-84.17747622",
+  "garden_name": "Stone Mountain VFW Park Community Garden",
+  "county": "DeKalb",
+  "address": "Gordon Street",
+  "city": "Stone Mountain",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f2d"
+  },
+  "Y": "33.84977627",
+  "X": "-84.19252219",
+  "garden_name": "Smokerise Community Garden",
+  "county": "DeKalb",
+  "address": "Hugh Howell Road",
+  "city": "Stone Mountain",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f2e"
+  },
+  "Y": "33.77258642",
+  "X": "-84.3709775",
+  "garden_name": "Boulevard Community Garden",
+  "county": "Fulton",
+  "address": "Boulevard",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f2f"
+  },
+  "Y": "33.71632141",
+  "X": "-84.38914363",
+  "garden_name": "Veranda at Carver Senior Residences Community Garden",
+  "county": "Fulton",
+  "address": "Thirkeld Avenue",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f30"
+  },
+  "Y": "33.80944623",
+  "X": "-84.26397479",
+  "garden_name": "Birch Grove Apartment Garden - Global Growers",
+  "county": "DeKalb",
+  "address": "Cedar Creek Parkway",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f31"
+  },
+  "Y": "33.86775713",
+  "X": "-84.38064008",
+  "garden_name": "Blue Heron Nature Preserve Community Garden",
+  "county": "Fulton",
+  "address": "Roswell Road",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f32"
+  },
+  "Y": "33.66688469",
+  "X": "-84.44625582",
+  "garden_name": "Metro Atlanta Urban Farm",
+  "county": "Fulton",
+  "address": "Main Street",
+  "city": "College Park",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f33"
+  },
+  "Y": "33.66688199",
+  "X": "-84.44618756",
+  "garden_name": "Metro Atlanta Urban Farm",
+  "county": "Fulton",
+  "address": "Main Street",
+  "city": "College Park",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f34"
+  },
+  "Y": "33.73488226",
+  "X": "-84.42174496",
+  "garden_name": "Patchwork City Farms at Brown Middle School",
+  "county": "Fulton",
+  "address": "765 Peeples Street SW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f35"
+  },
+  "Y": "33.73488254",
+  "X": "-84.42160943",
+  "garden_name": "Patchwork City Farms at Brown Middle School",
+  "county": "Fulton",
+  "address": "Peeples Street",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f36"
+  },
+  "Y": "33.73749393",
+  "X": "-84.34659289",
+  "garden_name": "Brownwood Park Community Garden",
+  "county": "Fulton",
+  "address": "Pendleton Street",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f37"
+  },
+  "Y": "33.75899845",
+  "X": "-84.26047426",
+  "garden_name": "Meadowbrook Community Garden",
+  "county": "DeKalb",
+  "address": "Bobbie Lane",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f38"
+  },
+  "Y": "33.74120865",
+  "X": "-84.31409639",
+  "garden_name": "East Lake Senior Tower",
+  "county": "DeKalb",
+  "address": "380 E Lake Blvd SE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f39"
+  },
+  "Y": "33.75014186",
+  "X": "-84.36653016",
+  "garden_name": "Cabbagetown Community Garden",
+  "county": "Fulton",
+  "address": "Berean Avenue SE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f3a"
+  },
+  "Y": "33.85724431",
+  "X": "-84.35160295",
+  "garden_name": "Canterbury Court Retirement Community",
+  "county": "Fulton",
+  "address": "Peachtree Road NE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f3b"
+  },
+  "Y": "34.23345152",
+  "X": "-84.4465367",
+  "garden_name": "Canton Community Victory Garden",
+  "county": "Cherokee",
+  "address": "Big Oak Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f3c"
+  },
+  "Y": "33.7325968",
+  "X": "-84.38852152",
+  "garden_name": "Capitol Avenue High Rise Community Garden",
+  "county": "Fulton",
+  "address": "Hank Aaron Drive",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f3d"
+  },
+  "Y": "33.71455154",
+  "X": "-84.40914433",
+  "garden_name": "Capitol View Community Garden",
+  "county": "Fulton",
+  "address": "Athens Avenue SW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f3e"
+  },
+  "Y": "33.98105271",
+  "X": "-84.12819559",
+  "garden_name": "Cardinal Lake Community Garden",
+  "county": "Gwinnett",
+  "address": "Cardinal Lake Circle NW",
+  "city": "Duluth",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f3f"
+  },
+  "Y": "33.58840665",
+  "X": "-84.27734157",
+  "garden_name": "Carl Rhodenizer Recreation Center Community Garden",
+  "county": "Clayton",
+  "address": "Rex Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f40"
+  },
+  "Y": "33.95285594",
+  "X": "-84.6626596",
+  "garden_name": "Green Meadows Community Garden",
+  "county": "Cobb",
+  "address": "Old Hamilton Road",
+  "city": "Marietta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f41"
+  },
+  "Y": "34.01509603",
+  "X": "-84.43177557",
+  "garden_name": "Crossroads Community Garden Project",
+  "county": "Cobb",
+  "address": "Post Oak Tritt Road NE",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f42"
+  },
+  "Y": "34.02685071",
+  "X": "-84.61052399",
+  "garden_name": "Plant-A-Row Project at Fountain Gate Counseling Center",
+  "county": "Cobb",
+  "address": "Cherokee Street",
+  "city": "Kennesaw",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f43"
+  },
+  "Y": "33.75635178",
+  "X": "-84.45584125",
+  "garden_name": "Anderson Park Community Garden",
+  "county": "Fulton",
+  "address": "Calloway Drive",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f44"
+  },
+  "Y": "33.43288046",
+  "X": "-84.30660836",
+  "garden_name": "Lovejoy City Garden",
+  "county": "Clayton",
+  "address": "North Steele Drive",
+  "city": "Lovejoy",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f45"
+  },
+  "Y": "33.43288057",
+  "X": "-84.30651499",
+  "garden_name": "Lovejoy City Garden",
+  "county": "Clayton",
+  "address": "North Steele Drive",
+  "city": "Lovejoy",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f46"
+  },
+  "Y": "33.8497545",
+  "X": "-84.32878661",
+  "garden_name": "Briarwood Park Community Garden",
+  "county": "DeKalb",
+  "address": "Briarwood Park Road",
+  "city": "Brookhaven",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f47"
+  },
+  "Y": "33.52838658",
+  "X": "-84.31338147",
+  "garden_name": "Charley Griswell Senior Community Garden",
+  "county": "Clayton",
+  "address": "Highway 138",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f48"
+  },
+  "Y": "34.00470669",
+  "X": "-84.38379817",
+  "garden_name": "Unity Garden at Chattahoochee Nature Center",
+  "county": "Fulton",
+  "address": "Willeo Road",
+  "city": "Roswell",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f49"
+  },
+  "Y": "34.19512716",
+  "X": "-84.49486283",
+  "garden_name": "Cherokee County Community Garden",
+  "county": "Cherokee",
+  "address": "Univeter Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f4a"
+  },
+  "Y": "34.06015114",
+  "X": "-84.39964682",
+  "garden_name": "Christ UMC Roswell",
+  "county": "Fulton",
+  "address": "Woodstock Road",
+  "city": "Roswell",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f4b"
+  },
+  "Y": "33.86384954",
+  "X": "-84.35815212",
+  "garden_name": "Little Nancy Creek Community Garden",
+  "county": "Fulton",
+  "address": "Peachtree-Dunwoody Road NE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f4c"
+  },
+  "Y": "33.80489751",
+  "X": "-84.23679006",
+  "garden_name": "Clarkston Community Center",
+  "county": "DeKalb",
+  "address": "College Avenue",
+  "city": "Clarkston",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f4d"
+  },
+  "Y": "33.76102457",
+  "X": "-84.43014008",
+  "garden_name": "City of Refuge",
+  "county": "Fulton",
+  "address": "Andrews Street NW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f4e"
+  },
+  "Y": "33.77082124",
+  "X": "-84.41063295",
+  "garden_name": "Mattie Freeland Community Garden",
+  "county": "Fulton",
+  "address": "Echo Street",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f4f"
+  },
+  "Y": "33.75787043",
+  "X": "-84.29761803",
+  "garden_name": "College Heights Early Learning Center Garden",
+  "county": "DeKalb",
+  "address": "South McDonough Street",
+  "city": "Decatur",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f50"
+  },
+  "Y": "33.77076326",
+  "X": "-84.375816",
+  "garden_name": "Cosby Spear Memorial Tower Community Garden",
+  "county": "Fulton",
+  "address": "355 North Avenue",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f51"
+  },
+  "Y": "33.76916584",
+  "X": "-84.50687694",
+  "garden_name": "Collier Heights Park Community Garden",
+  "county": "Fulton",
+  "address": "Collier Drive NW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f52"
+  },
+  "Y": "33.74890436",
+  "X": "-84.32833453",
+  "garden_name": "Kirkwood Urban Forest and Community Garden",
+  "county": "DeKalb",
+  "address": "Dixie Street SE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f53"
+  },
+  "Y": "33.75073218",
+  "X": "-84.30995924",
+  "garden_name": "East Lake Urban Farm",
+  "county": "DeKalb",
+  "address": "2nd Avenue",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f54"
+  },
+  "Y": "33.72572343",
+  "X": "-84.38826593",
+  "garden_name": "Four Corners Park Community Garden",
+  "county": "Fulton",
+  "address": "Hank Aaron Drive SW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f55"
+  },
+  "Y": "33.75553322",
+  "X": "-84.33189382",
+  "garden_name": "Gilliam Park Community Garden",
+  "county": "DeKalb",
+  "address": "Wade Avenue",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f56"
+  },
+  "Y": "33.97497352",
+  "X": "-84.33219866",
+  "garden_name": "Garden Isaiah",
+  "county": "Fulton",
+  "address": "Spalding Drive",
+  "city": "Sandy Springs",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f57"
+  },
+  "Y": "33.82050524",
+  "X": "-84.63656442",
+  "garden_name": "I.T. and Lodemia Terrell Community Center Garden",
+  "county": "Cobb",
+  "address": "Owens Drive",
+  "city": "Austell",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f58"
+  },
+  "Y": "34.04746978",
+  "X": "-84.0764217",
+  "garden_name": "Harvest Farm at White Street Park",
+  "county": "Gwinnett",
+  "address": "White Street",
+  "city": "Suwannee",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f59"
+  },
+  "Y": "33.72447473",
+  "X": "-84.33118239",
+  "garden_name": "Brightside at Oakleaf Mennonite Farm",
+  "county": "DeKalb",
+  "address": "Bouldercrest Drive",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f5a"
+  },
+  "Y": "33.72773728",
+  "X": "-84.36043225",
+  "garden_name": "Atlanta Tapestry Community Garden",
+  "county": "Fulton",
+  "address": "E. Confederate Avenue",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f5b"
+  },
+  "Y": "33.70505179",
+  "X": "-84.48090353",
+  "garden_name": "Truly Living Well - Harbin Road",
+  "county": "Fulton",
+  "address": "Harbin Road",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f5c"
+  },
+  "Y": "33.80833529",
+  "X": "-84.30595772",
+  "garden_name": "Mason Mill Community Garden",
+  "county": "DeKalb",
+  "address": "1346 McConnell Dr.",
+  "city": "Decatur",
+  "zip_code": "30033",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f5d"
+  },
+  "Y": "33.8178243",
+  "X": "-84.50689424",
+  "garden_name": "Mableton Community Garden",
+  "county": "Cobb",
+  "address": "Nickajack Park Road SE",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f5e"
+  },
+  "Y": "33.73071993",
+  "X": "-84.43483673",
+  "garden_name": "Outdoor Activity Center",
+  "county": "Fulton",
+  "address": "Richarland Road SW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f5f"
+  },
+  "Y": "33.74258612",
+  "X": "-84.42408471",
+  "garden_name": "Good Shepherd Community Garden",
+  "county": "Fulton",
+  "address": "445 Lawton Street",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f60"
+  },
+  "Y": "33.73153424",
+  "X": "-84.41792707",
+  "garden_name": "Rose Circle Park Community Garden",
+  "county": "Fulton",
+  "address": "Joseph E. Lowery Blvd",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f61"
+  },
+  "Y": "34.23349363",
+  "X": "-84.49157486",
+  "garden_name": "Canton Community Garden",
+  "county": "Cherokee",
+  "address": "E Marietta Street",
+  "city": "Canton",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f62"
+  },
+  "Y": "34.07024819",
+  "X": "-84.3113845",
+  "garden_name": "Alpharetta Community Garden",
+  "county": "Fulton",
+  "address": "Willis Road",
+  "city": "Alpharetta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f63"
+  },
+  "Y": "33.73962779",
+  "X": "-84.43514678",
+  "garden_name": "Westview Community Garden",
+  "county": "Fulton",
+  "address": "S. Gordon Street SW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f64"
+  },
+  "Y": "33.8054165",
+  "X": "-84.27694019",
+  "garden_name": "North DeKalb Mall - Urban Farm",
+  "county": "DeKalb",
+  "address": "Lawrenceville Hwy",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f65"
+  },
+  "Y": "33.80545191",
+  "X": "-84.2768344",
+  "garden_name": "North DeKalb Mall - Urban Orchard",
+  "county": "DeKalb",
+  "address": "Lawrenceville Hwy",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f66"
+  },
+  "Y": "34.17722746",
+  "X": "-84.47134321",
+  "garden_name": "Yoder Family Farm",
+  "county": "Cherokee",
+  "address": "Bobwhite Trail",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f67"
+  },
+  "Y": "33.67579829",
+  "X": "-84.72402332",
+  "garden_name": "Yves Garden",
+  "county": "Douglas",
+  "address": "Chapel Hill Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f68"
+  },
+  "Y": "33.45300621",
+  "X": "-84.10332632",
+  "garden_name": "Wesley Way Community Garden - Henry Gardens",
+  "county": "Henry",
+  "address": "John Wesley Way",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f69"
+  },
+  "Y": "33.74672707",
+  "X": "-84.38078227",
+  "garden_name": "Wesley International Academy",
+  "county": "Fulton",
+  "address": "Connally Street SE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f6a"
+  },
+  "Y": "34.32072026",
+  "X": "-84.56464462",
+  "garden_name": "Waleska Nursery",
+  "county": "Cherokee",
+  "address": "George Gray Lane",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f6b"
+  },
+  "Y": "33.90482689",
+  "X": "-84.72018396",
+  "garden_name": "Vineyard Farms",
+  "county": "Cobb",
+  "address": "Macland Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f6c"
+  },
+  "Y": "33.77321412",
+  "X": "-84.28318001",
+  "garden_name": "Umarima Wa Burundi - Global Growers",
+  "county": "DeKalb",
+  "address": "Sams Street",
+  "city": "Decatur",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f6d"
+  },
+  "Y": "33.40579017",
+  "X": "-84.50938186",
+  "garden_name": "Two Doves Farm",
+  "county": "Fayette",
+  "address": "Ebenezer Church Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f6e"
+  },
+  "Y": "33.75649926",
+  "X": "-84.37579834",
+  "garden_name": "Truly Living Well - Wheat Street",
+  "county": "Fulton",
+  "address": "Hilliard Street",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f6f"
+  },
+  "Y": "33.66454966",
+  "X": "-84.46816199",
+  "garden_name": "Truly Living Well - East Point",
+  "county": "Fulton",
+  "address": "Washington Road",
+  "city": "East Point",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f70"
+  },
+  "Y": "34.09340441",
+  "X": "-84.55146421",
+  "garden_name": "Trefoil Garden",
+  "county": "Cherokee",
+  "address": "Bascomb Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f71"
+  },
+  "Y": "33.52700189",
+  "X": "-84.68386878",
+  "garden_name": "Tierra Sonrisa",
+  "county": "Fulton",
+  "address": "Hutcheson Ferry Road",
+  "city": "Chattahoochee Hills",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f72"
+  },
+  "Y": "33.71114425",
+  "X": "-84.39325535",
+  "garden_name": "Villages at Carver - YMCA Boys and Girls Club",
+  "county": "Fulton",
+  "address": "Pryor Road",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f73"
+  },
+  "Y": "33.77767452",
+  "X": "-84.21120103",
+  "garden_name": "The Funny Farm",
+  "county": "DeKalb",
+  "address": "Allgood Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f74"
+  },
+  "Y": "33.63145763",
+  "X": "-84.18429641",
+  "garden_name": "TaylOrganic Farms",
+  "county": "Henry",
+  "address": "Highway 155",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f75"
+  },
+  "Y": "33.79329548",
+  "X": "-84.5420127",
+  "garden_name": "Swarm Chasers Apiaries",
+  "county": "Cobb",
+  "address": "Mount Gerizim Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f76"
+  },
+  "Y": "33.71875881",
+  "X": "-84.4089169",
+  "garden_name": "Sullivan Center Community Garden",
+  "county": "Fulton",
+  "address": "Dill Avenue SW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f77"
+  },
+  "Y": "33.96738986",
+  "X": "-83.90924755",
+  "garden_name": "Stokes Farm",
+  "county": "Gwinnett",
+  "address": "Alcovy Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f78"
+  },
+  "Y": "33.81523505",
+  "X": "-84.22357836",
+  "garden_name": "Steve Millers Farm",
+  "county": "DeKalb",
+  "address": "Cimarron Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f79"
+  },
+  "Y": "33.78063447",
+  "X": "-84.68555267",
+  "garden_name": "Stems N Roots Farm",
+  "county": "Douglas",
+  "address": "Riley Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f7a"
+  },
+  "Y": "33.81329462",
+  "X": "-84.2480226",
+  "garden_name": "Southern Place Apartments - Global Growers",
+  "county": "DeKalb",
+  "address": "Noble Vines Drive",
+  "city": "Clarkston",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f7b"
+  },
+  "Y": "33.48432076",
+  "X": "-84.14643754",
+  "garden_name": "Sola Fide Farm",
+  "county": "Henry",
+  "address": "Lullwater Circle",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f7c"
+  },
+  "Y": "33.45585834",
+  "X": "-83.98554796",
+  "garden_name": "SnapOla Farm",
+  "county": "Henry",
+  "address": "Wynne Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f7d"
+  },
+  "Y": "34.10297979",
+  "X": "-83.89840598",
+  "garden_name": "Serenity Gardens",
+  "county": "Gwinnett",
+  "address": "Old Thompson Mill Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f7e"
+  },
+  "Y": "33.51861375",
+  "X": "-84.73487947",
+  "garden_name": "Serenbe Farms",
+  "county": "Fulton",
+  "address": "Selborne Lane",
+  "city": "Chattahoochee Hills",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f7f"
+  },
+  "Y": "33.7732828",
+  "X": "-84.29352235",
+  "garden_name": "Scott Park Garden Club",
+  "county": "DeKalb",
+  "address": "N Candler Street",
+  "city": "Decatur",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f80"
+  },
+  "Y": "33.5640696",
+  "X": "-84.57653235",
+  "garden_name": "Scharko Farms",
+  "county": "Fulton",
+  "address": "Pine Street",
+  "city": "Fairburn",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f81"
+  },
+  "Y": "33.85849176",
+  "X": "-84.04658485",
+  "garden_name": "S & B Farms",
+  "county": "Gwinnett",
+  "address": "Highpoint Road",
+  "city": "Snellville",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f82"
+  },
+  "Y": "33.76318645",
+  "X": "-84.0102728",
+  "garden_name": "Running Hen Farms",
+  "county": "Rockdale",
+  "address": "Mink Livsey Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f83"
+  },
+  "Y": "34.23338078",
+  "X": "-84.30140307",
+  "garden_name": "Rockin S Farm",
+  "county": "Cherokee",
+  "address": "Claude Scott Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f84"
+  },
+  "Y": "33.4368841",
+  "X": "-84.05800127",
+  "garden_name": "Robinson Family Farm",
+  "county": "Henry",
+  "address": "Eskew Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f85"
+  },
+  "Y": "33.54539391",
+  "X": "-84.42071574",
+  "garden_name": "Riverdale Chicken Ranch",
+  "county": "Clayton",
+  "address": "Lyle Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f86"
+  },
+  "Y": "34.19883468",
+  "X": "-84.37298948",
+  "garden_name": "Red Wheel Farm",
+  "county": "Cherokee",
+  "address": "Union Hill Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f87"
+  },
+  "Y": "33.95011874",
+  "X": "-83.88584424",
+  "garden_name": "Rancho Alegre Farm",
+  "county": "Gwinnett",
+  "address": "Givens Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f88"
+  },
+  "Y": "33.53312825",
+  "X": "-84.80530966",
+  "garden_name": "Planted Rock Farm",
+  "county": "Fulton",
+  "address": "Campbellton Redwine Road",
+  "city": "Chattahoochee Hills",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f89"
+  },
+  "Y": "33.78604969",
+  "X": "-84.37127453",
+  "garden_name": "Piedmont Park Urban Orchard",
+  "county": "Fulton",
+  "address": "Monroe Drive",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f8a"
+  },
+  "Y": "33.93695183",
+  "X": "-83.93276428",
+  "garden_name": "Phoenix Gardens LLC",
+  "county": "Gwinnett",
+  "address": "Hiram Davis Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f8b"
+  },
+  "Y": "34.03981289",
+  "X": "-84.62389294",
+  "garden_name": "Papa Homegrown",
+  "county": "Cobb",
+  "address": "McGuire Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f8c"
+  },
+  "Y": "34.34218266",
+  "X": "-84.45983538",
+  "garden_name": "Old Bethany Farm",
+  "county": "Cherokee",
+  "address": "Upper Bethany Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f8d"
+  },
+  "Y": "34.06806464",
+  "X": "-84.04307812",
+  "garden_name": "Okie Dokie Farm",
+  "county": "Gwinnett",
+  "address": "Westbrook Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f8e"
+  },
+  "Y": "33.76219873",
+  "X": "-84.29689596",
+  "garden_name": "Oakhurst Community Garden",
+  "county": "DeKalb",
+  "address": "Oakview Road",
+  "city": "Decatur",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f8f"
+  },
+  "Y": "33.82947148",
+  "X": "-84.23378922",
+  "garden_name": "Northlake Church Garden - Global Growers",
+  "county": "DeKalb",
+  "address": "Cooledge Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f90"
+  },
+  "Y": "33.63983385",
+  "X": "-84.12901517",
+  "garden_name": "Nature's Bio Organic Farm",
+  "county": "DeKalb",
+  "address": "Klondike Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f91"
+  },
+  "Y": "33.76222573",
+  "X": "-84.34460373",
+  "garden_name": "Mulberry Fields Community Garden",
+  "county": "DeKalb",
+  "address": "Candler Street",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f92"
+  },
+  "Y": "34.10396154",
+  "X": "-84.33540029",
+  "garden_name": "Moss Hill Farm",
+  "county": "Fulton",
+  "address": "13230 Freemanville Road",
+  "city": "Milton",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f93"
+  },
+  "Y": "34.16296038",
+  "X": "-84.37657274",
+  "garden_name": "Morning Glory Farm",
+  "county": "Cherokee",
+  "address": "Roper Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f94"
+  },
+  "Y": "33.74825432",
+  "X": "-84.2141971",
+  "garden_name": "Mealor Family Farm",
+  "county": "DeKalb",
+  "address": "Mercer Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f95"
+  },
+  "Y": "33.56002404",
+  "X": "-84.20109536",
+  "garden_name": "Mayflor Farms LLC",
+  "county": "Henry",
+  "address": "Old Conyers Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f96"
+  },
+  "Y": "33.73314995",
+  "X": "-84.50390158",
+  "garden_name": "Mays High School Orchard",
+  "county": "Fulton",
+  "address": "Benjamin E. Mays Drive",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f97"
+  },
+  "Y": "33.5451259",
+  "X": "-84.74006081",
+  "garden_name": "Manyfold Farm",
+  "county": "Fulton",
+  "address": "Rico Road",
+  "city": "Chattahoochee Hills",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f98"
+  },
+  "Y": "34.13334582",
+  "X": "-84.32642486",
+  "garden_name": "Luna Ridge Farm",
+  "county": "Fulton",
+  "address": "Wood Road",
+  "city": "Milton",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f99"
+  },
+  "Y": "33.66626556",
+  "X": "-84.68275385",
+  "garden_name": "Skylight Farm - Glover Family Farm (formerly Le Tre Lune [L3L] Farm)",
+  "county": "Douglas",
+  "address": "Highway 166",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f9a"
+  },
+  "Y": "33.75143202",
+  "X": "-84.35458975",
+  "garden_name": "Lang Carson Park Community Garden (R-Town Community Garden)",
+  "county": "Fulton",
+  "address": "Flat Shoals Avenue",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f9b"
+  },
+  "Y": "33.75154769",
+  "X": "-84.35460999",
+  "garden_name": "Lang Carson Park Community Garden (R-Town Community Garden)",
+  "county": "Fulton",
+  "address": "Flat Shoals Avenue",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f9c"
+  },
+  "Y": "33.74238444",
+  "X": "-84.43501353",
+  "garden_name": "KIPP Strive Academy Urban Orchard",
+  "county": "Fulton",
+  "address": "Lucile Avenue SW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f9d"
+  },
+  "Y": "34.01831632",
+  "X": "-84.38105967",
+  "garden_name": "Kenari Company Farm",
+  "county": "Fulton",
+  "address": "Hightower Road",
+  "city": "Roswell",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f9e"
+  },
+  "Y": "34.29238457",
+  "X": "-84.40770326",
+  "garden_name": "Joyful Noise Acres Farm",
+  "county": "Cherokee",
+  "address": "Allison Lane",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669f9f"
+  },
+  "Y": "33.56069224",
+  "X": "-84.13357706",
+  "garden_name": "Jonathan Toenneges Farm",
+  "county": "Henry",
+  "address": "Asa Moseley Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fa0"
+  },
+  "Y": "33.7984769",
+  "X": "-84.2406554",
+  "garden_name": "Jolly Avenue - Global Growers",
+  "county": "DeKalb",
+  "address": "Jolly Avenue",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fa1"
+  },
+  "Y": "33.9443933",
+  "X": "-84.03114584",
+  "garden_name": "Jamos Organics",
+  "county": "Gwinnett",
+  "address": "Monfort Road NW",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fa2"
+  },
+  "Y": "34.03000478",
+  "X": "-84.6213262",
+  "garden_name": "Hometown Honey",
+  "county": "Cobb",
+  "address": "Knightsbridge Road NW",
+  "city": "Kennesaw",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fa3"
+  },
+  "Y": "33.44125788",
+  "X": "-84.12095173",
+  "garden_name": "Heritage Village Garden - Henry Gardens",
+  "county": "Henry",
+  "address": "Lake Dow Road",
+  "city": "McDonough",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fa4"
+  },
+  "Y": "33.72682069",
+  "X": "-84.4333197",
+  "garden_name": "Harnett/ Oakland City Community Garden",
+  "county": "Fulton",
+  "address": "Bridges Avenue",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fa5"
+  },
+  "Y": "33.7416371",
+  "X": "-84.39958262",
+  "garden_name": "Rosa Burney - HABESHA",
+  "county": "Fulton",
+  "address": "Fulton Street SW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fa6"
+  },
+  "Y": "33.87066773",
+  "X": "-84.19635867",
+  "garden_name": "Gribow Acres",
+  "county": "Gwinnett",
+  "address": "Indian Trail Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fa7"
+  },
+  "Y": "33.78071837",
+  "X": "-84.36947303",
+  "garden_name": "Grady High School Orchard",
+  "county": "Fulton",
+  "address": "Monroe Drive",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fa8"
+  },
+  "Y": "33.47151983",
+  "X": "-84.03659191",
+  "garden_name": "Green Ola Acres",
+  "county": "Henry",
+  "address": "N Ola Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fa9"
+  },
+  "Y": "33.76846051",
+  "X": "-84.27909039",
+  "garden_name": "Decatur Kitchen Garden - Global Growers",
+  "county": "DeKalb",
+  "address": "S. Columbia Drive",
+  "city": "Decatur",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669faa"
+  },
+  "Y": "33.83179063",
+  "X": "-84.37867067",
+  "garden_name": "Garden Hills Elementary School Orchard",
+  "county": "Fulton",
+  "address": "285 Sheridan Drive NE",
+  "city": "Atlanta",
+  "zip_code": "30310",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fab"
+  },
+  "Y": "33.60206453",
+  "X": "-84.72191034",
+  "garden_name": "Galactic Farms",
+  "county": "Fulton",
+  "address": "Rivertown Road",
+  "city": "Chattahoochee Hills",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fac"
+  },
+  "Y": "33.7373773",
+  "X": "-84.30620042",
+  "garden_name": "Gaia Gardens/ Love is Love Farm",
+  "county": "DeKalb",
+  "address": "Dancing Fox Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fad"
+  },
+  "Y": "34.22433347",
+  "X": "-84.31535175",
+  "garden_name": "Freehome Garden",
+  "county": "Cherokee",
+  "address": "Trinity Church Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fae"
+  },
+  "Y": "33.8015722",
+  "X": "-84.22903744",
+  "garden_name": "Forty Oaks - Global Growers",
+  "county": "DeKalb",
+  "address": "Holly Hedge Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669faf"
+  },
+  "Y": "33.49302422",
+  "X": "-84.26648561",
+  "garden_name": "Finca La Bella Farm",
+  "county": "Henry",
+  "address": "Benton Fields",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fb0"
+  },
+  "Y": "34.22987654",
+  "X": "-84.41902267",
+  "garden_name": "Fathers Boundary",
+  "county": "Cherokee",
+  "address": "Evans Cook Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fb1"
+  },
+  "Y": "33.63228627",
+  "X": "-84.68369352",
+  "garden_name": "Fairywood Thicket Farm",
+  "county": "Fulton",
+  "address": "Cochran Mill Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fb2"
+  },
+  "Y": "33.78511035",
+  "X": "-84.3710668",
+  "garden_name": "Education Garden at Piedmont Park",
+  "county": "Fulton",
+  "address": "Monroe Drive",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fb3"
+  },
+  "Y": "34.00115161",
+  "X": "-84.70720266",
+  "garden_name": "East of Eden",
+  "county": "Cobb",
+  "address": "Hayden Brook Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fb4"
+  },
+  "Y": "33.74483471",
+  "X": "-84.31444823",
+  "garden_name": "Drew Charter School Orchard",
+  "county": "DeKalb",
+  "address": "E Lake Blvd SE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fb5"
+  },
+  "Y": "33.83387156",
+  "X": "-83.94122748",
+  "garden_name": "Dillwood Farms",
+  "county": "Gwinnett",
+  "address": "Old Loganville Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fb6"
+  },
+  "Y": "33.63747876",
+  "X": "-84.33024809",
+  "garden_name": "Decimal Place Farm",
+  "county": "Clayton",
+  "address": "Almach Avenue",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fb7"
+  },
+  "Y": "33.92598253",
+  "X": "-84.19873509",
+  "garden_name": "Dances with Bees",
+  "county": "Gwinnett",
+  "address": "Kimberly Lane",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fb8"
+  },
+  "Y": "33.74700324",
+  "X": "-84.33103476",
+  "garden_name": "Crim High School Orchard",
+  "county": "DeKalb",
+  "address": "Memorial Drive SE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fb9"
+  },
+  "Y": "33.66718159",
+  "X": "-84.39459387",
+  "garden_name": "Crawford Long Middle School Orchard",
+  "county": "Fulton",
+  "address": "Latona Drive",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fba"
+  },
+  "Y": "33.83600218",
+  "X": "-84.65541979",
+  "garden_name": "Cobb Senior Center - Austell Neighborhood Center",
+  "county": "Cobb",
+  "address": "Austell - Powder Springs Road",
+  "city": "Austell",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fbb"
+  },
+  "Y": "34.19246134",
+  "X": "-84.45869521",
+  "garden_name": "Cloud Cattle Farm",
+  "county": "Cherokee",
+  "address": "Providence Drive",
+  "city": "Holly Springs",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fbc"
+  },
+  "Y": "34.25567845",
+  "X": "-84.37898004",
+  "garden_name": "Circle B Ranch",
+  "county": "Cherokee",
+  "address": "Jack Page Lane",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fbd"
+  },
+  "Y": "34.16879842",
+  "X": "-84.44147183",
+  "garden_name": "Cagles Farm",
+  "county": "Cherokee",
+  "address": "Hickory Road",
+  "city": "Holly Springs",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fbe"
+  },
+  "Y": "33.74074261",
+  "X": "-84.33083936",
+  "garden_name": "Burgess Peterson Academy Orchard",
+  "county": "DeKalb",
+  "address": "Glenwood Avenue",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fbf"
+  },
+  "Y": "33.74068678",
+  "X": "-84.33083658",
+  "garden_name": "Burgess Peterson Academy Orchard",
+  "county": "DeKalb",
+  "address": "Glenwood Avenue",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fc0"
+  },
+  "Y": "33.88637466",
+  "X": "-84.70421027",
+  "garden_name": "Brooks Garcia Farm",
+  "county": "Cobb",
+  "address": "Florence Road",
+  "city": "Powder Springs",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fc1"
+  },
+  "Y": "33.86423488",
+  "X": "-84.33822075",
+  "garden_name": "Brookhaven/ DeKalb Service Center",
+  "county": "DeKalb",
+  "address": "Peachtree Road",
+  "city": "Brookhaven",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fc2"
+  },
+  "Y": "33.84267045",
+  "X": "-84.68054308",
+  "garden_name": "Bray Family Farms",
+  "county": "Cobb",
+  "address": "Oglesby Road",
+  "city": "Powder Springs",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fc3"
+  },
+  "Y": "33.72486789",
+  "X": "-84.36639687",
+  "garden_name": "Boulevard Heights Community Garden",
+  "county": "Fulton",
+  "address": "Schuyler Avenue SE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fc4"
+  },
+  "Y": "33.72947559",
+  "X": "-84.21607947",
+  "garden_name": "Besmaid Garden Essentials",
+  "county": "DeKalb",
+  "address": "Maplewood Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fc5"
+  },
+  "Y": "33.73929798",
+  "X": "-84.20161053",
+  "garden_name": "Bamboo Creek Farm - Global Growers",
+  "county": "DeKalb",
+  "address": "Big Valley Way",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fc6"
+  },
+  "Y": "33.81067935",
+  "X": "-84.36913459",
+  "garden_name": "Atlanta Fire Station #29 Orchard",
+  "county": "Fulton",
+  "address": "Monroe Drive",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fc7"
+  },
+  "Y": "33.8710261",
+  "X": "-84.40859161",
+  "garden_name": "Atlanta Fire Station #27 Orchard",
+  "county": "Fulton",
+  "address": "Northside Drive NW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fc8"
+  },
+  "Y": "33.72293987",
+  "X": "-84.46450919",
+  "garden_name": "Atlanta Fire Station #25 Orchard",
+  "county": "Fulton",
+  "address": "Benjamin E. Mays Drive",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fc9"
+  },
+  "Y": "33.74199061",
+  "X": "-84.34769363",
+  "garden_name": "Atlanta Fire Station #13 Orchard",
+  "county": "DeKalb",
+  "address": "Metropolitan Avenue SE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fca"
+  },
+  "Y": "33.7422952",
+  "X": "-84.36848704",
+  "garden_name": "Atlanta Fire Station #10 Orchard",
+  "county": "Fulton",
+  "address": "Boulevard SE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fcb"
+  },
+  "Y": "33.7324122",
+  "X": "-84.35481089",
+  "garden_name": "Atlanta Neighborhood Charter School, Inc",
+  "county": "Fulton",
+  "address": "820 Essie Avenue SE",
+  "city": "Atlanta",
+  "zip_code": "30316",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fcc"
+  },
+  "Y": "33.78953427",
+  "X": "-84.37503876",
+  "garden_name": "Atlanta Botanical Gardens",
+  "county": "Fulton",
+  "address": "Piedmont Avenue",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fcd"
+  },
+  "Y": "33.94554284",
+  "X": "-83.98166809",
+  "garden_name": "Applewood Towers II Community Garden",
+  "county": "Gwinnett",
+  "address": "Grayson Highway",
+  "city": "Lawrenceville",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fce"
+  },
+  "Y": "33.71129148",
+  "X": "-84.79924079",
+  "garden_name": "Abundant Harvest Gardens",
+  "county": "Douglas",
+  "address": "Cowan Mill Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fcf"
+  },
+  "Y": "33.76582834",
+  "X": "-84.46927029",
+  "garden_name": "7th Day Adventist Community Garden (Berean Academy)",
+  "county": "Fulton",
+  "address": "Hamilton E Holmes Dr NW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fd0"
+  },
+  "Y": "33.76504647",
+  "X": "-84.39116175",
+  "garden_name": "Atlanta Mission Urban Garden",
+  "county": "Fulton",
+  "address": "Ivan Allen Jr Blvd NW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fd1"
+  },
+  "Y": "33.84185708",
+  "X": "-84.3862554",
+  "garden_name": "Buckhead Men's Garden Club",
+  "county": "Fulton",
+  "address": "W Paces Ferry",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fd2"
+  },
+  "Y": "33.7700929",
+  "X": "-84.35842885",
+  "garden_name": "Poncey Highland Community Garden (Freedom Park)",
+  "county": "Fulton",
+  "address": "Freedom Parkway",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fd3"
+  },
+  "Y": "33.77500315",
+  "X": "-84.4411153",
+  "garden_name": "Grove Park Community Garden",
+  "county": "Fulton",
+  "address": "Hortense Place",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fd4"
+  },
+  "Y": "33.75273273",
+  "X": "-84.37608863",
+  "garden_name": "Selena S. Butler Community Garden",
+  "county": "Fulton",
+  "address": "Wm Holmes Borders Sr. Drive SE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fd5"
+  },
+  "Y": "34.10457361",
+  "X": "-84.51641676",
+  "garden_name": "Woodstock Community Garden",
+  "county": "Cherokee",
+  "address": "Dobbs Road",
+  "city": "Woodstock",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fd6"
+  },
+  "Y": "33.71099466",
+  "X": "-84.25766981",
+  "garden_name": "Wonderland Gardens",
+  "county": "DeKalb",
+  "address": "Rainbow Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fd7"
+  },
+  "Y": "33.43425797",
+  "X": "-84.15864191",
+  "garden_name": "Windy Hill Community Garden",
+  "county": "Henry",
+  "address": "Windy Hill Road",
+  "city": "McDonough",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fd8"
+  },
+  "Y": "33.44434441",
+  "X": "-84.13980946",
+  "garden_name": "Hooten Street Garden",
+  "county": "Henry",
+  "address": "Hooten Street",
+  "city": "McDonough",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fd9"
+  },
+  "Y": "33.31918414",
+  "X": "-84.13812063",
+  "garden_name": "Cubihatcha Plot",
+  "county": "Henry",
+  "address": "Collins Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fda"
+  },
+  "Y": "33.74042676",
+  "X": "-84.4307806",
+  "garden_name": "West End - Mother Clyde Community Garden",
+  "county": "Fulton",
+  "address": "Oak Street",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fdb"
+  },
+  "Y": "33.80075166",
+  "X": "-84.41052414",
+  "garden_name": "Northside Shepherd Senior Center/ Vivian T. Minor Adult Daycare Community Garden",
+  "county": "Fulton",
+  "address": "1705 Commerce Drive",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fdc"
+  },
+  "Y": "33.91161867",
+  "X": "-84.54654407",
+  "garden_name": "Marietta Homeless Authority",
+  "county": "Cobb",
+  "address": "1712 Oak Street SE",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fdd"
+  },
+  "Y": "33.82768375",
+  "X": "-84.57633765",
+  "garden_name": "Mableton Community Garden",
+  "county": "Cobb",
+  "address": "5239 Floyd Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fde"
+  },
+  "Y": "33.38361775",
+  "X": "-84.57395077",
+  "garden_name": "Peachtree City Community Garden",
+  "county": "Fayette",
+  "address": "Kelly Drive",
+  "city": "Peachtree City",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fdf"
+  },
+  "Y": "33.79292273",
+  "X": "-84.25659956",
+  "garden_name": "Tobie Grant Community Garden",
+  "county": "DeKalb",
+  "address": "Tobie Circle",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fe0"
+  },
+  "Y": "33.77768876",
+  "X": "-84.30492837",
+  "garden_name": "Tanyard Creek Community Garden",
+  "county": "DeKalb",
+  "address": "Oakland Street and Northern Avenue",
+  "city": "Decatur",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fe1"
+  },
+  "Y": "33.74631933",
+  "X": "-84.24659271",
+  "garden_name": "Peachcrest Senior Center",
+  "county": "DeKalb",
+  "address": "Sherrydale Lane",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fe2"
+  },
+  "Y": "33.7107211",
+  "X": "-84.26703848",
+  "garden_name": "Magnolia Circle Senior Garden",
+  "county": "DeKalb",
+  "address": "Dash Lewis Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fe3"
+  },
+  "Y": "33.90663443",
+  "X": "-84.26121441",
+  "garden_name": "Honeysuckle Park Community Garden",
+  "county": "DeKalb",
+  "address": "Pleasant Valley Drive",
+  "city": "Doraville",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fe4"
+  },
+  "Y": "33.93130889",
+  "X": "-84.33672186",
+  "garden_name": "Spruill Center Community Garden",
+  "county": "DeKalb",
+  "address": "Ashford Dunwoody Road at Meadow Lane",
+  "city": "Dunwoody",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fe5"
+  },
+  "Y": "33.7006046",
+  "X": "-84.38373946",
+  "garden_name": "South Bend Park Community Garden",
+  "county": "Fulton",
+  "address": "Compton Drive",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fe6"
+  },
+  "Y": "33.80477151",
+  "X": "-84.29765425",
+  "garden_name": "Medlock Park Community Garden",
+  "county": "DeKalb",
+  "address": "1031 Scott Circle",
+  "city": "Decatur",
+  "zip_code": "30033",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fe7"
+  },
+  "Y": "33.93405747",
+  "X": "-84.29395833",
+  "garden_name": "St. Patrick's Episcopal Church/ Malachi's Garden",
+  "county": "DeKalb",
+  "address": "4755 North Peachtree Road",
+  "city": "Dunwoody",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fe8"
+  },
+  "Y": "33.78744062",
+  "X": "-84.25599134",
+  "garden_name": "Scottdale Senior Center Community Garden",
+  "county": "DeKalb",
+  "address": "3262 Chapel Street",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fe9"
+  },
+  "Y": "33.7282003",
+  "X": "-84.2919368",
+  "garden_name": "St. Peter Claver School",
+  "county": "DeKalb",
+  "address": "2560 Tilson Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fea"
+  },
+  "Y": "33.70096457",
+  "X": "-84.40629866",
+  "garden_name": "Community Life at Brookside Park Apartments",
+  "county": "Fulton",
+  "address": "2000 Rambling Drive SW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669feb"
+  },
+  "Y": "33.86721731",
+  "X": "-84.2998865",
+  "garden_name": "Rosalynn Apartments Community Garden",
+  "county": "DeKalb",
+  "address": "2198 Dresden Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fec"
+  },
+  "Y": "33.77451338",
+  "X": "-84.34818556",
+  "garden_name": "Druid Hills Preschool",
+  "county": "DeKalb",
+  "address": "1200 Ponce de Leon Avenue NE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fed"
+  },
+  "Y": "33.67851543",
+  "X": "-84.54774247",
+  "garden_name": "Catholic Church of the Most Blessed Sacrament",
+  "county": "Fulton",
+  "address": "2971 Butner Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fee"
+  },
+  "Y": "33.80072994",
+  "X": "-84.50282014",
+  "garden_name": "Riverview Landing Community Garden",
+  "county": "Cobb",
+  "address": "6269 Riverview Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fef"
+  },
+  "Y": "33.76744696",
+  "X": "-84.29852455",
+  "garden_name": "Renfroe Middle School",
+  "county": "DeKalb",
+  "address": "220 West College Avenue",
+  "city": "Decatur",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ff0"
+  },
+  "Y": "33.76955767",
+  "X": "-84.29870343",
+  "garden_name": "Decatur High School Community Garden",
+  "county": "DeKalb",
+  "address": "West College Avenue",
+  "city": "Decatur",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ff1"
+  },
+  "Y": "33.83291759",
+  "X": "-84.07982476",
+  "garden_name": "Rainbow Heights CPACS Garden",
+  "county": "Gwinnett",
+  "address": "2165 Ross Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ff2"
+  },
+  "Y": "33.87576868",
+  "X": "-84.33172659",
+  "garden_name": "Oglethorpe University",
+  "county": "DeKalb",
+  "address": "Peachtree Road NE",
+  "city": "Brookhaven",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ff3"
+  },
+  "Y": "33.87143287",
+  "X": "-84.130357",
+  "garden_name": "Parkview Neighborhood Community Garden",
+  "county": "Gwinnett",
+  "address": "4875 Lilburn Stone Mountain Road",
+  "city": "Lilburn",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ff4"
+  },
+  "Y": "33.93215902",
+  "X": "-84.30082395",
+  "garden_name": "Dunwoody Community Garden",
+  "county": "DeKalb",
+  "address": "Brook Run Avenue",
+  "city": "Dunwoody",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ff5"
+  },
+  "Y": "33.7430503",
+  "X": "-84.32948357",
+  "garden_name": "Parkview Community Garden at DeKalb Memorial Park",
+  "county": "DeKalb",
+  "address": "Wilkinson Drive",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ff6"
+  },
+  "Y": "33.76374447",
+  "X": "-84.30598912",
+  "garden_name": "Oakhurst Elementary School",
+  "county": "DeKalb",
+  "address": "175 Mead Road",
+  "city": "Decatur",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ff7"
+  },
+  "Y": "33.96783133",
+  "X": "-84.36325457",
+  "garden_name": "North Springs United Methodist Church",
+  "county": "Fulton",
+  "address": "7770 Roswell Road",
+  "city": "Sandy Springs",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ff8"
+  },
+  "Y": "33.77548055",
+  "X": "-84.45720231",
+  "garden_name": "Super Giant Food Urban Health Initiative Community Garden",
+  "county": "Fulton",
+  "address": "2176 Donald Lee Hollowell NW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ff9"
+  },
+  "Y": "33.76958221",
+  "X": "-84.34022272",
+  "garden_name": "Mary Lin Elementary School",
+  "county": "DeKalb",
+  "address": "586 Candler Park Drive NE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ffa"
+  },
+  "Y": "33.7675368",
+  "X": "-84.41475247",
+  "garden_name": "Atlanta Harm Reduction Coalition",
+  "county": "Fulton",
+  "address": "472 Paines Avenue NW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ffb"
+  },
+  "Y": "33.8261828",
+  "X": "-84.36280954",
+  "garden_name": "Marian Road Senior High Rise",
+  "county": "Fulton",
+  "address": "760 Sidney Marcus Blvd NW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ffc"
+  },
+  "Y": "33.89858539",
+  "X": "-84.65845132",
+  "garden_name": "Macland Road Presbyterian Church",
+  "county": "Cobb",
+  "address": "3615 Macland Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ffd"
+  },
+  "Y": "33.71432216",
+  "X": "-84.0983127",
+  "garden_name": "Lucious Sanders Recreation Center",
+  "county": "DeKalb",
+  "address": "2484 Bruce St.",
+  "city": "Lithonia",
+  "zip_code": "30058",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669ffe"
+  },
+  "Y": "33.83518313",
+  "X": "-84.34239929",
+  "garden_name": "Skyland Trail",
+  "county": "DeKalb",
+  "address": "1903 North Druid Hills Road NE",
+  "city": "Brookhaven",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b2941898669fff"
+  },
+  "Y": "33.71403695",
+  "X": "-84.16454017",
+  "garden_name": "Lou Walker Senior Garden",
+  "county": "DeKalb",
+  "address": "2538 Panola Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a000"
+  },
+  "Y": "33.95375888",
+  "X": "-84.38554535",
+  "garden_name": "Lost Corner Park Community Garden",
+  "county": "Fulton",
+  "address": "Brandon Mill Road and Riverside Drive",
+  "city": "Sandy Springs",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a001"
+  },
+  "Y": "33.79570327",
+  "X": "-84.40182484",
+  "garden_name": "Loring Heights Community Garden",
+  "county": "Fulton",
+  "address": "426 Deering Road",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a002"
+  },
+  "Y": "33.88500703",
+  "X": "-84.13300003",
+  "garden_name": "Lilburn Community Garden",
+  "county": "Gwinnett",
+  "address": "Camp Creek Road",
+  "city": "Lilburn",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a003"
+  },
+  "Y": "33.7097849",
+  "X": "-84.44832659",
+  "garden_name": "QLS Haven & Garden Apartments",
+  "county": "Fulton",
+  "address": "1840 & 1870 Campbellton Road",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a004"
+  },
+  "Y": "34.08949836",
+  "X": "-84.07050833",
+  "garden_name": "North Gwinnett Church",
+  "county": "Gwinnett",
+  "address": "4963 West Price Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a005"
+  },
+  "Y": "33.7171471",
+  "X": "-84.38935026",
+  "garden_name": "Georgia Citizens Coalition on Hunger",
+  "county": "Fulton",
+  "address": "9 Gammon Avenue",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a006"
+  },
+  "Y": "33.73427875",
+  "X": "-84.3521576",
+  "garden_name": "Holy Comforter Episcopal Church",
+  "county": "Fulton",
+  "address": "737 Woodland Avenue SE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a007"
+  },
+  "Y": "34.01413201",
+  "X": "-84.39331411",
+  "garden_name": "High Meadows School",
+  "county": "Fulton",
+  "address": "1055 Willeo Road",
+  "city": "Roswell",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a008"
+  },
+  "Y": "33.86336514",
+  "X": "-84.23216017",
+  "garden_name": "Henderson Park Community Garden",
+  "county": "DeKalb",
+  "address": "2723 Henderson Rd",
+  "city": "Tucker",
+  "zip_code": "30084",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a009"
+  },
+  "Y": "33.77604366",
+  "X": "-84.2922108",
+  "garden_name": "Heavenly Harvest Garden - Decatur First UMC",
+  "county": "DeKalb",
+  "address": "300 E Ponce de Leon Avenue",
+  "city": "Decatur",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a00a"
+  },
+  "Y": "33.76635158",
+  "X": "-84.22349035",
+  "garden_name": "First St Peter AME Church",
+  "county": "DeKalb",
+  "address": "1074 S Indian Creek Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a00b"
+  },
+  "Y": "33.70620759",
+  "X": "-84.10988582",
+  "garden_name": "First St Paul AME Church",
+  "county": "DeKalb",
+  "address": "2687 Klondike Road",
+  "city": "Lithonia",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a00c"
+  },
+  "Y": "33.7669874",
+  "X": "-84.33966255",
+  "garden_name": "First Existentialist Church",
+  "county": "DeKalb",
+  "address": "470 Candler Park Drive",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a00d"
+  },
+  "Y": "33.67806507",
+  "X": "-84.17645493",
+  "garden_name": "First African Presbyterian Church- Creation Care Community Garden of Eden",
+  "county": "DeKalb",
+  "address": "5197 Salem Road",
+  "city": "Lithonia",
+  "zip_code": "30038",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a00e"
+  },
+  "Y": "33.77018855",
+  "X": "-84.41718777",
+  "garden_name": "English Avenue Urban Farm",
+  "county": "Fulton",
+  "address": "North Avenue and Joseph E. Lowery Blvd",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a00f"
+  },
+  "Y": "34.02044033",
+  "X": "-84.26887192",
+  "garden_name": "Johns Creek Community Garden",
+  "county": "Fulton",
+  "address": "Old Alabama Road",
+  "city": "Johns Creek",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a010"
+  },
+  "Y": "33.75520401",
+  "X": "-84.33840835",
+  "garden_name": "Edgewood Community Learning Garden",
+  "county": "DeKalb",
+  "address": "Hardee Street and Mayson Avenue",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a011"
+  },
+  "Y": "33.7555248",
+  "X": "-84.3364719",
+  "garden_name": "Edgewood Court Residential Association",
+  "county": "DeKalb",
+  "address": "1572 Hardee Street",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a012"
+  },
+  "Y": "34.00098559",
+  "X": "-84.29555375",
+  "garden_name": "East Roswell Community Garden",
+  "county": "Fulton",
+  "address": "Fouts Road",
+  "city": "Roswell",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a013"
+  },
+  "Y": "33.74534894",
+  "X": "-84.72710857",
+  "garden_name": "Douglas Senior Services",
+  "county": "Douglas",
+  "address": "8750 Dorris Road",
+  "city": "Douglasville",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a014"
+  },
+  "Y": "33.78976443",
+  "X": "-84.2883571",
+  "garden_name": "Decatur Christian Tower",
+  "county": "DeKalb",
+  "address": "1438 Church Street",
+  "city": "Decatur",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a015"
+  },
+  "Y": "34.1438142",
+  "X": "-84.00342406",
+  "garden_name": "Lanier Community Garden",
+  "county": "Gwinnett",
+  "address": "2601 Buford Dam Road",
+  "city": "Buford",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a016"
+  },
+  "Y": "33.44164499",
+  "X": "-84.44848422",
+  "garden_name": "Fayette Senoir Services Therapeutic Garden",
+  "county": "Fayette",
+  "address": "4 Center Drive",
+  "city": "Fayetteville",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a017"
+  },
+  "Y": "33.56754236",
+  "X": "-84.48381138",
+  "garden_name": "Creek Park Community Garden",
+  "county": "Fulton",
+  "address": "Creel Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a018"
+  },
+  "Y": "33.70588704",
+  "X": "-84.42439392",
+  "garden_name": "Dog Head Farm",
+  "county": "Fulton",
+  "address": "Birch Street SW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a019"
+  },
+  "Y": "33.78827749",
+  "X": "-84.43737511",
+  "garden_name": "Covenant House",
+  "county": "Fulton",
+  "address": "1559 Johnson Road NW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a01a"
+  },
+  "Y": "33.75478898",
+  "X": "-84.37741595",
+  "garden_name": "Auburn Neighborhood Senior Center",
+  "county": "Fulton",
+  "address": "300 Edgewood Avenue SE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a01b"
+  },
+  "Y": "33.72679087",
+  "X": "-84.38833709",
+  "garden_name": "Emmaus House",
+  "county": "Fulton",
+  "address": "1017 Hank Aaron Drive SE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a01c"
+  },
+  "Y": "33.76156804",
+  "X": "-84.27691502",
+  "garden_name": "The Friends School of Atlanta",
+  "county": "DeKalb",
+  "address": "S Columbia Drive",
+  "city": "Decatur",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a01d"
+  },
+  "Y": "34.13144753",
+  "X": "-84.07015028",
+  "garden_name": "Gary Pirkle Park Community Garden",
+  "county": "Gwinnett",
+  "address": "Suwanee Dam Road at Austin Garner Road",
+  "city": "Sugar Hill",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a01e"
+  },
+  "Y": "33.76259043",
+  "X": "-84.40902065",
+  "garden_name": "Historic Westside Gardens",
+  "county": "Fulton",
+  "address": "Joseph E Boone, Elm Street and Sunset Avenue",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a01f"
+  },
+  "Y": "33.75743229",
+  "X": "-84.40802451",
+  "garden_name": "GLEN Project",
+  "county": "Fulton",
+  "address": "Vine Street and Delbridge Street",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a020"
+  },
+  "Y": "33.72801132",
+  "X": "-84.37654793",
+  "garden_name": "Grant Park Community Garden",
+  "county": "Fulton",
+  "address": "Grant Street SE",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a021"
+  },
+  "Y": "33.74584556",
+  "X": "-84.42452103",
+  "garden_name": "Omenala Griot - HABESHA",
+  "county": "Fulton",
+  "address": "337 Dargan Place SW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a022"
+  },
+  "Y": "33.54640628",
+  "X": "-84.13902338",
+  "garden_name": "Yule Forest",
+  "county": "Henry",
+  "address": "Hwy 155",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a023"
+  },
+  "Y": "33.44442941",
+  "X": "-84.52583892",
+  "garden_name": "Adams Farm",
+  "county": "Fayette",
+  "address": "Hwy 54",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a024"
+  },
+  "Y": "33.75049724",
+  "X": "-84.42666991",
+  "garden_name": "Ashview Urban Farm",
+  "county": "Fulton",
+  "address": "Holderness Street SW",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a025"
+  },
+  "Y": "33.77428183",
+  "X": "-84.49940519",
+  "garden_name": "Darnell Center",
+  "county": "Fulton",
+  "address": "Fairburn Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a026"
+  },
+  "Y": "33.70669007",
+  "X": "-84.16271162",
+  "garden_name": "Alice Williams Towers",
+  "county": "DeKalb",
+  "address": "5480 Hillandale Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a027"
+  },
+  "Y": "33.74153101",
+  "X": "-84.25492033",
+  "garden_name": "Healthy Belvedere Community Garden",
+  "county": "DeKalb",
+  "address": "1679 Columbia Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a028"
+  },
+  "Y": "33.97652521",
+  "X": "-84.00258173",
+  "garden_name": "Georgia Gwinnett College",
+  "county": "Gwinnett",
+  "address": "1000 University Center Lane",
+  "city": "Lawrenceville",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a029"
+  },
+  "Y": "33.75661288",
+  "X": "-84.30529534",
+  "garden_name": "Glory Garden at Spring Park",
+  "county": "DeKalb",
+  "address": "1301 Oakview Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a02a"
+  },
+  "Y": "33.66218732",
+  "X": "-84.44271183",
+  "garden_name": "Woodward Academy",
+  "county": "Fulton",
+  "address": "Cambridge Avenue",
+  "city": "College Park",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a02b"
+  },
+  "Y": "33.70445589",
+  "X": "-84.27554637",
+  "garden_name": "Allegre Pointe Senior Community Garden",
+  "county": "DeKalb",
+  "address": "Flat Shoals Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a02c"
+  },
+  "Y": "33.70480079",
+  "X": "-84.56089154",
+  "garden_name": "A. Phillip Randolph Elementary School",
+  "county": "Fulton",
+  "address": "Hwy 166",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a02d"
+  },
+  "Y": "33.71579735",
+  "X": "-84.39262441",
+  "garden_name": "Villages at Carver Community Garden",
+  "county": "Fulton",
+  "address": "Pryor Road",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a02e"
+  },
+  "Y": "33.76407084",
+  "X": "-84.4271586",
+  "garden_name": "Hunter Hills Community Garden",
+  "county": "Fulton",
+  "address": "Troy and Boone",
+  "city": "Atlanta",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a02f"
+  },
+  "Y": "33.74604742",
+  "X": "-84.19582141",
+  "garden_name": "Ujima Garden",
+  "county": "DeKalb",
+  "address": "1634 South Hairston Road",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a030"
+  },
+  "Y": "33.85070933",
+  "X": "-84.22173903",
+  "garden_name": "Hometown Harvest",
+  "county": "DeKalb",
+  "address": "4080 Bancroft Circle",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a031"
+  },
+  "Y": "33.74403894",
+  "X": "-84.75127281",
+  "garden_name": "Douglas County Master Gardeners",
+  "county": "Douglas",
+  "address": "6770 Selman Drive",
+  "city": "Douglasville",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a032"
+  },
+  "Y": "33.77706819",
+  "X": "-84.23569836",
+  "garden_name": "Dunaire Parke",
+  "county": "DeKalb",
+  "address": "671 Chevoit Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a033"
+  },
+  "Y": "34.14961876",
+  "X": "-84.51922875",
+  "garden_name": "God's Garden",
+  "county": "Cherokee",
+  "address": "Sixes Road near the Cherokee Aquatics Center",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a034"
+  },
+  "Y": "33.79336878",
+  "X": "-84.31268683",
+  "garden_name": "Emory Grove Community Garden",
+  "county": "DeKalb",
+  "address": "2063 Edinburg Terrace NE",
+  "city": "Atlanta",
+  "zip_code": "30307",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a035"
+  },
+  "Y": "33.77440493",
+  "X": "-84.42006208",
+  "garden_name": "Good Samaritan Health Center",
+  "county": "Fulton",
+  "address": "Donald Lee Hollowell Pkwy",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a036"
+  },
+  "Y": "33.75484203",
+  "X": "-84.31170164",
+  "garden_name": "Hawk Hollow Garden",
+  "county": "DeKalb",
+  "address": "2304 1st Avenue",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a037"
+  },
+  "Y": "33.75947609",
+  "X": "-84.31000459",
+  "garden_name": "Sugar Creek Garden",
+  "county": "DeKalb",
+  "address": "415 East Lake Drive",
+  "city": " ",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a038"
+  },
+  "Y": "34.04894182",
+  "X": "-84.20838747",
+  "garden_name": "Chattahoochee High School",
+  "county": "Fulton",
+  "address": "5230 Taylor Road",
+  "city": "Johns Creek",
+  "zip_code": "0",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a039"
+  },
+  "Y": "34.02146778",
+  "X": "-84.19826708",
+  "garden_name": "State Bridge Crossing Elementary School",
+  "county": "Fulton",
+  "address": "State Bridge Road",
+  "city": "Johns Creek",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a03a"
+  },
+  "Y": "33.73863528",
+  "X": "-84.34458985",
+  "garden_name": "East Atlanta Village Learning Garden",
+  "county": "DeKalb",
+  "address": "Stokeswood Avenue",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a03b"
+  },
+  "Y": "33.77345115",
+  "X": "-84.27971215",
+  "garden_name": "Arcadia Community Garden",
+  "county": "DeKalb",
+  "address": "737 Arcadia Avenue",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a03c"
+  },
+  "Y": "33.73727286",
+  "X": "-84.38202793",
+  "garden_name": "Georgia Avenue Senior Tower",
+  "county": "Fulton",
+  "address": "174 Georgia Avenue",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a03d"
+  },
+  "Y": "33.80859615",
+  "X": "-84.3824242",
+  "garden_name": "Open Hand Garden",
+  "county": "Fulton",
+  "address": "181 Armour Drive NE",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a03e"
+  },
+  "Y": "33.78228294",
+  "X": "-84.36334091",
+  "garden_name": "Inman Middle School",
+  "county": "Fulton",
+  "address": "Park Drive at Virginia Avenue",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a03f"
+  },
+  "Y": "33.79290483",
+  "X": "-84.36498957",
+  "garden_name": "Morningside Community Garden",
+  "county": "Fulton",
+  "address": "Hillpine Drive at the Georgia Power lines",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a040"
+  },
+  "Y": "33.74670613",
+  "X": "-84.35531766",
+  "garden_name": "Wonderoot Community Garden",
+  "county": "Fulton",
+  "address": "982 Memorial Drive",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a041"
+  },
+  "Y": "33.73943443",
+  "X": "-84.429688",
+  "garden_name": "West End Community Garden Nursery",
+  "county": "Fulton",
+  "address": "1285 Ralph David Abernathy Blvd SW",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a042"
+  },
+  "Y": "33.74658908",
+  "X": "-84.40371941",
+  "garden_name": "3x3 Project",
+  "county": "Fulton",
+  "address": "307 Walker Street SW",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a043"
+  },
+  "Y": "33.9663365",
+  "X": "-84.62237896",
+  "garden_name": "Lake Laura Gardens",
+  "county": "Cobb",
+  "address": "2430 Burnt Hickory Road NW",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a044"
+  },
+  "Y": "34.05702144",
+  "X": "-84.4346418",
+  "garden_name": "Mabry Farms Apiary",
+  "county": "Cobb",
+  "address": "Wesley Chapel Road",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a045"
+  },
+  "Y": "33.59024719",
+  "X": "-84.06515711",
+  "garden_name": "Monastery of the Holy Spirit",
+  "county": "Rockdale",
+  "address": "2625 Highway 212",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a046"
+  },
+  "Y": "33.90757421",
+  "X": "-84.65661219",
+  "garden_name": "My Dad and Me Family Farm",
+  "county": "Cobb",
+  "address": "3698 Velma Drive",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a047"
+  },
+  "Y": "33.76137725",
+  "X": "-84.4187499",
+  "garden_name": "Ashby Circle Playlot",
+  "county": "Fulton",
+  "address": "Ashby Circle NW",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a048"
+  },
+  "Y": "33.73905598",
+  "X": "-84.36177189",
+  "garden_name": "Maynard H. Jackson High School",
+  "county": "Fulton",
+  "address": "801 Glenwood Avenue SE",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a049"
+  },
+  "Y": "33.76598763",
+  "X": "-84.37174156",
+  "garden_name": "Operation PEACE",
+  "county": "Fulton",
+  "address": "420 Boulevard",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a04a"
+  },
+  "Y": "33.78620703",
+  "X": "-84.4169037",
+  "garden_name": "Fresh Roots Farm",
+  "county": "Fulton",
+  "address": "1260 Foster Street",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a04b"
+  },
+  "Y": "33.77888998",
+  "X": "-84.31778298",
+  "garden_name": "Fernbank Science Center",
+  "county": "DeKalb",
+  "address": "Heaton Park Drive",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a04c"
+  },
+  "Y": "33.779056",
+  "X": "-84.21140966",
+  "garden_name": "Allgood Elementary School",
+  "county": "DeKalb",
+  "city": "Stone Mountain",
+  "zip_code": "30083",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a04d"
+  },
+  "Y": "34.10981028",
+  "X": "-84.44015431",
+  "garden_name": "Arnold Mill Elementary School",
+  "county": "Cherokee",
+  "city": "Woodstock",
+  "zip_code": "30188",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a04e"
+  },
+  "Y": "33.88080618",
+  "X": "-84.5789161",
+  "garden_name": "Birney Elementary School",
+  "county": "Cobb",
+  "city": "Marietta",
+  "zip_code": "30060",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a04f"
+  },
+  "Y": "34.12957519",
+  "X": "-84.59000113",
+  "garden_name": "Boston Elementary School",
+  "county": "Cherokee",
+  "city": "Woodstock",
+  "zip_code": "30189",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a050"
+  },
+  "Y": "33.68780716",
+  "X": "-84.18471181",
+  "garden_name": "Bouie Theme School",
+  "county": "DeKalb",
+  "city": "Lithonia",
+  "zip_code": "30038",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a051"
+  },
+  "Y": "33.83900563",
+  "X": "-84.26849881",
+  "garden_name": "Briarlake Elementary School",
+  "county": "DeKalb",
+  "city": "Decatur",
+  "zip_code": "30033",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a052"
+  },
+  "Y": "33.9199472",
+  "X": "-84.46755376",
+  "garden_name": "Brumby Elementary School",
+  "county": "Cobb",
+  "city": "Marietta",
+  "zip_code": "30067",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a053"
+  },
+  "Y": "34.24141064",
+  "X": "-84.49402733",
+  "garden_name": "Canton YMCA",
+  "county": "Cherokee",
+  "city": "Canton",
+  "zip_code": "30114",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a054"
+  },
+  "Y": "33.89430257",
+  "X": "-84.27094511",
+  "garden_name": "Cary Reynolds Elementary School",
+  "county": "DeKalb",
+  "city": "Doraville",
+  "zip_code": "30340",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a055"
+  },
+  "Y": "33.89880035",
+  "X": "-84.3053571",
+  "garden_name": "Chamblee Charter High School",
+  "county": "DeKalb",
+  "city": "Chamblee",
+  "zip_code": "30341",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a056"
+  },
+  "Y": "33.92830909",
+  "X": "-84.29558156",
+  "garden_name": "Chestnut Elementary School",
+  "county": "DeKalb",
+  "city": "Dunwoody",
+  "zip_code": "30338",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a057"
+  },
+  "Y": "33.7921792",
+  "X": "-84.23603845",
+  "garden_name": "Clarkston High School",
+  "county": "DeKalb",
+  "city": "Clarkston",
+  "zip_code": "30021",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a058"
+  },
+  "Y": "33.82671363",
+  "X": "-84.30860389",
+  "garden_name": "Cliff Valley School",
+  "county": "DeKalb",
+  "address": "2426 Clairmont Road ",
+  "city": "Atlanta",
+  "zip_code": "30329",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a059"
+  },
+  "Y": "33.6969252",
+  "X": "-84.30173863",
+  "garden_name": "Clifton Elementary School",
+  "county": "DeKalb",
+  "address": "3132 Clifton Church Road",
+  "city": "Atlanta",
+  "zip_code": "30316",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a05a"
+  },
+  "Y": "33.69810928",
+  "X": "-84.25197299",
+  "garden_name": "Columbia Middle",
+  "county": "DeKalb",
+  "city": "Decatur",
+  "zip_code": "30034",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a05b"
+  },
+  "Y": "33.82353855",
+  "X": "-84.19887473",
+  "garden_name": "D.A.T.E. Academy School",
+  "county": "DeKalb",
+  "city": "Stone Mountain",
+  "zip_code": "30083",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a05c"
+  },
+  "Y": "33.78625381",
+  "X": "-84.30228053",
+  "garden_name": "Decatur Scott Community Garden",
+  "county": "DeKalb",
+  "city": "Decatur",
+  "zip_code": "30030",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a05d"
+  },
+  "Y": "33.82353855",
+  "X": "-84.19887473",
+  "garden_name": "DeKalb Academy of Tech & Enivronment School",
+  "county": "DeKalb",
+  "city": "Stone Mountain",
+  "zip_code": "30083",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a05e"
+  },
+  "Y": "33.79993381",
+  "X": "-84.19880168",
+  "garden_name": "DeKalb Alternative",
+  "county": "DeKalb",
+  "city": "Stone Mountain",
+  "zip_code": "30083",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a05f"
+  },
+  "Y": "33.83726227",
+  "X": "-84.57621003",
+  "garden_name": "Floyd Middle School",
+  "county": "Cobb",
+  "city": "Mableton",
+  "zip_code": "30126",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a060"
+  },
+  "Y": "34.19298651",
+  "X": "-84.53730936",
+  "garden_name": "Freedom Middle School",
+  "county": "Cherokee",
+  "city": "Canton",
+  "zip_code": "30114",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a061"
+  },
+  "Y": "34.00650579",
+  "X": "-83.91366814",
+  "garden_name": "Hebron Christian Academy Veggie School Garden",
+  "county": "Gwinnett",
+  "city": "Dacula",
+  "zip_code": "30019",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a062"
+  },
+  "Y": "33.91835886",
+  "X": "-84.28016569",
+  "garden_name": "Hightower Elementary School",
+  "county": "DeKalb",
+  "city": "Doraville",
+  "zip_code": "30360",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a063"
+  },
+  "Y": "33.82692818",
+  "X": "-84.22185625",
+  "garden_name": "Idlewood Elementary School",
+  "county": "DeKalb",
+  "city": "Tucker",
+  "zip_code": "30084",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a064"
+  },
+  "Y": "33.94819827",
+  "X": "-84.29710288",
+  "garden_name": "Kingsley Charter School",
+  "county": "DeKalb",
+  "address": "2051 Brendon Drive",
+  "city": "Atlanta",
+  "zip_code": "30338",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a065"
+  },
+  "Y": "33.91518914",
+  "X": "-84.31998648",
+  "garden_name": "Kittredge School",
+  "county": "DeKalb",
+  "address": "1663 E. Nancy Creek Drive",
+  "city": "Atlanta",
+  "zip_code": "30319",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a066"
+  },
+  "Y": "33.8347982",
+  "X": "-84.09089637",
+  "garden_name": "Lake Lucerne Estates Community Garden",
+  "county": "Gwinnett",
+  "city": "Lilburn",
+  "zip_code": "30047",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a067"
+  },
+  "Y": "33.88422186",
+  "X": "-84.61085664",
+  "garden_name": "Hollydale Elementary School",
+  "county": "Cobb",
+  "city": "Marietta",
+  "zip_code": "30008",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a068"
+  },
+  "Y": "34.07072954",
+  "X": "-84.06975536",
+  "garden_name": "Level Creek Elementary",
+  "county": "Gwinnett",
+  "city": "Suwanee",
+  "zip_code": "30024",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a069"
+  },
+  "Y": "34.10619571",
+  "X": "-84.47052622",
+  "garden_name": "Little River Elementary School",
+  "county": "Cherokee",
+  "city": "Woodstock",
+  "zip_code": "30188",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a06a"
+  },
+  "Y": "33.9351906",
+  "X": "-84.5036248",
+  "garden_name": "Marietta YELLS/Franklin Road Garden",
+  "county": "Cobb",
+  "city": "Marietta",
+  "zip_code": "30067",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a06b"
+  },
+  "Y": "33.94454968",
+  "X": "-84.68800799",
+  "garden_name": "Midway Covenant School",
+  "county": "Cobb",
+  "city": "Powder Springs",
+  "zip_code": "30127",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a06c"
+  },
+  "Y": "33.85812",
+  "X": "-84.5213611",
+  "garden_name": "Mill Pond Community Garden",
+  "county": "Cobb",
+  "city": "Smyrna",
+  "zip_code": "30082",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a06d"
+  },
+  "Y": "33.94345523",
+  "X": "-84.21003063",
+  "garden_name": "Norcross Community Garden",
+  "county": "Gwinnett",
+  "city": "Norcross",
+  "zip_code": "30071",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a06e"
+  },
+  "Y": "33.93759989",
+  "X": "-84.22147621",
+  "garden_name": "Norcross Elementary School Vegetable Garden",
+  "county": "Gwinnett",
+  "city": "Norcross",
+  "zip_code": "30071",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a06f"
+  },
+  "Y": "34.05026974",
+  "X": "-84.700675",
+  "garden_name": "North Cobb Neighborhood Senior Community Garden",
+  "county": "Cobb",
+  "city": "Acworth",
+  "zip_code": "30101",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a070"
+  },
+  "Y": "33.96585023",
+  "X": "-84.3626056",
+  "garden_name": "North Fulton Community Garden",
+  "county": "Fulton",
+  "address": "7741 Roswell Road",
+  "city": "Atlanta",
+  "zip_code": "30350",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a071"
+  },
+  "Y": "33.96269195",
+  "X": "-84.54202994",
+  "garden_name": "North Marietta Neighborhood Community Garden",
+  "county": "Cobb",
+  "city": "Marietta",
+  "zip_code": "30060",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a072"
+  },
+  "Y": "33.87952425",
+  "X": "-84.55133241",
+  "garden_name": "Norton Park Elementary School",
+  "county": "Cobb",
+  "city": "Smyrna",
+  "zip_code": "30082",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a073"
+  },
+  "Y": "33.90303998",
+  "X": "-84.25891391",
+  "garden_name": "Oakcliff Theme School",
+  "county": "DeKalb",
+  "address": "3151 Willow Oak Way ",
+  "city": "Atlanta",
+  "zip_code": "30340",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a074"
+  },
+  "Y": "33.67963416",
+  "X": "-84.26964439",
+  "garden_name": "Oakview Elementary School",
+  "county": "DeKalb",
+  "city": "Decatur",
+  "zip_code": "30034",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a075"
+  },
+  "Y": "33.77319531",
+  "X": "-84.33795687",
+  "garden_name": "Paideia School",
+  "county": "DeKalb",
+  "address": "1509 Ponce de Leon Ave NE",
+  "city": "Atlanta",
+  "zip_code": "30307",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a076"
+  },
+  "Y": "33.93110693",
+  "X": "-84.29488876",
+  "garden_name": "Peachtree Charter Middle School",
+  "county": "DeKalb",
+  "city": "Dunwoody",
+  "zip_code": "30338",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a077"
+  },
+  "Y": "33.89055273",
+  "X": "-84.00626036",
+  "garden_name": "Pharr Elementary School",
+  "county": "Gwinnett",
+  "city": "Snellville",
+  "zip_code": "30078",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a078"
+  },
+  "Y": "33.98447142",
+  "X": "-84.23024415",
+  "garden_name": "Pinckneyville Middle School Garden",
+  "county": "Gwinnett",
+  "city": "Norcross",
+  "zip_code": "30092",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a079"
+  },
+  "Y": "33.85488492",
+  "X": "-84.0630443",
+  "garden_name": "R. D. Head Elementary School",
+  "county": "Gwinnett",
+  "city": "Lilburn",
+  "zip_code": "30047",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a07a"
+  },
+  "Y": "33.65467475",
+  "X": "-84.02028773",
+  "garden_name": "Rockdale County Community Garden",
+  "county": "Rockdale",
+  "city": "Conyers",
+  "zip_code": "30094",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a07b"
+  },
+  "Y": "33.75800794",
+  "X": "-84.22193429",
+  "garden_name": "Rowland Elementary School",
+  "county": "DeKalb",
+  "city": "Stone Mountain",
+  "zip_code": "30083",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a07c"
+  },
+  "Y": "33.84767426",
+  "X": "-84.59885553",
+  "garden_name": "Sanders Elementary School",
+  "county": "Cobb",
+  "city": "Austell",
+  "zip_code": "30106",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a07d"
+  },
+  "Y": "33.829035",
+  "X": "-84.07785365",
+  "garden_name": "Shiloh Elementary School Granny's Garden",
+  "county": "Gwinnett",
+  "city": "Snellville",
+  "zip_code": "30039",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a07e"
+  },
+  "Y": "33.83798624",
+  "X": "-84.1597902",
+  "garden_name": "Smoke Rise Charter School",
+  "county": "DeKalb",
+  "city": "Stone Mountain",
+  "zip_code": "30087",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a07f"
+  },
+  "Y": "33.6757432",
+  "X": "-84.44574201",
+  "garden_name": "South Fulton Community Garden",
+  "county": "Fulton",
+  "city": "East Point",
+  "zip_code": "30344",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a080"
+  },
+  "Y": "33.70725637",
+  "X": "-84.11785994",
+  "garden_name": "Stoneview Elementary",
+  "county": "DeKalb",
+  "city": "Lithonia",
+  "zip_code": "30058",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a081"
+  },
+  "Y": "34.12776918",
+  "X": "-84.04640783",
+  "garden_name": "Sycamore Elementary School",
+  "county": "Gwinnett",
+  "city": "Sugar Hill",
+  "zip_code": "30518",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a082"
+  },
+  "Y": "33.86426771",
+  "X": "-84.48695375",
+  "garden_name": "Teasley Elementary School",
+  "county": "Cobb",
+  "city": "Smyrna",
+  "zip_code": "30080",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a083"
+  },
+  "Y": "33.99363734",
+  "X": "-84.40515731",
+  "garden_name": "Timber Ridge Elementary School",
+  "county": "Cobb",
+  "city": "Marietta",
+  "zip_code": "30068",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a084"
+  },
+  "Y": "33.76245467",
+  "X": "-84.2809779",
+  "garden_name": "Waldorff School",
+  "county": "DeKalb",
+  "city": "Decatur",
+  "zip_code": "30030",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a085"
+  },
+  "Y": "33.84148283",
+  "X": "-84.33714486",
+  "garden_name": "Woodward Elementary",
+  "county": "DeKalb",
+  "address": "3034 Curtis Drive",
+  "city": "Atlanta",
+  "zip_code": "30319",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a086"
+  },
+  "Y": "34.055253",
+  "X": "-84.44931601",
+  "garden_name": "Unity North Organic Community Garden",
+  "county": "Cobb",
+  "city": "Marietta",
+  "zip_code": "30066",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a087"
+  },
+  "Y": "33.85216605",
+  "X": "-84.53615215",
+  "garden_name": "Smyrna Community Garden",
+  "county": "Cobb",
+  "city": "Smyrna",
+  "zip_code": "30082",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a088"
+  },
+  "Y": "34.07258053",
+  "X": "-84.05123853",
+  "garden_name": "Roberts Elementary School",
+  "county": "Gwinnett",
+  "city": "Suwanee",
+  "zip_code": "30024",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a089"
+  },
+  "Y": "34.21620669",
+  "X": "-84.53262821",
+  "garden_name": "Knox Elementary School",
+  "county": "Cherokee",
+  "city": "Canton",
+  "zip_code": "30114",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a08a"
+  },
+  "Y": "33.87091006",
+  "X": "-84.67739288",
+  "garden_name": "Compton Elementary School",
+  "county": "Cobb",
+  "city": "Powder Springs",
+  "zip_code": "30127",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a08b"
+  },
+  "Y": "33.80721207",
+  "X": "-84.19168526",
+  "garden_name": "Hairston Lake Community Garden",
+  "county": "DeKalb",
+  "address": "1023 North Hairston Road",
+  "city": "Stone Mountain",
+  "zip_code": "30083",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a08c"
+  },
+  "Y": "33.67139266",
+  "X": "-84.30720161",
+  "garden_name": "Atlanta Family Church",
+  "county": "DeKalb",
+  "address": "3060 Bouldercrest Rd",
+  "city": "Ellenwood",
+  "zip_code": "30294",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a08d"
+  },
+  "Y": "33.73984445",
+  "X": "-84.51462359",
+  "garden_name": "Big Bethel Village",
+  "county": "Fulton",
+  "address": "500 Richard Allen Blvd SW",
+  "city": "Atlanta",
+  "zip_code": "30331",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a08e"
+  },
+  "Y": "33.70416329",
+  "X": "-84.35635408",
+  "garden_name": "Thomasville Center of Hope Boys and Girls Club",
+  "county": "Fulton",
+  "address": "1835 Henry Thomas Drive SE",
+  "city": "Atlanta",
+  "zip_code": "30315",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a08f"
+  },
+  "Y": "33.76502427",
+  "X": "-84.40907079",
+  "garden_name": "Elm Street Urban Farm",
+  "county": "Fulton",
+  "address": "380 Elm Street NW",
+  "city": "Atlanta",
+  "zip_code": "30314",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a090"
+  },
+  "Y": "33.7350824",
+  "X": "-84.37623784",
+  "garden_name": "Atlanta Neighborhood Charter School Farm",
+  "county": "DeKalb",
+  "address": "688 Grant Street",
+  "city": "Atlanta",
+  "zip_code": "30316",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a091"
+  },
+  "Y": "33.65764471",
+  "X": "-84.45213328",
+  "garden_name": "Favor Garden",
+  "county": "Clayton",
+  "address": "1926 John Calvin Ave",
+  "city": "College Park",
+  "zip_code": "30337",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a092"
+  },
+  "Y": "33.73987289",
+  "X": "-84.37397019",
+  "garden_name": "St. Nicholas Orthox Academy Garden",
+  "county": "Fulton",
+  "address": "543 Cherokee Ave SE",
+  "city": "Atlanta",
+  "zip_code": "30312",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a093"
+  },
+  "Y": "33.76303727",
+  "X": "-84.46937242",
+  "garden_name": "Back to Eden",
+  "county": "Fulton",
+  "address": "291 Hamilton E Holmes Dr NW",
+  "city": "Atlanta",
+  "zip_code": "30318",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a094"
+  },
+  "Y": "33.72796508",
+  "X": "-84.39764971",
+  "garden_name": "Pittman Park/Brother Moore Garden",
+  "county": "Fulton",
+  "address": "950 Garibaldi St SW",
+  "city": "Atlanta",
+  "zip_code": "30310",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a095"
+  },
+  "Y": "33.98605182",
+  "X": "-84.52715173",
+  "garden_name": "Sawyer Road Elementary SEALS",
+  "county": "Cobb",
+  "address": "840 Sawyer Rd",
+  "city": "Marietta",
+  "zip_code": "30062",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a096"
+  },
+  "Y": "33.72093466",
+  "X": "-84.43003348",
+  "garden_name": "Gilliam's Garden",
+  "county": "Fulton",
+  "address": "Oakland Terrace",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a097"
+  },
+  "Y": "33.75509702",
+  "X": "-84.33770915",
+  "garden_name": "Coan Edible School Yard",
+  "county": "DeKalb",
+  "address": "Hardee Street",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a098"
+  },
+  "Y": "33.94310568",
+  "X": "-84.35999386",
+  "garden_name": "UPS Headquarters",
+  "county": "Fulton",
+  "address": "Glenlake Parkway",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a099"
+  },
+  "Y": "33.74130222",
+  "X": "-84.39977624",
+  "garden_name": "HABESHA",
+  "county": "Fulton",
+  "address": "477 Windsor Street SW",
+  "city": "Atlanta",
+  "zip_code": "30312",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a09a"
+  },
+  "Y": "33.76664685",
+  "X": "-84.27858708",
+  "garden_name": "United Methodist Children's Home",
+  "county": "Dekalb",
+  "address": "500 South Columbia Drive",
+  "city": "Decatur",
+  "zip_code": "30030",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a09b"
+  },
+  "Y": "33.72835638",
+  "X": "-84.40517608",
+  "garden_name": "Welch Street Community Garden",
+  "county": "Fulton",
+  "address": "975 Welch Street",
+  "city": "Atlanta",
+  "zip_code": "30310",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a09c"
+  },
+  "Y": "33.73027531",
+  "X": "-84.434928",
+  "garden_name": "Outdoor Activity Center",
+  "county": "Fulton",
+  "address": "1442 Richland Road",
+  "city": "Atlanta",
+  "zip_code": "30310",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a09d"
+  },
+  "Y": "33.74649123",
+  "X": "-84.38110977",
+  "garden_name": "Wesley International Academy",
+  "county": "Fulton",
+  "address": "211 Memorial Drive",
+  "city": "Atlanta",
+  "zip_code": "30312",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a09e"
+  },
+  "Y": "33.74647923",
+  "X": "-84.19583169",
+  "garden_name": "Roots of Change Farm",
+  "county": "Dekalb",
+  "address": "1634 South Hairston Road",
+  "city": "Stone Mountain",
+  "zip_code": "30088",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a09f"
+  },
+  "Y": "33.75837015",
+  "X": "-84.34962177",
+  "garden_name": "Gateway Park",
+  "county": "Fulton",
+  "address": "Brantley Street NE",
+  "city": "Atlanta",
+  "zip_code": "30307",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0a0"
+  },
+  "Y": "33.77196514",
+  "X": "-84.428396",
+  "garden_name": "Northwest Youth Power Early Learning Center",
+  "county": "Fulton",
+  "address": "1225 Donald Lee Hollowell Parkway",
+  "city": "Atlanta",
+  "zip_code": "30318",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0a1"
+  },
+  "Y": "33.74573782",
+  "X": "-84.42472221",
+  "garden_name": "Omenala Griot African Teaching Museum",
+  "county": "Fulton",
+  "address": "337 Dargan Place",
+  "city": "Atlanta",
+  "zip_code": "30310",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0a2"
+  },
+  "Y": "33.86263011",
+  "X": "-84.21405296",
+  "garden_name": "Kelly C Cofer Park Pollinator Garden & Orchard",
+  "county": "Dekalb",
+  "address": "4259 North Park Drive",
+  "city": "Tucker",
+  "zip_code": "30084",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0a3"
+  },
+  "Y": "33.68560407",
+  "X": "-84.44367504",
+  "garden_name": "East Point Historical Society",
+  "county": "Fulton",
+  "address": "1685 Norman Berry Drive",
+  "city": "East Point",
+  "zip_code": "30344",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0a4"
+  },
+  "Y": "33.678713",
+  "X": "-84.42336404",
+  "garden_name": "River Park",
+  "county": "Fulton",
+  "address": "Blount Street",
+  "city": "East Point",
+  "zip_code": "30344",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0a5"
+  },
+  "Y": "33.76607789",
+  "X": "-84.44850586",
+  "garden_name": "Kindezi School",
+  "county": "Fulton",
+  "address": "1890 Detroit Avenue",
+  "city": "Atlanta",
+  "zip_code": "30314",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0a6"
+  },
+  "Y": "33.69630711",
+  "X": "-84.43799404",
+  "garden_name": "Colonial Hills Neighborhood Orchard",
+  "county": "Fulton",
+  "city": "Atlanta",
+  "zip_code": "30344",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0a7"
+  },
+  "Y": "33.75452607",
+  "X": "-84.327941",
+  "garden_name": "Toomer Elementary School",
+  "county": "Dekalb",
+  "address": "65 Rogers Street",
+  "city": "Atlanta",
+  "zip_code": "30317",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0a8"
+  },
+  "Y": "33.75522",
+  "X": "-84.33786007",
+  "garden_name": "Coan Middle School",
+  "county": "Dekalb",
+  "address": "1503 Hardee Street",
+  "city": "Atlanta",
+  "zip_code": "30317",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0a9"
+  },
+  "Y": "33.743398",
+  "X": "-84.33034207",
+  "garden_name": "Dekalb Memorial Park",
+  "county": "Dekalb",
+  "address": "353 Wilkinson Drive",
+  "city": "Atlanta",
+  "zip_code": "30317",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0aa"
+  },
+  "Y": "33.73880593",
+  "X": "-84.34420607",
+  "garden_name": "East Atlanta Village Farmers Market",
+  "county": "Dekalb",
+  "address": "561 Flat Shoals Avenue",
+  "city": "Atlanta",
+  "zip_code": "30316",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0ab"
+  },
+  "Y": "33.73765989",
+  "X": "-84.34711196",
+  "garden_name": "Brownwood Park",
+  "county": "Dekalb",
+  "address": "602 Brownwood Avenue",
+  "city": "Atlanta",
+  "zip_code": "30316",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0ac"
+  },
+  "Y": "33.74049211",
+  "X": "-84.34763307",
+  "garden_name": "Branan Towers",
+  "county": "Dekalb",
+  "address": "1200 Glenwood Avenue",
+  "city": "Atlanta",
+  "zip_code": "30316",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0ad"
+  },
+  "Y": "33.70589486",
+  "X": "-84.32608004",
+  "garden_name": "McNair High School",
+  "county": "Dekalb",
+  "address": "1804 Bouldercrest Road",
+  "city": "Atlanta",
+  "zip_code": "30316",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0ae"
+  },
+  "Y": "33.73466464",
+  "X": "-84.42166604",
+  "garden_name": "Patchworks City Farms",
+  "county": "Fulton",
+  "address": "765 Peeples Street",
+  "city": "Atlanta",
+  "zip_code": "30310",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0af"
+  },
+  "Y": "33.73289896",
+  "X": "-84.42172004",
+  "garden_name": "Brown Middle School Beltline Orchard",
+  "county": "Fulton",
+  "address": "Beecher Street & Peeples Street",
+  "city": "Atlanta",
+  "zip_code": "30310",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0b0"
+  },
+  "Y": "33.74279625",
+  "X": "-84.42415011",
+  "garden_name": "Good Shepherd Agro Ecology Center",
+  "county": "Fulton",
+  "address": "445 Lawton Street",
+  "city": "Atlanta",
+  "zip_code": "30310",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0b1"
+  },
+  "Y": "33.73131986",
+  "X": "-84.37352396",
+  "garden_name": "Erskine Fountain Community Orchards",
+  "county": "Fulton",
+  "address": "Cherokee Avenue & Orchard Street",
+  "city": "Atlanta",
+  "zip_code": "30315",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0b2"
+  },
+  "Y": "33.705582",
+  "X": "-84.42498204",
+  "garden_name": "Doghead Farm",
+  "county": "Fulton",
+  "address": "1117 Birch Street",
+  "city": "Atlanta",
+  "zip_code": "30310",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0b3"
+  },
+  "Y": "33.72115895",
+  "X": "-84.43023095",
+  "garden_name": "Gilliam's Community Garden",
+  "county": "Fulton",
+  "address": "1286 Oakland Terrace",
+  "city": "Atlanta",
+  "zip_code": "30310",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0b4"
+  },
+  "Y": "33.72385774",
+  "X": "-84.463266",
+  "garden_name": "Providence Missionary Baptist Church",
+  "county": "Fulton",
+  "address": "2295 Benjamin E Mays Drive",
+  "city": "Atlanta",
+  "zip_code": "30311",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0b5"
+  },
+  "Y": "33.76202674",
+  "X": "-84.331951",
+  "garden_name": "Lake Claire Community Land Trust",
+  "county": "Dekalb",
+  "address": "280 Arizona Avenue",
+  "city": "Atlanta",
+  "zip_code": "30307",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0b6"
+  },
+  "Y": "33.76927103",
+  "X": "-84.34040097",
+  "garden_name": "Mary Lin Elementary School",
+  "county": "Dekalb",
+  "address": "586 Candler Park Drive",
+  "city": "Atlanta",
+  "zip_code": "30307",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0b7"
+  },
+  "Y": "33.76249174",
+  "X": "-84.41017051",
+  "garden_name": "Vine City Neighborhood Orchard",
+  "county": "Fulton",
+  "address": "292 Sunset Avenue",
+  "city": "Atlanta",
+  "zip_code": "30314",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0b8"
+  },
+  "Y": "33.75818374",
+  "X": "-84.42164051",
+  "garden_name": "Washington Park",
+  "county": "Fulton",
+  "address": "102 Ollie Street",
+  "city": "Atlanta",
+  "zip_code": "30314",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0b9"
+  },
+  "Y": "33.72810972",
+  "X": "-84.360431",
+  "garden_name": "Tapestry Community Garden",
+  "county": "Fulton",
+  "address": "842 East Confederate Avenue",
+  "city": "Atlanta",
+  "zip_code": "30316",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0ba"
+  },
+  "Y": "33.71816177",
+  "X": "-84.37677877",
+  "garden_name": "Choosewood Park Neighborhood Orchard",
+  "county": "Fulton",
+  "address": "1334 Grant Street",
+  "city": "Atlanta",
+  "zip_code": "30315",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0bb"
+  },
+  "Y": "33.75181574",
+  "X": "-84.376678",
+  "garden_name": "Truly Living Well",
+  "county": "Fulton",
+  "address": "75 Hilliard Street",
+  "city": "Atlanta",
+  "zip_code": "30312",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0bc"
+  },
+  "Y": "33.76194005",
+  "X": "-84.2971262",
+  "garden_name": "Wylde Center",
+  "county": "Dekalb",
+  "address": "435 Oakview Road",
+  "city": "Decatur",
+  "zip_code": "30030",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0bd"
+  },
+  "Y": "33.77099353",
+  "X": "-84.37556144",
+  "garden_name": "Cosby Spear Memorial Tower",
+  "county": "Fulton",
+  "address": "355 North Avenue",
+  "city": "Atlanta",
+  "zip_code": "30308",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0be"
+  },
+  "Y": "33.59511443",
+  "X": "-84.33536967",
+  "garden_name": "Community Garden of Morrow",
+  "county": "Clayton",
+  "address": "Jonesboro Road",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0bf"
+  },
+  "Y": "33.74713467",
+  "X": "-84.35588563",
+  "garden_name": "Homegrown Restaurant",
+  "county": "Fulton",
+  "address": "Memorial Drive",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0c0"
+  },
+  "Y": "33.82286166",
+  "X": "-84.32422625",
+  "garden_name": "Atwood Community Garden at Kittridge Park",
+  "county": "DeKalb",
+  "address": "Off of Holly Lane Road",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0c1"
+  },
+  "Y": "33.7320761",
+  "X": "-84.23607663",
+  "garden_name": "Austin Drive Garden",
+  "county": "DeKalb",
+  "address": "1989 Austin Drive",
+  "city": "Decatur",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0c2"
+  },
+  "Y": "33.89413688",
+  "X": "-84.32582664",
+  "garden_name": "Blackburn Park Community Garden",
+  "county": "DeKalb",
+  "address": "Donaldson Drive",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0c3"
+  },
+  "Y": "33.71142318",
+  "X": "-84.38257824",
+  "garden_name": "Blackshere Community Garden",
+  "county": "Fulton",
+  "address": "14 Meldon Avenue",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0c4"
+  },
+  "Y": "33.946366",
+  "X": "-84.30467346",
+  "garden_name": "Camp Isadore Alterman",
+  "county": "DeKalb",
+  "address": "5342 Tilly Mill Road",
+  "city": "Dunwoody",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0c5"
+  },
+  "Y": "33.85813328",
+  "X": "-84.30406133",
+  "garden_name": "Cider City Garden",
+  "county": "DeKalb",
+  "address": "2052 Dover Hill Pl",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0c6"
+  },
+  "Y": "33.76345427",
+  "X": "-84.436664",
+  "garden_name": "Cinnamon City Farms",
+  "address": "1490 Joseph E. Boone",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0c7"
+  },
+  "Y": "33.84480016",
+  "X": "-84.01058398",
+  "garden_name": "Community Garden at Snellville",
+  "address": "2500 Sawyer Pkwy SW",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0c8"
+  },
+  "Y": "33.95662626",
+  "X": "-84.33278686",
+  "garden_name": "Dunwoody Nature Center",
+  "address": "5343 Roberts Drive",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0c9"
+  },
+  "Y": "33.52412075",
+  "X": "-84.61369029",
+  "garden_name": "Families First Community Garden",
+  "address": "8410 Gullatt Road",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0ca"
+  },
+  "Y": "33.86666899",
+  "X": "-84.38916476",
+  "garden_name": "Farm Chastain ",
+  "address": "4001 Powers Ferry Rd",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0cb"
+  },
+  "Y": "33.58075603",
+  "X": "-84.49365778",
+  "garden_name": "Flatshoals rd. 30349 Community Garden, Inc.",
+  "address": "3190 Flatshoals Rd",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0cc"
+  },
+  "Y": "34.28517876",
+  "X": "-83.8300958",
+  "garden_name": "Gainesville Housing Authority Garden",
+  "address": "854 Davis Street",
+  "city": "Gainesville",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0cd"
+  },
+  "Y": "34.05254653",
+  "X": "-84.19849523",
+  "garden_name": "Gan Tamid Community Garden",
+  "address": "11165 Parsons Road",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0ce"
+  },
+  "Y": "33.95347148",
+  "X": "-84.53093217",
+  "garden_name": "Georgia Baptist Children's Homes and Family Ministries",
+  "address": "729 Lawrence Street NE",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0cf"
+  },
+  "Y": "33.73964154",
+  "X": "-84.32508564",
+  "garden_name": "Greater Piney Grove Community Farm",
+  "address": "1879 Glenwood Ave SE",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0d0"
+  },
+  "Y": "33.54367657",
+  "X": "-83.5102424",
+  "garden_name": "Harvest of the Heart Garden",
+  "address": "1140 Monticello Hwy #200a",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0d1"
+  },
+  "Y": "33.78251114",
+  "X": "-84.42426843",
+  "garden_name": "Howell Station Community Garden",
+  "address": "1150 Niles Ave NW",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0d2"
+  },
+  "Y": "33.7431271",
+  "X": "-84.41999995",
+  "garden_name": "John Harland Boys & Girls Club Garden",
+  "address": "434 Peoples Street SW",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0d3"
+  },
+  "Y": "33.99873836",
+  "X": "-84.21942762",
+  "garden_name": "Jones Bridge Community Garden",
+  "address": "4403 Whitecap Lane",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0d4"
+  },
+  "Y": "33.70028859",
+  "X": "-84.39191801",
+  "garden_name": "Jospeh B. Whitehead Boys & Girls Club",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0d5"
+  },
+  "Y": "33.43959661",
+  "X": "-84.15119808",
+  "garden_name": "Lewis Street Community Garden",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0d6"
+  },
+  "Y": "33.82612343",
+  "X": "-84.28339119",
+  "garden_name": "Mason's LaVista community garden",
+  "address": "2998 LaVista Rd",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0d7"
+  },
+  "Y": "33.77014805",
+  "X": "-84.43941215",
+  "garden_name": "Mena's farm",
+  "address": "544 Elmwood Rd",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0d8"
+  },
+  "Y": "33.78025443",
+  "X": "-84.40958842",
+  "garden_name": "My Sisters Atlanta Union Mission House",
+  "address": "921 Howell Mill Rd",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0d9"
+  },
+  "Y": "33.79478999",
+  "X": "-84.28954539",
+  "garden_name": "North Decatur Presvyterian Church Garden",
+  "address": "611 Medlock Road",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0da"
+  },
+  "Y": "33.7082786",
+  "X": "-84.48096037",
+  "garden_name": "Pearl Academy Agriculture and Environmental Center",
+  "address": "1722 Harbin Road SW",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0db"
+  },
+  "Y": "33.73516724",
+  "X": "-84.43837281",
+  "garden_name": "San Pedro Community Garden at Westview",
+  "address": "1540 Olympian Circle SW",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0dc"
+  },
+  "Y": "33.83357352",
+  "X": "-84.38720948",
+  "garden_name": "Seeds of Life Community Garden",
+  "address": "2820 Peachtree Road NW",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0dd"
+  },
+  "Y": "33.73935034",
+  "X": "-84.32228384",
+  "garden_name": "The GROVE Urban Farm",
+  "address": "1577 Terry Mill Road",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0de"
+  },
+  "Y": "33.76582849",
+  "X": "-84.3848059",
+  "garden_name": "The Mustard Seed Garden at St. Luke's",
+  "address": "435 Peachtree Street NE",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0df"
+  },
+  "Y": "33.7139679",
+  "X": "-84.39297465",
+  "garden_name": "The Veranda at Carver",
+  "address": "217 Thirkeld Ave",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0e0"
+  },
+  "Y": "33.7462758",
+  "X": "-84.3951024",
+  "garden_name": "Welcome House (Caring Works)",
+  "address": "234 Memorial Drive",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0e1"
+  },
+  "Y": "33.81490605",
+  "X": "-84.3323473",
+  "garden_name": "Post Briarcliff Community Garden",
+  "address": "500 Briarvista Way",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0e2"
+  },
+  "Y": "33.80895247",
+  "X": "-84.41615313",
+  "garden_name": "Post Collier Hills Community Garden",
+  "address": "914 Collier Road NW",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0e3"
+  },
+  "Y": "33.87660534",
+  "X": "-84.47240277",
+  "garden_name": "Post Crest Community Garden",
+  "address": "50 Adams Lake Blvd",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0e4"
+  },
+  "Y": "33.86257699",
+  "X": "-84.34018782",
+  "garden_name": "Post Glen Community Garden",
+  "address": "4120 Peachtree Rd NE",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0e5"
+  },
+  "Y": "33.81979295",
+  "X": "-84.37173244",
+  "garden_name": "Post Lindbergh Community Garden",
+  "address": "485 Lindbergh Place NE",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0e6"
+  },
+  "Y": "33.81916683",
+  "X": "-84.37522791",
+  "garden_name": "Post Peachtree Hills Community Garden",
+  "address": "350 Peachtree Hills Ave NE",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0e7"
+  },
+  "Y": "33.76593982",
+  "X": "-84.37841826",
+  "garden_name": "Post Renaissance Community Garden",
+  "address": "400 Central Park Place",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0e8"
+  },
+  "Y": "33.87028696",
+  "X": "-84.47989594",
+  "garden_name": "Post Spring Community Garden",
+  "address": "3375 Spring Hill Parkway SE",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0e9"
+  },
+  "Y": "33.85076558",
+  "X": "-84.36792346",
+  "garden_name": "Post Stratford Community Garden",
+  "address": "3400 Stratford Road",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0ea"
+  },
+  "Y": "33.75011894",
+  "X": "-84.30892584",
+  "garden_name": "East Lake Community Learning Garden",
+  "address": "56 2nd Avenue Southeast",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0eb"
+  },
+  "Y": "33.82485512",
+  "X": "-84.26386893",
+  "garden_name": "Springbrook",
+  "county": "DeKalb",
+  "address": "1502 Springbrook Dr.",
+  "city": "Decatur",
+  "zip_code": "30033",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0ec"
+  },
+  "Y": "33.82504759",
+  "X": "-84.28913353",
+  "garden_name": "Frazier-Rowe",
+  "county": "DeKalb",
+  "address": "2880 Lavista Rd.",
+  "city": "Decatur",
+  "zip_code": "30033",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0ed"
+  },
+  "Y": "33.76889722",
+  "X": "-84.18799305",
+  "garden_name": "Mainstreet Community Services Assoc Garden of Eatin",
+  "county": "DeKalb",
+  "address": "4950 Mainstreet Park Dr",
+  "zip_code": "30088",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0ee"
+  },
+  "Y": "33.88897227",
+  "X": "-84.27553001",
+  "garden_name": "Doravile Unity Gardens",
+  "county": "DeKalb",
+  "address": "Chestnut Drive and Wheeler Drive",
+  "city": "Doraville",
+  "zip_code": "30340",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0ef"
+  },
+  "Y": "33.94211068",
+  "X": "-84.20121325",
+  "garden_name": "Gardens 4 Growing Community",
+  "county": "Gwinnett",
+  "address": "321 Price Place",
+  "city": "Norcross",
+  "zip_code": "30071",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0f0"
+  },
+  "Y": "33.68252505",
+  "X": "-84.21418244",
+  "garden_name": "One Accord Community Garden",
+  "county": "DeKalb",
+  "address": "5285 Flat Shoals Pkwy",
+  "zip_code": "30034",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0f1"
+  },
+  "Y": "33.77242051",
+  "X": "-84.3234691",
+  "garden_name": "Deepdene",
+  "county": "DeKalb",
+  "address": "1999 N. Ponce de Leon Ave.",
+  "city": "Atlanta",
+  "zip_code": "30307",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0f2"
+  },
+  "Y": "33.85875505",
+  "X": "-84.08082397",
+  "garden_name": "Good Shepherd Presbyterian Church Community Garden",
+  "county": "Gwinnett",
+  "address": "1400 Killian Hill Road SW",
+  "city": "Lilburn",
+  "zip_code": "30047",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0f3"
+  },
+  "Y": "33.7430503",
+  "X": "-84.32948357",
+  "garden_name": "DeKalb Memorial",
+  "county": "DeKalb",
+  "address": "381 Wilkinson Dr.",
+  "city": "Atlanta",
+  "zip_code": "30317",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0f4"
+  },
+  "Y": "33.73530515",
+  "X": "-84.29550682",
+  "garden_name": "Barker-Bryant",
+  "county": "DeKalb",
+  "address": "2309 Hillside Dr.",
+  "city": "Decatur",
+  "zip_code": "30032",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0f5"
+  },
+  "Y": "33.96414074",
+  "X": "-84.06716699",
+  "garden_name": "Gwinnett Tech Learn-IN-Farm",
+  "county": "Gwinnett",
+  "address": "5150 Sugarloaf Parkway",
+  "city": "Lawrenceville",
+  "zip_code": "30043",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0f6"
+  },
+  "Y": "33.75171761",
+  "X": "-84.4728115",
+  "garden_name": "Hightower Manor Highrise Community Garden (HABESHA)",
+  "county": "Fulton",
+  "address": "2610 Martin Luther King Jr Dr SW",
+  "city": "Atlanta",
+  "zip_code": "30311",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0f7"
+  },
+  "Y": "33.67640787",
+  "X": "-84.18736945",
+  "garden_name": "Brown's MIll",
+  "county": "DeKalb",
+  "address": "5101 Browns Mill Rd.",
+  "city": "Lithonia",
+  "zip_code": "30038",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0f8"
+  },
+  "Y": "33.67261496",
+  "X": "-84.22664828",
+  "garden_name": "Chapel Hill",
+  "county": "DeKalb",
+  "address": "3984 Lehigh Blvd.",
+  "city": "Decatur",
+  "zip_code": "30034",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0f9"
+  },
+  "Y": "33.69795052",
+  "X": "-84.25337477",
+  "garden_name": "Exchange",
+  "county": "Dekalb",
+  "address": "2771 Columbia Dr.",
+  "city": "Decatur",
+  "zip_code": "30034",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0fa"
+  },
+  "Y": "33.96874558",
+  "X": "-84.12759241",
+  "garden_name": "Archie's Garden Vegetable Demonstration Garden",
+  "county": "Gwinnet",
+  "address": "3251 McDaniel Road",
+  "city": "Duluth",
+  "zip_code": "30096",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0fb"
+  },
+  "Y": "33.75813615",
+  "X": "-84.27245597",
+  "garden_name": "Columbia Forest Hills Community Garden (HABESHA)",
+  "county": "DeKalbe",
+  "address": "1004 Columbia Drive",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0fc"
+  },
+  "Y": "33.89148693",
+  "X": "-84.28692365",
+  "garden_name": "Center for Pan Asian Community Services",
+  "county": "DeKalb",
+  "address": "3150 Shallowford Road NE",
+  "city": "Atlanta",
+  "zip_code": "30341",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0fd"
+  },
+  "Y": "33.77749755",
+  "X": "-84.46208775",
+  "garden_name": "RCF Community Garden",
+  "county": "Fulton",
+  "address": "2345 Donald Lee Hollowell Pkwy",
+  "city": "Atlanta",
+  "zip_code": "30318",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0fe"
+  },
+  "Y": "33.9554511",
+  "X": "-84.54464931",
+  "garden_name": "Reconnecting Our Roots Community Garden",
+  "county": "Cobb",
+  "address": "271 Lemon Street",
+  "city": "Marietta",
+  "zip_code": "30060",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a0ff"
+  },
+  "Y": "33.79204596",
+  "X": "-84.32228961",
+  "garden_name": "Emory University Hospital",
+  "county": "DeKalb",
+  "address": "569 Ashbury Circle ",
+  "city": "Atlanta",
+  "zip_code": "30322",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a100"
+  },
+  "Y": "33.85561069",
+  "X": "-84.22078374",
+  "garden_name": "Tucker Recreation",
+  "county": "DeKalb",
+  "address": "4898 Lavista Rd.",
+  "city": "Tucker",
+  "zip_code": "30084",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a101"
+  },
+  "Y": "33.78486319",
+  "X": "-84.24476851",
+  "garden_name": "Brookside",
+  "county": "Dekalb",
+  "address": "3661 N. Decatur Rd",
+  "city": "Decatur",
+  "zip_code": "30032",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a102"
+  },
+  "Y": "33.68957869",
+  "X": "-84.27387708",
+  "garden_name": "GSU Perimeter College Community Garden",
+  "county": "DeKalb",
+  "address": "3251 Panthersville Road",
+  "zip_code": "30034",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a103"
+  },
+  "Y": "33.8242785",
+  "X": "-84.3285528",
+  "garden_name": "Kittredge",
+  "county": "DeKalb",
+  "address": "1520 Kittredge Park Rd.",
+  "city": "Atlanta",
+  "zip_code": "30329",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a104"
+  },
+  "Y": "33.77223163",
+  "X": "-84.30367636",
+  "garden_name": "Swanton Hill Townhomes Community Garden",
+  "county": "DeKalb",
+  "address": "Swanton Hill Drive",
+  "city": "Decatur",
+  "zip_code": "30062",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a105"
+  },
+  "Y": "33.80578658",
+  "X": "-84.34505105",
+  "garden_name": "Zonolite",
+  "county": "DeKalb",
+  "address": "1147 Zonolite Pl.",
+  "city": "Atlanta",
+  "zip_code": "30306",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a106"
+  },
+  "Y": "33.76008095",
+  "X": "-84.17666569",
+  "garden_name": "Redan Crossing",
+  "county": "DeKalb",
+  "address": "5338 Redan Rd.",
+  "city": "Stone Mountain",
+  "zip_code": "30088",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a107"
+  },
+  "Y": "33.8911244",
+  "X": "-84.23656695",
+  "garden_name": "Pleasantdale Elementary",
+  "county": "DeKalb",
+  "address": "3695 Northlake Drive",
+  "zip_code": "30340",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a108"
+  },
+  "Y": "33.78698841",
+  "X": "-84.31746892",
+  "garden_name": "Rutledge",
+  "county": "DeKalb",
+  "address": "1812 Ridgewood Dr. NE",
+  "city": "Atlanta",
+  "zip_code": "30307",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a109"
+  },
+  "Y": "33.70707556",
+  "X": "-84.25387531",
+  "garden_name": "Exchange Recreation Center",
+  "county": "DeKalb",
+  "address": "2771 Columbia Drive",
+  "zip_code": "30034",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a10a"
+  },
+  "Y": "33.74520064",
+  "X": "-84.36761834",
+  "garden_name": "AG Rhodes Health and Rehab",
+  "county": "Fulton",
+  "address": "350 Boulevard SE",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a10b"
+  },
+  "Y": "33.43649083",
+  "X": "-84.48841148",
+  "garden_name": "The Ridge Nature Area",
+  "county": "Fayette",
+  "city": "Fayetteville",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a10c"
+  },
+  "Y": "33.77840447",
+  "X": "-84.31598701",
+  "garden_name": "Fernbank Elementary",
+  "county": "DeKalb",
+  "address": "157 heaton park Drive",
+  "city": "Atlanta",
+  "zip_code": "30307",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a10d"
+  },
+  "Y": "33.83274823",
+  "X": "-84.32013577",
+  "garden_name": "Immaculate Heart of Mary Catholic School",
+  "county": "DeKalb",
+  "address": "2855 Briarcliff Road NE",
+  "city": "Atlanta",
+  "zip_code": "30329",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a10e"
+  },
+  "Y": "33.74873245",
+  "X": "-84.42202702",
+  "garden_name": "M. Agnes Jones Elementary",
+  "county": "Fulton",
+  "address": "Agnes Jones Place",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a10f"
+  },
+  "Y": "33.75061488",
+  "X": "-84.42224349",
+  "garden_name": "Grow Montessori School",
+  "county": "Fulton",
+  "address": "Parsons Place",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a110"
+  },
+  "Y": "33.77234572",
+  "X": "-84.4981294",
+  "garden_name": "Carrie Steele-Pitts Home, Inc.",
+  "county": "Fulton",
+  "address": "667 fairburn Road NW",
+  "city": "Atlanta",
+  "zip_code": "30331",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a111"
+  },
+  "Y": "33.75324509",
+  "X": "-84.34289324",
+  "garden_name": "Whitefoord Elementary",
+  "county": "Fulton",
+  "address": "35 Whitefoord AVenue",
+  "city": "Atlanta",
+  "zip_code": "30317",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a112"
+  },
+  "Y": "34.06335296",
+  "X": "-84.65461411",
+  "garden_name": "Cornerstone Prep Academy",
+  "county": "Cobb",
+  "address": "3588 Hickory Grove Road NW",
+  "city": "Acworth",
+  "zip_code": "30101",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a113"
+  },
+  "Y": "33.76971749",
+  "X": "-84.49868865",
+  "garden_name": "Harper Archer Middle School",
+  "county": "Fulton",
+  "address": "3399 Collier Drive NW",
+  "city": "Atlanta",
+  "zip_code": "30331",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a114"
+  },
+  "Y": "34.2109439",
+  "X": "-84.12545885",
+  "garden_name": "Learning 4 Life",
+  "county": "Forsyth",
+  "address": "875 Lanier 400 Parkway",
+  "city": "Cumming",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a115"
+  },
+  "Y": "33.8195437",
+  "X": "-84.39005266",
+  "garden_name": "E. Rivers Elementary",
+  "county": "Fulton",
+  "address": "8 Peachtree Battle Ave",
+  "city": "Atlanta",
+  "zip_code": "30305",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a116"
+  },
+  "Y": "33.74102946",
+  "X": "-84.37656907",
+  "garden_name": "Grant Park Cooperative Preschool",
+  "county": "Fulton",
+  "address": "501 Grant Street SSE",
+  "city": "Atlanta",
+  "zip_code": "30312",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a117"
+  },
+  "Y": "33.6998951",
+  "X": "-84.56102948",
+  "garden_name": "SandTown Middle School",
+  "county": "Fulton",
+  "address": "5400 Campbellton Road SW",
+  "city": "Atlanta",
+  "zip_code": "30331",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a118"
+  },
+  "Y": "34.0283488",
+  "X": "-84.73565191",
+  "garden_name": "Pickett's Mill School",
+  "county": "Cobb",
+  "address": "6400 Old Stilesboro Road",
+  "city": "Acworth",
+  "zip_code": "30101",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a119"
+  },
+  "Y": "33.93955769",
+  "X": "-84.51942959",
+  "garden_name": "KSU Marietta Campus",
+  "county": "Cobb",
+  "city": "Marietta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a11a"
+  },
+  "Y": "33.73581759",
+  "X": "-84.34969563",
+  "garden_name": "Montessorit In Town",
+  "county": "DeKalb",
+  "address": "678 Moreland Ave NE",
+  "city": "Atlanta",
+  "zip_code": "30306",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a11b"
+  },
+  "Y": "34.23147782",
+  "X": "-84.10280013",
+  "garden_name": "MarketPLACE Garden",
+  "county": "Forsyth",
+  "address": "2550 The Place Circle",
+  "zip_code": "30040",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a11c"
+  },
+  "Y": "34.14398597",
+  "X": "-84.20057477",
+  "garden_name": "St. Brendan's Garden",
+  "address": "4633 Shiloh Road",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a11d"
+  },
+  "Y": "33.75232609",
+  "X": "-84.34326263",
+  "garden_name": "Whitefoord, Inc. Child Development Program",
+  "county": "Fulton",
+  "address": "1353 george w. brumley way SE",
+  "city": "Atlanta",
+  "zip_code": "30317",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a11e"
+  },
+  "Y": "33.84917218",
+  "X": "-84.41658422",
+  "garden_name": "Pace Academy",
+  "county": "Fulton",
+  "address": "966 West Paces Ferry NW",
+  "city": "Atlanta",
+  "zip_code": "30327",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a11f"
+  },
+  "Y": "33.75364691",
+  "X": "-84.44245745",
+  "garden_name": "F.L. Stanton Elementary School",
+  "county": "Fulton",
+  "address": "1625 Martin Luther King Drive NW",
+  "city": "Atlanta",
+  "zip_code": "30314",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a120"
+  },
+  "Y": "33.69816838",
+  "X": "-84.41350308",
+  "garden_name": "Perkerson Elementary School",
+  "county": "Fulton",
+  "address": "2040 Brewer Blvd",
+  "city": "Atlanta",
+  "zip_code": "30310",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a121"
+  },
+  "Y": "33.74374196",
+  "X": "-84.34795244",
+  "garden_name": "The Highlander School",
+  "county": "DeKalb",
+  "address": "McPherson Avenue",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a122"
+  },
+  "Y": "33.88500703",
+  "X": "-84.13300003",
+  "garden_name": "Lilburn Community Garden",
+  "county": "Gwinnett",
+  "address": "Camp Creek Road",
+  "city": "Lilburn",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a123"
+  },
+  "Y": "34.27171571",
+  "X": "-84.09358576",
+  "garden_name": "911 Garden",
+  "county": "Forsyth",
+  "address": "3520 Settingdown Road",
+  "zip_code": "30041",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a124"
+  },
+  "Y": "33.71639234",
+  "X": "-84.36441987",
+  "garden_name": "Benteen Elementary",
+  "county": "Fulton",
+  "address": "200 Cassanova Street SE",
+  "city": "Atlanta",
+  "zip_code": "30315",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a125"
+  },
+  "Y": "34.2207815",
+  "X": "-84.13172444",
+  "garden_name": "Storytime Garden/Charles Place Garden",
+  "county": "Forsyth",
+  "address": "585 Dahlonega Street",
+  "city": "Cumming",
+  "zip_code": "30040",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a126"
+  },
+  "Y": "33.73700299",
+  "X": "-84.31524125",
+  "garden_name": "Mohammed School of Atlanta",
+  "county": "DeKalb",
+  "address": "735 Fayetteville Road SE",
+  "city": "Atlanta",
+  "zip_code": "30316",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a127"
+  },
+  "Y": "33.72115895",
+  "X": "-84.43023095",
+  "garden_name": "Gilliam's Community Garden",
+  "county": "Fulton",
+  "address": "Oakland Terrace",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a128"
+  },
+  "Y": "34.14372314",
+  "X": "-84.26762628",
+  "garden_name": "ADA/K-9 Garden",
+  "county": "Fulton",
+  "address": "3160 Francis Road",
+  "zip_code": "30040",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a129"
+  },
+  "Y": "33.86013319",
+  "X": "-84.27305449",
+  "garden_name": "Hawthorne Elementary",
+  "county": "DeKalb",
+  "address": "2535 Caladium Drive",
+  "city": "Atlanta",
+  "zip_code": "30345",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a12a"
+  },
+  "Y": "34.04902793",
+  "X": "-84.69072502",
+  "garden_name": "Frey Elementary",
+  "county": "Cobb",
+  "address": "3865 Mars Hill Road",
+  "city": "Acworth",
+  "zip_code": "30101",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a12b"
+  },
+  "Y": "33.74312608",
+  "X": "-84.42144824",
+  "garden_name": "Dean Rusk Head Start Program",
+  "county": "Fulton",
+  "address": "433 Peeples Street",
+  "city": "Atlanta",
+  "zip_code": "30310",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a12c"
+  },
+  "Y": "33.84034258",
+  "X": "-84.40951831",
+  "garden_name": "The Preschool at Northside Drive Baptist Church",
+  "county": "Fulton",
+  "address": "3100 Northside Drive NW",
+  "city": "Atlanta",
+  "zip_code": "30305",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a12d"
+  },
+  "Y": "34.07133871",
+  "X": "-84.11876924",
+  "garden_name": "Chattahoochee Pointe Park",
+  "county": "Forsyth",
+  "address": "2500 Bettis Tribble Gap Rd",
+  "zip_code": "30040",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a12e"
+  },
+  "Y": "33.75001055",
+  "X": "-84.38394482",
+  "garden_name": "Georgia State University Child Development",
+  "county": "Fulton",
+  "address": "197 Deactur Street",
+  "city": "Atlanta",
+  "zip_code": "30303",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a12f"
+  },
+  "Y": "34.30535096",
+  "X": "-84.06755912",
+  "garden_name": "Butterfly Garden",
+  "county": "Forsyth",
+  "address": "5345 Settingdown Road",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a130"
+  },
+  "Y": "33.89917722",
+  "X": "-84.5709565",
+  "garden_name": "Center for Children and Young Adults",
+  "county": "Cobb",
+  "address": "2221 Austell Road",
+  "zip_code": "30008",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a131"
+  },
+  "Y": "33.75809125",
+  "X": "-84.50011904",
+  "garden_name": "Margaret A. Fain Elementary",
+  "county": "Fulton",
+  "address": "101 Hemphill School Road",
+  "city": "Atlanta",
+  "zip_code": "30331",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a132"
+  },
+  "Y": "33.8618326",
+  "X": "-84.45225766",
+  "garden_name": "The Lovett School",
+  "county": "Fulton",
+  "address": "4075 Paces Ferry Road NW",
+  "city": "Atlanta",
+  "zip_code": "30327",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a133"
+  },
+  "Y": "33.69539225",
+  "X": "-84.40308965",
+  "garden_name": "Urban Sprouts Farm",
+  "county": "Fulton",
+  "address": "Reynolds Drive",
+  "city": "Atlanta",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a134"
+  },
+  "Y": "33.92851731",
+  "X": "-84.36495624",
+  "garden_name": "Cumberland Academy of Georgia",
+  "county": "Fulton",
+  "address": "650 Mount Vernon HWY",
+  "city": "Atlanta",
+  "zip_code": "30328",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a135"
+  },
+  "Y": "33.72345436",
+  "X": "-84.41301548",
+  "garden_name": "Beltline Farm - Aluma Farm",
+  "county": "Fulton",
+  "address": "1150 Allene Avenue SW",
+  "city": "Atlanta",
+  "zip_code": "30310",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a136"
+  },
+  "Y": "34.18163133",
+  "X": "-84.19420317",
+  "garden_name": "GA Native Trailhead",
+  "county": "Forsyth",
+  "address": "5120 Bethelview Rd",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a137"
+  },
+  "Y": "33.849023",
+  "X": "-84.29077483",
+  "garden_name": "The GLOBE Academy",
+  "county": "Dekalb",
+  "address": "2225 heritage Dr",
+  "city": "Atlanta",
+  "zip_code": "30345",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a138"
+  },
+  "Y": "33.80451294",
+  "X": "-84.36809918",
+  "garden_name": "Rock Spring Preschool",
+  "county": "Fulton",
+  "address": "1824 Piedmon Avenue NE",
+  "city": "Atlanta",
+  "zip_code": "30324",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a139"
+  },
+  "Y": "34.20522761",
+  "X": "-84.22081466",
+  "garden_name": "Poetry Garden",
+  "county": "Forsyth",
+  "address": "5010 Post Road",
+  "zip_code": "30040",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a13a"
+  },
+  "Y": "33.83708401",
+  "X": "-84.41775428",
+  "garden_name": "Trinity Early Learning Center",
+  "county": "Fulton",
+  "address": "3003 Howell Mill RD. NW",
+  "city": "Atlanta",
+  "zip_code": "30327",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a13b"
+  },
+  "Y": "34.24490043",
+  "X": "-84.13873781",
+  "garden_name": "Louise Mashburn/ Sawnee Mountain",
+  "county": "Forsyth",
+  "address": "2500 Bettis-Tribble Gap Road",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a13c"
+  },
+  "Y": "33.74977872",
+  "X": "-84.38913669",
+  "garden_name": "Central Presbyterian Preschool",
+  "county": "Fulton",
+  "address": "201 Washington Street",
+  "city": "Atlanta",
+  "zip_code": "30303",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a13d"
+  },
+  "Y": "33.75355167",
+  "X": "-84.38482483",
+  "garden_name": "GSU Child Development Program Suttles Center",
+  "county": "Fulton",
+  "address": "30 Courtland Street SE",
+  "city": "Atlanta",
+  "zip_code": "30303",
+  "state": "ga"
+},{
+  "_id": {
+    "$oid": "6088b16f45b294189866a13e"
+  },
+  "Y": "33.85647344",
+  "X": "-84.25862305",
+  "garden_name": "Henderson Mill Elementary School",
+  "county": "DeKalb",
+  "address": "2408 henderson mill road",
+  "city": "Atlanta",
+  "zip_code": "30345",
+  "state": "ga"
+}]
