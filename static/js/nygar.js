@@ -3,12 +3,6 @@ var gaGar = "../data/georgia_Garden_DATA.csv"
 var nyGar = "../data/NYGarden.GeoJson"
 var countyLinesURL = "../data/us_Counties.json"
 
-// d3.json(nyGar, function(data) {
-//     createFeatures(data.features);
-//   });
-// d3.json(nyGar).then(function(data) {
-//   L.geoJson(data)});
-
     function createFeatures(NYG) {
 
     // loop through feature array
@@ -22,6 +16,7 @@ var countyLinesURL = "../data/us_Counties.json"
         return L.marker(latlng)
     }
     });
+
     createMap(garden);
   }
   function createMap(garden) {
@@ -64,18 +59,21 @@ var countyLinesURL = "../data/us_Counties.json"
       };
     var myMap = L.map("mapid", {
         center: [
-          37.09, -95.71],
-        zoom: 3.25,
+        43.14223781173655,-75.15938000650515],
+        zoom: 7,
         layers: [outdoors, garden, countyLines]
   
     });
         // Add Fault lines data
     d3.json(countyLinesURL, function(countyData) {
-            // Adding our geoJSON data, along with style information, to the tectonicplates
+            // Adding our geoJSON data, along with style and filter infomation information, to the tectonicplates
             // layer.
             L.geoJson(countyData, {
-              color: "yellow",
-              weight: 2
+              color: "black",
+              weight: 2,
+              filter: function(feature) {
+                return (feature.properties.STATE == 36)
+              }
             })
             .addTo(countyLines);
     });
@@ -83,24 +81,32 @@ var countyLinesURL = "../data/us_Counties.json"
         collapsed: false
         }).addTo(myMap);
 
-legend.onAdd = function(myMap){
-    var div = L.DomUtil.create('div', 'info legend'),
-        grades = [0, 1, 2, 3, 4, 5],
-        labels = [];
+// legend.onAdd = function(myMap){
+//     var div = L.DomUtil.create('div', 'info legend'),
+//         grades = [0, 1, 2, 3, 4, 5],
+//         labels = [];
 
-    // loop through our density intervals and generate a label with a colored square for each interval
-  for (var i = 0; i < grades.length; i++) {
-    div.innerHTML +=
-      '<i style="background:' + getColor(grades[i] + 1) + '"></i> ' +grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
-    }
-    return div;
-  };
+//     // loop through our density intervals and generate a label with a colored square for each interval
+//   for (var i = 0; i < grades.length; i++) {
+//     div.innerHTML +=
+//       '<i style="background:' + getColor(grades[i] + 1) + '"></i> ' +grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
+//     }
+//     return div;
+//   };
 
-  legend.addTo(myMap);
+//  legend.addTo(myMap);
 }
+
+// var countyLinesURL = L.geoJSON(data, {
+//   filter: function (feature) {
+//       return {true: feature.properties.state = 3};
+//   }
+// }).addTo(countyLines);
 
   d3.json(nyGar, function(data) {
     createFeatures(data)
     // L.geoJson(data).addTo(myMap)
   });
+
+  
 
