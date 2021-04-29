@@ -1,436 +1,436 @@
-school_year,aggregation_type,county_name,school_name,subgroup_name,enroll_cnt,grad_cnt,drop_cnt,grad_pct,drop_pct,state
-2019-20,School,Taliaferro County,Taliaferro County School,All Students,11,11,0,1,0,ga
-2019-20,School,Candler County,Metter Career Academy,All Students,14,13,1,0.928571429,0.071428571,ga
-2019-20,School,Muscogee County,Rainey McCullers School of the Arts,All Students,14,14,0,1,0,ga
-2019-20,School,Commission Charter Schools- Fulton Leadership Academy,Fulton Leadership Academy,All Students,17,16,1,0.941176471,0.058823529,ga
-2019-20,School,Berrien County,Berrien Academy Performance Learning Center,All Students,18,11,7,0.611111111,0.388888889,ga
-2019-20,School,Murray County,Pleasant Valley Innovative School,All Students,22,18,4,0.818181818,0.181818182,ga
-2019-20,School,Commission Charter Schools- CCAT School,Statesboro STEAM Academy,All Students,22,22,0,1,0,ga
-2019-20,School,Webster County,Webster County High School,All Students,23,21,2,0.913043478,0.086956522,ga
-2019-20,School,Dublin City,Moore Street Facility,All Students,24,22,2,0.916666667,0.083333333,ga
-2019-20,School,Habersham County,Habersham Success Academy,All Students,25,24,1,0.96,0.04,ga
-2019-20,School,Clarke County,Classic City High School,All Students,26,13,13,0.5,0.5,ga
-2019-20,School,Quitman County,Quitman County High School,All Students,26,19,7,0.730769231,0.269230769,ga
-2019-20,School,Bleckley County,Bleckley County Success Academy,All Students,27,21,6,0.777777778,0.222222222,ga
-2019-20,School,Stewart County,Stewart County High School,All Students,27,25,2,0.925925926,0.074074074,ga
-2019-20,School,Pike County,Zebulon High School,All Students,28,25,3,0.892857143,0.107142857,ga
-2019-20,School,DeKalb County,Tapestry Public Charter School,All Students,29,25,4,0.862068966,0.137931034,ga
-2019-20,School,Griffin-Spalding County,AZ Kelsey Academy,All Students,32,21,11,0.65625,0.34375,ga
-2019-20,School,Worth County,Worth County Achievement Center,All Students,34,12,22,0.352941176,0.647058824,ga
-2019-20,School,Atlanta Public Schools,Corretta Scott King Womens' Leadership Academy,All Students,34,34,0,1,0,ga
-2019-20,School,Talbot County,Central Elementary/High School,All Students,35,28,7,0.8,0.2,ga
-2019-20,School,Commission Charter Schools- Pataula Charter Academy,Pataula Charter Academy,All Students,35,32,3,0.914285714,0.085714286,ga
-2019-20,School,Brooks County,Delta Innovative School,All Students,36,28,8,0.777777778,0.222222222,ga
-2019-20,School,Sumter County,Furlow Charter School,All Students,36,29,7,0.805555556,0.194444444,ga
-2019-20,School,Glascock County,Glascock County Middle/High School,All Students,38,35,3,0.921052632,0.078947368,ga
-2019-20,School,Warren County,Warren County High School,All Students,43,39,4,0.906976744,0.093023256,ga
-2019-20,School,Echols County,Echols County High School,All Students,44,41,3,0.931818182,0.068181818,ga
-2019-20,School,Atlanta Public Schools,Atlanta Classical Academy,All Students,44,43,1,0.977272727,0.022727273,ga
-2019-20,School,Gwinnett County,McClure Health Science High School,All Students,46,45,1,0.97826087,0.02173913,ga
-2019-20,School,Savannah-Chatham County,Savannah Early College High School,All Students,49,49,0,1,0,ga
-2019-20,School,Atlanta Public Schools,B.E.S.T Academy,All Students,49,38,11,0.775510204,0.224489796,ga
-2019-20,School,State Charter Schools II- Baconton Community Charter School,Baconton Community Charter School,All Students,49,49,0,1,0,ga
-2019-20,School,Coffee County,Wiregrass Regional College and Career Academy,All Students,54,52,2,0.962962963,0.037037037,ga
-2019-20,School,Calhoun County,Calhoun County High School,All Students,56,52,4,0.928571429,0.071428571,ga
-2019-20,School,Montgomery County,Montgomery County High School,All Students,58,49,9,0.844827586,0.155172414,ga
-2019-20,School,Decatur County,New Beginning Learning Center,All Students,60,41,19,0.683333333,0.316666667,ga
-2019-20,School,Greene County,Lake Oconee Charter High School,All Students,60,57,3,0.95,0.05,ga
-2019-20,School,Towns County,Towns County High School,All Students,60,57,3,0.95,0.05,ga
-2019-20,School,Hancock County,Hancock Central High School,All Students,61,53,8,0.868852459,0.131147541,ga
-2019-20,School,DeKalb County,Dekalb Early College Academy,All Students,63,63,0,1,0,ga
-2019-20,School,Clayton County,Elite Scholars Academy School,All Students,64,64,0,1,0,ga
-2019-20,School,Treutlen County,Treutlen Middle/High School,All Students,65,52,13,0.8,0.2,ga
-2019-20,School,Bulloch County,Portal Middle/High School,All Students,67,59,8,0.880597015,0.119402985,ga
-2019-20,School,Miller County,Miller County High School,All Students,70,57,13,0.814285714,0.185714286,ga
-2019-20,School,Randolph County,Randolph Clay High School,All Students,70,55,15,0.785714286,0.214285714,ga
-2019-20,School,Jenkins County,Jenkins County High School,All Students,73,58,15,0.794520548,0.205479452,ga
-2019-20,School,DeKalb County,DeKalb School of the Arts,All Students,74,74,0,1,0,ga
-2019-20,School,Twiggs County,Twiggs County High School,All Students,74,63,11,0.851351351,0.148648649,ga
-2019-20,School,Thomas County,Bishop Hall Charter School,All Students,75,59,16,0.786666667,0.213333333,ga
-2019-20,School,Emanuel County,Emanuel County Institute,All Students,77,73,4,0.948051948,0.051948052,ga
-2019-20,School,State Charter Schools II- Academy For Classical Education,Academy For Classical Education,All Students,77,77,0,1,0,ga
-2019-20,School,Richmond County,Richmond County Technical Career Magnet School,All Students,78,78,0,1,0,ga
-2019-20,School,Wheeler County,Wheeler County High School,All Students,78,71,7,0.91025641,0.08974359,ga
-2019-20,School,Meriwether County,Greenville High School,All Students,80,66,14,0.825,0.175,ga
-2019-20,School,Dooly County,Dooly County High School,All Students,82,74,8,0.902439024,0.097560976,ga
-2019-20,School,Atlanta Public Schools,Early College High School at Carver,All Students,83,76,7,0.915662651,0.084337349,ga
-2019-20,School,Carroll County,Mt. Zion High School,All Students,85,85,0,1,0,ga
-2019-20,School,Turner County,Turner County High School,All Students,85,81,4,0.952941176,0.047058824,ga
-2019-20,School,McIntosh County,McIntosh Academy,All Students,86,84,2,0.976744186,0.023255814,ga
-2019-20,School,Mitchell County,Mitchell County High School,All Students,86,73,13,0.848837209,0.151162791,ga
-2019-20,School,Wilcox County,Wilcox County High School,All Students,86,82,4,0.953488372,0.046511628,ga
-2019-20,School,Lincoln County,Lincoln County High School,All Students,89,84,5,0.943820225,0.056179775,ga
-2019-20,School,Johnson County,Johnson County High School,All Students,93,84,9,0.903225806,0.096774194,ga
-2019-20,School,Richmond County,Johnson Magnet,All Students,93,92,1,0.989247312,0.010752688,ga
-2019-20,School,Schley County,Schley Middle High School,All Students,93,86,7,0.924731183,0.075268817,ga
-2019-20,School,Terrell County,Terrell High School,All Students,96,85,11,0.885416667,0.114583333,ga
-2019-20,School,Commerce City,Commerce High School,All Students,96,88,8,0.916666667,0.083333333,ga
-2019-20,School,Richmond County,Davidson Magnet School,All Students,98,98,0,1,0,ga
-2019-20,School,Carroll County,Bowdon High School,All Students,99,91,8,0.919191919,0.080808081,ga
-2019-20,School,Charlton County,Charlton County High School,All Students,99,90,9,0.909090909,0.090909091,ga
-2019-20,School,Greene County,Greene County High School,All Students,100,86,14,0.86,0.14,ga
-2019-20,School,Pulaski County,Hawkinsville High School,All Students,100,91,9,0.91,0.09,ga
-2019-20,School,Wilkes County,Washington-Wilkes Comprehensive High School,All Students,100,82,18,0.82,0.18,ga
-2019-20,School,Chickamauga City,Gordon Lee High School,All Students,100,99,1,0.99,0.01,ga
-2019-20,School,Lanier County,Lanier County High School,All Students,101,93,8,0.920792079,0.079207921,ga
-2019-20,School,Wilkinson County,Wilkinson County High School,All Students,102,96,6,0.941176471,0.058823529,ga
-2019-20,School,Clinch County,Clinch County High School,All Students,106,96,10,0.905660377,0.094339623,ga
-2019-20,School,Macon County,Macon County High School,All Students,106,82,24,0.773584906,0.226415094,ga
-2019-20,School,Seminole County,Seminole County Middle/High School,All Students,107,99,8,0.925233645,0.074766355,ga
-2019-20,School,Taylor County,Taylor County High School,All Students,109,94,15,0.862385321,0.137614679,ga
-2019-20,School,Social Circle City,Social Circle High School,All Students,109,103,6,0.944954128,0.055045872,ga
-2019-20,School,Brooks County,Brooks County High School,All Students,111,104,7,0.936936937,0.063063063,ga
-2019-20,School,Chattahoochee County,Chattahoochee County High School,All Students,111,98,13,0.882882883,0.117117117,ga
-2019-20,School,Atlanta Public Schools,Charles Drew Charter School JA/SA,All Students,111,109,2,0.981981982,0.018018018,ga
-2019-20,School,Meriwether County,Manchester High School,All Students,112,86,26,0.767857143,0.232142857,ga
-2019-20,School,Atlanta Public Schools,Crim High School,All Students,114,19,95,0.166666667,0.833333333,ga
-2019-20,School,Trion City,Trion High School,All Students,114,113,1,0.99122807,0.00877193,ga
-2019-20,School,Crawford County,Crawford County High School,All Students,115,90,25,0.782608696,0.217391304,ga
-2019-20,School,Pelham City,Pelham High School,All Students,115,99,16,0.860869565,0.139130435,ga
-2019-20,School,Marion County,Marion County Middle/High School,All Students,117,107,10,0.914529915,0.085470085,ga
-2019-20,School,Candler County,Metter High School,All Students,118,114,4,0.966101695,0.033898305,ga
-2019-20,School,Evans County,Claxton High School,All Students,121,106,15,0.876033058,0.123966942,ga
-2019-20,School,Telfair County,Telfair County High School,All Students,122,114,8,0.93442623,0.06557377,ga
-2019-20,School,Dublin City,Dublin High School,All Students,123,116,7,0.943089431,0.056910569,ga
-2019-20,School,Atkinson County,Atkinson County High School,All Students,124,114,10,0.919354839,0.080645161,ga
-2019-20,School,Savannah-Chatham County,The School of Liberal Studies at Savannah High,All Students,124,106,18,0.85483871,0.14516129,ga
-2019-20,School,Bacon County,Bacon County High School,All Students,126,117,9,0.928571429,0.071428571,ga
-2019-20,School,Houston County,Houston County WIN Academy,All Students,126,36,90,0.285714286,0.714285714,ga
-2019-20,School,Irwin County,Irwin County High School,All Students,126,118,8,0.936507937,0.063492063,ga
-2019-20,School,Gwinnett County,Gwinnett Online Campus,All Students,129,76,53,0.589147287,0.410852713,ga
-2019-20,School,Floyd County,Armuchee High School,All Students,130,126,4,0.969230769,0.030769231,ga
-2019-20,School,Richmond County,Laney High School,All Students,130,106,24,0.815384615,0.184615385,ga
-2019-20,School,Gwinnett County,Paul Duke STEM High School,All Students,132,111,21,0.840909091,0.159090909,ga
-2019-20,School,Fulton County,Hapeville Charter Career Academy,All Students,133,125,8,0.939849624,0.060150376,ga
-2019-20,School,Clayton County,Martha Ellen Stilwell School for the Performing Arts,All Students,138,137,1,0.992753623,0.007246377,ga
-2019-20,School,Oglethorpe County,Oglethorpe County High School,All Students,140,135,5,0.964285714,0.035714286,ga
-2019-20,School,Screven County,Screven County High School,All Students,142,123,19,0.866197183,0.133802817,ga
-2019-20,School,Bryan County,Bryan County High School,All Students,143,129,14,0.902097902,0.097902098,ga
-2019-20,School,Laurens County,East Laurens High School,All Students,148,130,18,0.878378378,0.121621622,ga
-2019-20,School,Richmond County,Josey High School,All Students,150,119,31,0.793333333,0.206666667,ga
-2019-20,School,Atlanta Public Schools,Carver High School,All Students,151,88,63,0.582781457,0.417218543,ga
-2019-20,School,Heard County,Heard County High School,All Students,152,134,18,0.881578947,0.118421053,ga
-2019-20,School,Whitfield County,Phoenix High School,All Students,152,76,76,0.5,0.5,ga
-2019-20,School,Carroll County,Temple High School,All Students,154,150,4,0.974025974,0.025974026,ga
-2019-20,School,Rabun County,Rabun County High School,All Students,154,143,11,0.928571429,0.071428571,ga
-2019-20,School,Hall County,Cherokee Bluff High School,All Students,155,148,7,0.95483871,0.04516129,ga
-2019-20,School,Hall County,Lanier College and Career Academy,All Students,156,68,88,0.435897436,0.564102564,ga
-2019-20,School,Savannah-Chatham County,Woodville-Tompkins Technical and Career High School,All Students,157,157,0,1,0,ga
-2019-20,School,DeKalb County,McNair High School,All Students,158,101,57,0.639240506,0.360759494,ga
-2019-20,School,Dalton Public Schools,Morris Innovative High School,All Students,159,55,104,0.34591195,0.65408805,ga
-2019-20,School,Floyd County,Coosa High School,All Students,160,145,15,0.90625,0.09375,ga
-2019-20,School,Savannah-Chatham County,Johnson High School,All Students,163,134,29,0.82208589,0.17791411,ga
-2019-20,School,Dade County,Dade County High School,All Students,163,142,21,0.871165644,0.128834356,ga
-2019-20,School,Bleckley County,Bleckley County High School,All Students,164,162,2,0.987804878,0.012195122,ga
-2019-20,School,Jasper County,Jasper County High School,All Students,166,157,9,0.945783133,0.054216867,ga
-2019-20,School,Floyd County,Model High,All Students,167,156,11,0.934131737,0.065868263,ga
-2019-20,School,Fulton County,McClarin High School,All Students,172,66,106,0.38372093,0.61627907,ga
-2019-20,School,Richmond County,Glenn Hills High School,All Students,173,136,37,0.786127168,0.213872832,ga
-2019-20,School,Early County,Early County High School,All Students,174,155,19,0.890804598,0.109195402,ga
-2019-20,School,Bremen City,Bremen High School,All Students,175,170,5,0.971428571,0.028571429,ga
-2019-20,School,Thomasville City,Thomasville High School,All Students,176,138,38,0.784090909,0.215909091,ga
-2019-20,School,Elbert County,Elbert County High School,All Students,177,154,23,0.870056497,0.129943503,ga
-2019-20,School,Atlanta Public Schools,KIPP Atlanta Collegiate Academy,All Students,177,148,29,0.836158192,0.163841808,ga
-2019-20,School,Vidalia City,Vidalia Comprehensive High School,All Students,178,167,11,0.938202247,0.061797753,ga
-2019-20,School,Richmond County,Butler High School,All Students,180,144,36,0.8,0.2,ga
-2019-20,School,Atlanta Public Schools,Booker T. Washington High School,All Students,181,133,48,0.73480663,0.26519337,ga
-2019-20,School,Toombs County,Toombs County High School,All Students,182,173,9,0.950549451,0.049450549,ga
-2019-20,School,DeKalb County,Elizabeth Andrews High School,All Students,183,29,154,0.158469945,0.841530055,ga
-2019-20,School,Lamar County,Lamar County High School,All Students,183,162,21,0.885245902,0.114754098,ga
-2019-20,School,Putnam County,Putnam County High School,All Students,185,167,18,0.902702703,0.097297297,ga
-2019-20,School,Berrien County,Berrien High School,All Students,186,170,16,0.913978495,0.086021505,ga
-2019-20,School,Muscogee County,Kendrick High School,All Students,192,164,28,0.854166667,0.145833333,ga
-2019-20,School,Union County,Union County High School,All Students,194,191,3,0.984536082,0.015463918,ga
-2019-20,School,Savannah-Chatham County,Groves High School,All Students,195,149,46,0.764102564,0.235897436,ga
-2019-20,School,Emanuel County,Swainsboro High School,All Students,195,156,39,0.8,0.2,ga
-2019-20,School,Floyd County,Pepperell High School,All Students,195,190,5,0.974358974,0.025641026,ga
-2019-20,School,Fulton County,Independence High School,All Students,195,59,136,0.302564103,0.697435897,ga
-2019-20,School,Bibb County,Northeast High School,All Students,196,157,39,0.801020408,0.198979592,ga
-2019-20,School,Jefferson County,Jefferson County High School,All Students,198,179,19,0.904040404,0.095959596,ga
-2019-20,School,Ben Hill County,Fitzgerald High School,All Students,199,179,20,0.899497487,0.100502513,ga
-2019-20,School,Murray County,Murray County High School,All Students,200,192,8,0.96,0.04,ga
-2019-20,School,Dodge County,Dodge County High School,All Students,201,193,8,0.960199005,0.039800995,ga
-2019-20,School,Jeff Davis County,Jeff Davis High School,All Students,201,187,14,0.930348259,0.069651741,ga
-2019-20,School,Gordon County,Gordon Central High School,All Students,202,190,12,0.940594059,0.059405941,ga
-2019-20,School,Atlanta Public Schools,South Atlanta High School,All Students,204,166,38,0.81372549,0.18627451,ga
-2019-20,School,Troup County,Callaway High School,All Students,205,187,18,0.912195122,0.087804878,ga
-2019-20,School,Muscogee County,Spencer High School,All Students,206,171,35,0.830097087,0.169902913,ga
-2019-20,School,Chattooga County,Chattooga High School,All Students,207,175,32,0.845410628,0.154589372,ga
-2019-20,School,Haralson County,Haralson County High School,All Students,207,203,4,0.980676329,0.019323671,ga
-2019-20,School,Washington County,Washington County High School,All Students,210,189,21,0.9,0.1,ga
-2019-20,School,Clayton County,North Clayton High School,All Students,214,165,49,0.771028037,0.228971963,ga
-2019-20,School,Cook County,Cook High School,All Students,214,202,12,0.943925234,0.056074766,ga
-2019-20,School,Murray County,North Murray High School,All Students,219,215,4,0.98173516,0.01826484,ga
-2019-20,School,Worth County,Worth County High School,All Students,219,179,40,0.817351598,0.182648402,ga
-2019-20,School,Bartow County,Adairsville High School,All Students,220,203,17,0.922727273,0.077272727,ga
-2019-20,School,DeKalb County,Towers High School,All Students,220,131,89,0.595454545,0.404545455,ga
-2019-20,School,Muscogee County,Carver High School,All Students,220,203,17,0.922727273,0.077272727,ga
-2019-20,School,Appling County,Appling County High School,All Students,221,205,16,0.92760181,0.07239819,ga
-2019-20,School,Savannah-Chatham County,Savannah Arts Academy,All Students,222,220,2,0.990990991,0.009009009,ga
-2019-20,School,DeKalb County,Redan High School,All Students,222,184,38,0.828828829,0.171171171,ga
-2019-20,School,Jackson County,East Jackson Comprehensive High School,All Students,222,210,12,0.945945946,0.054054054,ga
-2019-20,School,Banks County,Banks County High School,All Students,223,197,26,0.883408072,0.116591928,ga
-2019-20,School,Tattnall County,Tattnall County High School,All Students,223,199,24,0.892376682,0.107623318,ga
-2019-20,School,Morgan County,Morgan County High School,All Students,224,206,18,0.919642857,0.080357143,ga
-2019-20,School,Richmond County,Westside High School,All Students,224,199,25,0.888392857,0.111607143,ga
-2019-20,School,Bibb County,Rutland High School,All Students,225,175,50,0.777777778,0.222222222,ga
-2019-20,School,Gwinnett County,"Gwinnett School of Mathematics, Science and Technology",All Students,225,225,0,1,0,ga
-2019-20,School,Bibb County,Southwest High School,All Students,227,154,73,0.678414097,0.321585903,ga
-2019-20,School,Cobb County,Cobb Horizon High School,All Students,228,75,153,0.328947368,0.671052632,ga
-2019-20,School,Fannin County,Fannin County High School,All Students,228,217,11,0.951754386,0.048245614,ga
-2019-20,School,Muscogee County,Jordan Vocational High School,All Students,228,185,43,0.811403509,0.188596491,ga
-2019-20,School,Hart County,Hart County High School,All Students,230,219,11,0.952173913,0.047826087,ga
-2019-20,School,Atlanta Public Schools,Therrell High School,All Students,230,185,45,0.804347826,0.195652174,ga
-2019-20,School,Savannah-Chatham County,Windsor Forest High School,All Students,234,213,21,0.91025641,0.08974359,ga
-2019-20,School,Pike County,Pike County High School,All Students,235,226,9,0.961702128,0.038297872,ga
-2019-20,School,Polk County,Rockmart High School,All Students,236,215,21,0.911016949,0.088983051,ga
-2019-20,School,Butts County,Jackson High School,All Students,237,208,29,0.877637131,0.122362869,ga
-2019-20,School,Clayton County,Mount Zion High School,All Students,239,210,29,0.878661088,0.121338912,ga
-2019-20,School,Whitfield County,Coahulla Creek High School,All Students,239,229,10,0.958158996,0.041841004,ga
-2019-20,School,Atlanta Public Schools,Douglass High School,All Students,239,183,56,0.765690377,0.234309623,ga
-2019-20,School,Long County,Long County High School,All Students,242,214,28,0.884297521,0.115702479,ga
-2019-20,School,Lumpkin County,Lumpkin County High School,All Students,245,237,8,0.967346939,0.032653061,ga
-2019-20,School,Sumter County,Americus Sumter High School (Old Americus-Sumter HS S),All Students,245,232,13,0.946938776,0.053061224,ga
-2019-20,School,Stephens County,Stephens County High School,All Students,246,231,15,0.93902439,0.06097561,ga
-2019-20,School,White County,White County High School,All Students,246,233,13,0.947154472,0.052845528,ga
-2019-20,School,Savannah-Chatham County,Beach High School,All Students,247,199,48,0.805668016,0.194331984,ga
-2019-20,School,Brantley County,Brantley County High School,All Students,249,235,14,0.9437751,0.0562249,ga
-2019-20,School,Savannah-Chatham County,Islands High School,All Students,252,237,15,0.94047619,0.05952381,ga
-2019-20,School,Clayton County,Riverdale High School,All Students,252,218,34,0.865079365,0.134920635,ga
-2019-20,School,DeKalb County,Columbia High School,All Students,252,194,58,0.76984127,0.23015873,ga
-2019-20,School,Liberty County,Liberty County High School,All Students,252,237,15,0.94047619,0.05952381,ga
-2019-20,School,Bulloch County,Southeast Bulloch High School,All Students,254,228,26,0.897637795,0.102362205,ga
-2019-20,School,Catoosa County,Lakeview-Fort Oglethorpe High School,All Students,257,208,49,0.809338521,0.190661479,ga
-2019-20,School,Fayette County,Sandy Creek High School,All Students,257,217,40,0.844357977,0.155642023,ga
-2019-20,School,Peach County,Peach County High School,All Students,258,226,32,0.875968992,0.124031008,ga
-2019-20,School,Richmond County,Cross Creek High School,All Students,262,225,37,0.858778626,0.141221374,ga
-2019-20,School,Savannah-Chatham County,Jenkins High School,All Students,265,235,30,0.886792453,0.113207547,ga
-2019-20,School,Richmond County,Hephzibah High School,All Students,265,218,47,0.822641509,0.177358491,ga
-2019-20,School,Calhoun City,Calhoun High School,All Students,266,266,0,1,0,ga
-2019-20,School,Fulton County,Skyview High School,All Students,267,26,241,0.097378277,0.902621723,ga
-2019-20,School,Hall County,West Hall High School,All Students,267,255,12,0.95505618,0.04494382,ga
-2019-20,School,Walker County,LaFayette High School,All Students,267,237,30,0.887640449,0.112359551,ga
-2019-20,School,Dawson County,Dawson County High School,All Students,269,258,11,0.959107807,0.040892193,ga
-2019-20,School,Walton County,Monroe Area High School,All Students,269,249,20,0.925650558,0.074349442,ga
-2019-20,School,Columbia County,Harlem High School,All Students,270,249,21,0.922222222,0.077777778,ga
-2019-20,School,Jackson County,Jackson County Comprehensive High School,All Students,270,250,20,0.925925926,0.074074074,ga
-2019-20,School,McDuffie County,Thomson High School,All Students,271,222,49,0.819188192,0.180811808,ga
-2019-20,School,Bibb County,Central High School,All Students,272,224,48,0.823529412,0.176470588,ga
-2019-20,School,Hall County,East Hall High School,All Students,273,245,28,0.897435897,0.102564103,ga
-2019-20,School,Catoosa County,Ringgold High School,All Students,274,261,13,0.952554745,0.047445255,ga
-2019-20,School,Grady County,Cairo High School,All Students,274,246,28,0.897810219,0.102189781,ga
-2019-20,School,Oconee County,Oconee County High School,All Students,274,265,9,0.967153285,0.032846715,ga
-2019-20,School,Richmond County,Performance Learning Center,All Students,274,69,205,0.251824818,0.748175182,ga
-2019-20,School,Franklin County,Franklin County High School,All Students,275,252,23,0.916363636,0.083636364,ga
-2019-20,School,DeKalb County,Cedar Grove High School,All Students,279,234,45,0.838709677,0.161290323,ga
-2019-20,School,Burke County,Burke County High School,All Students,280,257,23,0.917857143,0.082142857,ga
-2019-20,School,Muscogee County,Shaw High School,All Students,280,256,24,0.914285714,0.085714286,ga
-2019-20,School,Clayton County,Jonesboro High School,All Students,281,225,56,0.800711744,0.199288256,ga
-2019-20,School,Dougherty County,Dougherty Comprehensive High School,All Students,281,233,48,0.829181495,0.170818505,ga
-2019-20,School,Muscogee County,Columbus High School,All Students,281,281,0,1,0,ga
-2019-20,School,Pierce County,Pierce County High School,All Students,284,244,40,0.85915493,0.14084507,ga
-2019-20,School,DeKalb County,Stone Mountain High School,All Students,286,200,86,0.699300699,0.300699301,ga
-2019-20,School,Baldwin County,Baldwin High School,All Students,287,244,43,0.850174216,0.149825784,ga
-2019-20,School,Thomas County,Thomas County Central High School,All Students,287,278,9,0.968641115,0.031358885,ga
-2019-20,School,Muscogee County,Hardaway High School,All Students,288,258,30,0.895833333,0.104166667,ga
-2019-20,School,Gilmer County,Gilmer High School,All Students,289,261,28,0.903114187,0.096885813,ga
-2019-20,School,Gordon County,Sonoraville High School,All Students,290,270,20,0.931034483,0.068965517,ga
-2019-20,School,Jefferson City,Jefferson High School,All Students,290,288,2,0.993103448,0.006896552,ga
-2019-20,School,Henry County,McDonough High School,All Students,291,254,37,0.872852234,0.127147766,ga
-2019-20,School,Rockdale County,Salem High School,All Students,291,242,49,0.83161512,0.16838488,ga
-2019-20,School,Walker County,Ridgeland High School,All Students,291,269,22,0.924398625,0.075601375,ga
-2019-20,School,Savannah-Chatham County,New Hampstead High School,All Students,292,276,16,0.945205479,0.054794521,ga
-2019-20,School,Bibb County,Westside High School,All Students,293,207,86,0.706484642,0.293515358,ga
-2019-20,School,Crisp County,Crisp County High School,All Students,294,267,27,0.908163265,0.091836735,ga
-2019-20,School,Dougherty County,Monroe High School,All Students,294,234,60,0.795918367,0.204081633,ga
-2019-20,School,Troup County,LaGrange High School,All Students,294,243,51,0.826530612,0.173469388,ga
-2019-20,School,Hall County,North Hall High School,All Students,295,275,20,0.93220339,0.06779661,ga
-2019-20,School,Richmond County,Academy of Richmond County High School,All Students,297,271,26,0.912457912,0.087542088,ga
-2019-20,School,Laurens County,West Laurens High School,All Students,299,273,26,0.913043478,0.086956522,ga
-2019-20,School,Whitfield County,Southeast Whitfield County High School,All Students,299,275,24,0.919732441,0.080267559,ga
-2019-20,School,DeKalb County,"Arabia Mountain High School - Academy of Engineering, Medicine and Environm",All Students,300,299,1,0.996666667,0.003333333,ga
-2019-20,School,Bibb County,Howard High School,All Students,301,249,52,0.827242525,0.172757475,ga
-2019-20,School,DeKalb County,Miller Grove High School,All Students,301,223,78,0.740863787,0.259136213,ga
-2019-20,School,DeKalb County,Southwest DeKalb High School,All Students,303,261,42,0.861386139,0.138613861,ga
-2019-20,School,Monroe County,Mary Persons High School,All Students,304,280,24,0.921052632,0.078947368,ga
-2019-20,School,Carroll County,Central High School,All Students,305,284,21,0.931147541,0.068852459,ga
-2019-20,School,Henry County,Luella High School,All Students,305,265,40,0.868852459,0.131147541,ga
-2019-20,School,Madison County,Madison County High School,All Students,306,291,15,0.950980392,0.049019608,ga
-2019-20,School,Henry County,Hampton High School,All Students,308,269,39,0.873376623,0.126623377,ga
-2019-20,School,Walton County,Walnut Grove High School,All Students,310,278,32,0.896774194,0.103225806,ga
-2019-20,School,Hall County,Chestatee High School,All Students,312,290,22,0.929487179,0.070512821,ga
-2019-20,School,Pickens County,Pickens County High School,All Students,314,295,19,0.939490446,0.060509554,ga
-2019-20,School,Clayton County,Mundy's Mill High School,All Students,316,271,45,0.857594937,0.142405063,ga
-2019-20,School,Decatur County,Bainbridge High School,All Students,316,293,23,0.92721519,0.07278481,ga
-2019-20,School,DeKalb County,Druid Hills High School,All Students,316,271,45,0.857594937,0.142405063,ga
-2019-20,School,Bartow County,Woodland High School,All Students,317,291,26,0.917981073,0.082018927,ga
-2019-20,School,Clayton County,Charles R. Drew High School,All Students,318,239,79,0.751572327,0.248427673,ga
-2019-20,School,Houston County,Perry High School,All Students,318,297,21,0.933962264,0.066037736,ga
-2019-20,School,Clarke County,Cedar Shoals High School,All Students,319,246,73,0.771159875,0.228840125,ga
-2019-20,School,Whitfield County,Northwest Whitfield County High School,All Students,320,297,23,0.928125,0.071875,ga
-2019-20,School,Catoosa County,Heritage High School,All Students,325,299,26,0.92,0.08,ga
-2019-20,School,Fayette County,Fayette County High School,All Students,325,272,53,0.836923077,0.163076923,ga
-2019-20,School,Troup County,Troup County High School,All Students,327,283,44,0.865443425,0.134556575,ga
-2019-20,School,Thomaston-Upson County,Upson-Lee High School,All Students,327,290,37,0.886850153,0.113149847,ga
-2019-20,School,DeKalb County,Lithonia High School,All Students,328,271,57,0.826219512,0.173780488,ga
-2019-20,School,Atlanta Public Schools,"Maynard H. Jackson, Jr. High School",All Students,330,272,58,0.824242424,0.175757576,ga
-2019-20,School,Griffin-Spalding County,Spalding High School,All Students,331,304,27,0.918429003,0.081570997,ga
-2019-20,School,Atlanta Public Schools,Grady High School,All Students,331,301,30,0.909365559,0.090634441,ga
-2019-20,School,Decatur City,Decatur High School,All Students,332,315,17,0.948795181,0.051204819,ga
-2019-20,School,Oconee County,North Oconee High School,All Students,333,327,6,0.981981982,0.018018018,ga
-2019-20,School,Bartow County,Cass High School,All Students,334,300,34,0.898203593,0.101796407,ga
-2019-20,School,Griffin-Spalding County,Griffin High School,All Students,334,304,30,0.910179641,0.089820359,ga
-2019-20,School,Ware County,Ware County High School,All Students,338,310,28,0.917159763,0.082840237,ga
-2019-20,School,Hall County,Johnson High School,All Students,345,313,32,0.907246377,0.092753623,ga
-2019-20,School,Buford City,Buford High School,All Students,345,320,25,0.927536232,0.072463768,ga
-2019-20,School,Fulton County,Banneker High School,All Students,346,266,80,0.768786127,0.231213873,ga
-2019-20,School,Atlanta Public Schools,Mays High School,All Students,349,273,76,0.782234957,0.217765043,ga
-2019-20,School,Fulton County,Tri-Cities High School,All Students,350,295,55,0.842857143,0.157142857,ga
-2019-20,School,Carroll County,Villa Rica High School,All Students,352,336,16,0.954545455,0.045454545,ga
-2019-20,School,Dougherty County,Westover High School,All Students,353,311,42,0.88101983,0.11898017,ga
-2019-20,School,Wayne County,Wayne County High School,All Students,353,326,27,0.923512748,0.076487252,ga
-2019-20,School,Fayette County,Starrs Mill High School,All Students,354,341,13,0.963276836,0.036723164,ga
-2019-20,School,Hall County,Flowery Branch High,All Students,355,338,17,0.952112676,0.047887324,ga
-2019-20,School,Douglas County,Chapel Hill High School,All Students,356,338,18,0.949438202,0.050561798,ga
-2019-20,School,Polk County,Cedartown High School,All Students,356,299,57,0.83988764,0.16011236,ga
-2019-20,School,Fulton County,North Springs High School,All Students,358,329,29,0.918994413,0.081005587,ga
-2019-20,School,Henry County,Woodland High School,All Students,358,340,18,0.94972067,0.05027933,ga
-2019-20,School,Cartersville City,Cartersville High School,All Students,359,325,34,0.905292479,0.094707521,ga
-2019-20,School,Houston County,Warner Robins High School,All Students,363,319,44,0.878787879,0.121212121,ga
-2019-20,School,Henry County,Stockbridge High School,All Students,364,295,69,0.81043956,0.18956044,ga
-2019-20,School,Henry County,Locust Grove High,All Students,366,320,46,0.87431694,0.12568306,ga
-2019-20,School,Liberty County,Bradwell Institute,All Students,367,343,24,0.934604905,0.065395095,ga
-2019-20,School,Muscogee County,Northside High School,All Students,367,343,24,0.934604905,0.065395095,ga
-2019-20,School,DeKalb County,Stephenson High School,All Students,370,308,62,0.832432432,0.167567568,ga
-2019-20,School,Fayette County,Whitewater High School,All Students,372,354,18,0.951612903,0.048387097,ga
-2019-20,School,Cobb County,Allatoona High School,All Students,373,352,21,0.943699732,0.056300268,ga
-2019-20,School,Effingham County,South Effingham High School,All Students,375,357,18,0.952,0.048,ga
-2019-20,School,Paulding County,Hiram High School,All Students,377,331,46,0.877984085,0.122015915,ga
-2019-20,School,Columbia County,Greenbrier High School,All Students,378,373,5,0.986772487,0.013227513,ga
-2019-20,School,DeKalb County,Clarkston High School,All Students,378,214,164,0.566137566,0.433862434,ga
-2019-20,School,Clarke County,Clarke Central High School,All Students,379,327,52,0.862796834,0.137203166,ga
-2019-20,School,Forsyth County,Denmark High School,All Students,380,363,17,0.955263158,0.044736842,ga
-2019-20,School,Newton County,Eastside High School,All Students,380,339,41,0.892105263,0.107894737,ga
-2019-20,School,Jones County,Jones County High School,All Students,384,339,45,0.8828125,0.1171875,ga
-2019-20,School,Walton County,Loganville High School,All Students,385,358,27,0.92987013,0.07012987,ga
-2019-20,School,Clayton County,Morrow High School,All Students,386,318,68,0.823834197,0.176165803,ga
-2019-20,School,Henry County,Union Grove High,All Students,386,371,15,0.961139896,0.038860104,ga
-2019-20,School,DeKalb County,Cross Keys High School,All Students,387,237,150,0.612403101,0.387596899,ga
-2019-20,School,Henry County,Eagle's Landing High School,All Students,387,327,60,0.84496124,0.15503876,ga
-2019-20,School,DeKalb County,Tucker High School,All Students,392,314,78,0.801020408,0.198979592,ga
-2019-20,School,Cobb County,Kell High School,All Students,393,363,30,0.923664122,0.076335878,ga
-2019-20,School,DeKalb County,"Martin Luther King, Jr. High School",All Students,393,303,90,0.770992366,0.229007634,ga
-2019-20,School,Gwinnett County,Phoenix High School,All Students,393,61,332,0.155216285,0.844783715,ga
-2019-20,School,Glynn County,Brunswick High School,All Students,397,362,35,0.911838791,0.088161209,ga
-2019-20,School,Coffee County,Coffee County High School,All Students,398,370,28,0.929648241,0.070351759,ga
-2019-20,School,Paulding County,East Paulding High School,All Students,401,362,39,0.902743142,0.097256858,ga
-2019-20,School,Fayette County,McIntosh High School,All Students,405,380,25,0.938271605,0.061728395,ga
-2019-20,School,Clayton County,Lovejoy High School,All Students,407,355,52,0.872235872,0.127764128,ga
-2019-20,School,Clayton County,Forest Park High School,All Students,415,310,105,0.746987952,0.253012048,ga
-2019-20,School,Bulloch County,Statesboro High School,All Students,418,330,88,0.789473684,0.210526316,ga
-2019-20,School,Carrollton City,Carrollton High School,All Students,418,379,39,0.906698565,0.093301435,ga
-2019-20,School,Henry County,Ola High School,All Students,420,396,24,0.942857143,0.057142857,ga
-2019-20,School,Houston County,Veterans High School,All Students,421,407,14,0.966745843,0.033254157,ga
-2019-20,School,Douglas County,New Manchester High School,All Students,423,359,64,0.848699764,0.151300236,ga
-2019-20,School,Fulton County,Chattahoochee High School,All Students,423,407,16,0.962174941,0.037825059,ga
-2019-20,School,Paulding County,South Paulding High School,All Students,424,383,41,0.903301887,0.096698113,ga
-2019-20,School,Cobb County,Sprayberry High School,All Students,427,380,47,0.889929742,0.110070258,ga
-2019-20,School,Fulton County,Creekside High School,All Students,430,346,84,0.804651163,0.195348837,ga
-2019-20,School,Douglas County,Lithia Springs Comprehensive High School,All Students,431,375,56,0.870069606,0.129930394,ga
-2019-20,School,Coweta County,Northgate High School,All Students,434,405,29,0.933179724,0.066820276,ga
-2019-20,School,Columbia County,Lakeside High School,All Students,435,400,35,0.91954023,0.08045977,ga
-2019-20,School,Glynn County,Glynn Academy,All Students,435,416,19,0.956321839,0.043678161,ga
-2019-20,School,Paulding County,Paulding County High School,All Students,435,392,43,0.901149425,0.098850575,ga
-2019-20,School,Rockdale County,Heritage High School,All Students,435,374,61,0.859770115,0.140229885,ga
-2019-20,School,Fulton County,Riverwood International Charter School,All Students,436,392,44,0.899082569,0.100917431,ga
-2019-20,School,Fulton County,Northview High School,All Students,437,420,17,0.961098398,0.038901602,ga
-2019-20,School,Harris County,Harris County High School,All Students,437,390,47,0.892448513,0.107551487,ga
-2019-20,School,Gwinnett County,Lanier High School,All Students,439,418,21,0.952164009,0.047835991,ga
-2019-20,School,Rome City,Rome High School,All Students,442,411,31,0.929864253,0.070135747,ga
-2019-20,School,Habersham County,Habersham Central High School,All Students,444,425,19,0.957207207,0.042792793,ga
-2019-20,School,Barrow County,Apalachee High School,All Students,446,383,63,0.858744395,0.141255605,ga
-2019-20,School,Douglas County,Alexander High School,All Students,446,420,26,0.941704036,0.058295964,ga
-2019-20,School,Effingham County,Effingham County High School,All Students,447,390,57,0.872483221,0.127516779,ga
-2019-20,School,Henry County,Dutchtown High,All Students,448,411,37,0.917410714,0.082589286,ga
-2019-20,School,DeKalb County,Chamblee Charter High School,All Students,450,349,101,0.775555556,0.224444444,ga
-2019-20,School,Houston County,Northside High School,All Students,452,411,41,0.909292035,0.090707965,ga
-2019-20,School,Fulton County,Langston Hughes High School,All Students,455,388,67,0.852747253,0.147252747,ga
-2019-20,School,Cherokee County,River Ridge High School,All Students,460,409,51,0.889130435,0.110869565,ga
-2019-20,School,Barrow County,Winder-Barrow High School,All Students,462,390,72,0.844155844,0.155844156,ga
-2019-20,School,Houston County,Houston County High School,All Students,463,454,9,0.980561555,0.019438445,ga
-2019-20,School,Columbia County,Evans High School,All Students,464,415,49,0.894396552,0.105603448,ga
-2019-20,School,Fulton County,Westlake High School,All Students,464,440,24,0.948275862,0.051724138,ga
-2019-20,School,Cherokee County,Sequoyah High School,All Students,470,429,41,0.912765957,0.087234043,ga
-2019-20,School,Valdosta City,Valdosta High School,All Students,472,427,45,0.904661017,0.095338983,ga
-2019-20,School,Columbia County,Grovetown High School,All Students,474,422,52,0.890295359,0.109704641,ga
-2019-20,School,Cobb County,Kennesaw Mountain High School,All Students,476,433,43,0.909663866,0.090336134,ga
-2019-20,School,Dalton Public Schools,Dalton High School,All Students,481,457,24,0.95010395,0.04989605,ga
-2019-20,School,Newton County,Alcovy High School,All Students,484,429,55,0.886363636,0.113636364,ga
-2019-20,School,Coweta County,Newnan High School,All Students,486,449,37,0.923868313,0.076131687,ga
-2019-20,School,Lee County,Lee County High School,All Students,487,455,32,0.934291581,0.065708419,ga
-2019-20,School,Fulton County,Centennial High School,All Students,490,434,56,0.885714286,0.114285714,ga
-2019-20,School,Gwinnett County,Dacula High School,All Students,492,444,48,0.902439024,0.097560976,ga
-2019-20,School,DeKalb County,Dunwoody High School,All Students,495,443,52,0.894949495,0.105050505,ga
-2019-20,School,Cobb County,Wheeler High School,All Students,497,445,52,0.895372233,0.104627767,ga
-2019-20,School,Cherokee County,Creekview High School,All Students,498,479,19,0.96184739,0.03815261,ga
-2019-20,School,Fulton County,Cambridge High School,All Students,499,490,9,0.981963928,0.018036072,ga
-2019-20,School,Cobb County,Pope High School,All Students,504,483,21,0.958333333,0.041666667,ga
-2019-20,School,Gwinnett County,Central Gwinnett High School,All Students,505,389,116,0.77029703,0.22970297,ga
-2019-20,School,Cobb County,South Cobb High School,All Students,507,424,83,0.836291913,0.163708087,ga
-2019-20,School,Fulton County,Johns Creek High School,All Students,521,507,14,0.973128599,0.026871401,ga
-2019-20,School,DeKalb County,Lakeside High School,All Students,522,443,79,0.848659004,0.151340996,ga
-2019-20,School,Cobb County,Lassiter High School,All Students,532,519,13,0.97556391,0.02443609,ga
-2019-20,School,Douglas County,Douglas County High School,All Students,536,467,69,0.871268657,0.128731343,ga
-2019-20,School,Cobb County,Osborne High School,All Students,538,399,139,0.741635688,0.258364312,ga
-2019-20,School,Gwinnett County,Shiloh High School,All Students,539,405,134,0.751391466,0.248608534,ga
-2019-20,School,Gainesville City,Gainesville High School,All Students,539,464,75,0.860853432,0.139146568,ga
-2019-20,School,Bryan County,Richmond Hill High School,All Students,543,510,33,0.939226519,0.060773481,ga
-2019-20,School,Atlanta Public Schools,North Atlanta High School,All Students,543,501,42,0.922651934,0.077348066,ga
-2019-20,School,Fulton County,Roswell High School,All Students,545,481,64,0.882568807,0.117431193,ga
-2019-20,School,Forsyth County,South Forsyth High School,All Students,552,546,6,0.989130435,0.010869565,ga
-2019-20,School,Fulton County,Milton High School,All Students,556,539,17,0.96942446,0.03057554,ga
-2019-20,School,Rockdale County,Rockdale County High School,All Students,563,496,67,0.880994671,0.119005329,ga
-2019-20,School,Cherokee County,Woodstock High School,All Students,569,526,43,0.924428822,0.075571178,ga
-2019-20,School,Cobb County,Harrison High School,All Students,575,565,10,0.982608696,0.017391304,ga
-2019-20,School,Fulton County,Alpharetta High School,All Students,575,555,20,0.965217391,0.034782609,ga
-2019-20,School,Gwinnett County,South Gwinnett High School,All Students,583,470,113,0.806174957,0.193825043,ga
-2019-20,School,Tift County,Tift County High School,All Students,584,510,74,0.873287671,0.126712329,ga
-2019-20,School,Colquitt County,Colquitt County High School,All Students,591,522,69,0.883248731,0.116751269,ga
-2019-20,School,Cherokee County,Etowah High School,All Students,592,550,42,0.929054054,0.070945946,ga
-2019-20,School,Camden County,Camden County High School,All Students,596,570,26,0.956375839,0.043624161,ga
-2019-20,School,Cobb County,Walton High School,All Students,598,583,15,0.974916388,0.025083612,ga
-2019-20,School,State Charter Schools- Georgia Connections Academy,Georgia Connections Academy,All Students,605,302,303,0.499173554,0.500826446,ga
-2019-20,School,Cobb County,Hillgrove High School,All Students,608,586,22,0.963815789,0.036184211,ga
-2019-20,School,Gwinnett County,Duluth High School,All Students,612,522,90,0.852941176,0.147058824,ga
-2019-20,School,Cobb County,McEachern High School,All Students,617,563,54,0.912479741,0.087520259,ga
-2019-20,School,Paulding County,North Paulding High School,All Students,621,584,37,0.94041868,0.05958132,ga
-2019-20,School,Gwinnett County,Mountain View High School,All Students,625,573,52,0.9168,0.0832,ga
-2019-20,School,Newton County,Newton High School,All Students,630,574,56,0.911111111,0.088888889,ga
-2019-20,School,Marietta City,Marietta High School,All Students,631,528,103,0.836767036,0.163232964,ga
-2019-20,School,Forsyth County,North Forsyth High School,All Students,637,596,41,0.935635793,0.064364207,ga
-2019-20,School,Forsyth County,West Forsyth High School,All Students,646,615,31,0.952012384,0.047987616,ga
-2019-20,School,Gwinnett County,Discovery High School,All Students,656,530,126,0.807926829,0.192073171,ga
-2019-20,School,Gwinnett County,Archer High School,All Students,659,596,63,0.904400607,0.095599393,ga
-2019-20,School,Lowndes County,Lowndes High School,All Students,661,622,39,0.940998487,0.059001513,ga
-2019-20,School,Clayton County,Perry Career Academy - Eula Wilburn Ponds Perry Center for Learning,All Students,663,335,328,0.505279035,0.494720965,ga
-2019-20,School,Cherokee County,Cherokee High School,All Students,675,561,114,0.831111111,0.168888889,ga
-2019-20,School,Forsyth County,Forsyth Central High School,All Students,681,646,35,0.948604993,0.051395007,ga
-2019-20,School,Gwinnett County,Berkmar High School,All Students,692,537,155,0.776011561,0.223988439,ga
-2019-20,School,Gwinnett County,Meadowcreek High School,All Students,699,565,134,0.808297568,0.191702432,ga
-2019-20,School,Cobb County,Pebblebrook High School,All Students,704,523,181,0.742897727,0.257102273,ga
-2019-20,School,Cobb County,Campbell High School,All Students,709,628,81,0.885754584,0.114245416,ga
-2019-20,School,Gwinnett County,Grayson High School,All Students,710,667,43,0.93943662,0.06056338,ga
-2019-20,School,Cobb County,North Cobb High School,All Students,716,669,47,0.934357542,0.065642458,ga
-2019-20,School,Forsyth County,Lambert High School,All Students,726,716,10,0.986225895,0.013774105,ga
-2019-20,School,Gwinnett County,Parkview High School,All Students,727,661,66,0.909215956,0.090784044,ga
-2019-20,School,State Charter Schools- Coastal Plains Charter High School - Candler Campus,Coastal Plains Charter High School - Candler Campus,All Students,741,56,685,0.075573549,0.924426451,ga
-2019-20,School,Gwinnett County,North Gwinnett High School,All Students,759,736,23,0.96969697,0.03030303,ga
-2019-20,School,Gwinnett County,Collins Hill High School,All Students,764,658,106,0.861256545,0.138743455,ga
-2019-20,School,Coweta County,East Coweta High School,All Students,786,709,77,0.902035623,0.097964377,ga
-2019-20,School,Gwinnett County,Norcross High School,All Students,797,628,169,0.787954831,0.212045169,ga
-2019-20,School,Gwinnett County,Peachtree Ridge High School,All Students,850,781,69,0.918823529,0.081176471,ga
-2019-20,School,Gwinnett County,Brookwood High School,All Students,867,811,56,0.935409458,0.064590542,ga
-2019-20,School,Gwinnett County,Mill Creek High School,All Students,899,828,71,0.921023359,0.078976641,ga
-2019-20,School,State Charter Schools- Georgia Cyber Academy,Georgia Cyber Academy,All Students,1058,624,434,0.58979206,0.41020794,ga
-2019-20,School,State Charter Schools- Mountain Education Center School,Mountain Education Charter High School,All Students,1228,176,1052,0.143322476,0.856677524,ga
-2019-20,School,State Charter Schools- Foothills Charter High School (Madison Campus),Foothills Charter High School (Central Office - Athens),All Students,1281,147,1134,0.114754098,0.885245902,ga
+school_year,aggregation_type,county_name,school_name,subgroup_name,enroll_cnt,grad_cnt,drop_cnt,grad_pct,drop_pct
+2019-20,School,Taliaferro County,Taliaferro County School,All Students,11,11,0,1,0
+2019-20,School,Candler County,Metter Career Academy,All Students,14,13,1,0.928571429,0.071428571
+2019-20,School,Muscogee County,Rainey McCullers School of the Arts,All Students,14,14,0,1,0
+2019-20,School,Commission Charter Schools- Fulton Leadership Academy,Fulton Leadership Academy,All Students,17,16,1,0.941176471,0.058823529
+2019-20,School,Berrien County,Berrien Academy Performance Learning Center,All Students,18,11,7,0.611111111,0.388888889
+2019-20,School,Murray County,Pleasant Valley Innovative School,All Students,22,18,4,0.818181818,0.181818182
+2019-20,School,Commission Charter Schools- CCAT School,Statesboro STEAM Academy,All Students,22,22,0,1,0
+2019-20,School,Webster County,Webster County High School,All Students,23,21,2,0.913043478,0.086956522
+2019-20,School,Dublin City,Moore Street Facility,All Students,24,22,2,0.916666667,0.083333333
+2019-20,School,Habersham County,Habersham Success Academy,All Students,25,24,1,0.96,0.04
+2019-20,School,Clarke County,Classic City High School,All Students,26,13,13,0.5,0.5
+2019-20,School,Quitman County,Quitman County High School,All Students,26,19,7,0.730769231,0.269230769
+2019-20,School,Bleckley County,Bleckley County Success Academy,All Students,27,21,6,0.777777778,0.222222222
+2019-20,School,Stewart County,Stewart County High School,All Students,27,25,2,0.925925926,0.074074074
+2019-20,School,Pike County,Zebulon High School,All Students,28,25,3,0.892857143,0.107142857
+2019-20,School,DeKalb County,Tapestry Public Charter School,All Students,29,25,4,0.862068966,0.137931034
+2019-20,School,Griffin-Spalding County,AZ Kelsey Academy,All Students,32,21,11,0.65625,0.34375
+2019-20,School,Worth County,Worth County Achievement Center,All Students,34,12,22,0.352941176,0.647058824
+2019-20,School,Atlanta Public Schools,Corretta Scott King Womens' Leadership Academy,All Students,34,34,0,1,0
+2019-20,School,Talbot County,Central Elementary/High School,All Students,35,28,7,0.8,0.2
+2019-20,School,Commission Charter Schools- Pataula Charter Academy,Pataula Charter Academy,All Students,35,32,3,0.914285714,0.085714286
+2019-20,School,Brooks County,Delta Innovative School,All Students,36,28,8,0.777777778,0.222222222
+2019-20,School,Sumter County,Furlow Charter School,All Students,36,29,7,0.805555556,0.194444444
+2019-20,School,Glascock County,Glascock County Middle/High School,All Students,38,35,3,0.921052632,0.078947368
+2019-20,School,Warren County,Warren County High School,All Students,43,39,4,0.906976744,0.093023256
+2019-20,School,Echols County,Echols County High School,All Students,44,41,3,0.931818182,0.068181818
+2019-20,School,Atlanta Public Schools,Atlanta Classical Academy,All Students,44,43,1,0.977272727,0.022727273
+2019-20,School,Gwinnett County,McClure Health Science High School,All Students,46,45,1,0.97826087,0.02173913
+2019-20,School,Savannah-Chatham County,Savannah Early College High School,All Students,49,49,0,1,0
+2019-20,School,Atlanta Public Schools,B.E.S.T Academy,All Students,49,38,11,0.775510204,0.224489796
+2019-20,School,State Charter Schools II- Baconton Community Charter School,Baconton Community Charter School,All Students,49,49,0,1,0
+2019-20,School,Coffee County,Wiregrass Regional College and Career Academy,All Students,54,52,2,0.962962963,0.037037037
+2019-20,School,Calhoun County,Calhoun County High School,All Students,56,52,4,0.928571429,0.071428571
+2019-20,School,Montgomery County,Montgomery County High School,All Students,58,49,9,0.844827586,0.155172414
+2019-20,School,Decatur County,New Beginning Learning Center,All Students,60,41,19,0.683333333,0.316666667
+2019-20,School,Greene County,Lake Oconee Charter High School,All Students,60,57,3,0.95,0.05
+2019-20,School,Towns County,Towns County High School,All Students,60,57,3,0.95,0.05
+2019-20,School,Hancock County,Hancock Central High School,All Students,61,53,8,0.868852459,0.131147541
+2019-20,School,DeKalb County,Dekalb Early College Academy,All Students,63,63,0,1,0
+2019-20,School,Clayton County,Elite Scholars Academy School,All Students,64,64,0,1,0
+2019-20,School,Treutlen County,Treutlen Middle/High School,All Students,65,52,13,0.8,0.2
+2019-20,School,Bulloch County,Portal Middle/High School,All Students,67,59,8,0.880597015,0.119402985
+2019-20,School,Miller County,Miller County High School,All Students,70,57,13,0.814285714,0.185714286
+2019-20,School,Randolph County,Randolph Clay High School,All Students,70,55,15,0.785714286,0.214285714
+2019-20,School,Jenkins County,Jenkins County High School,All Students,73,58,15,0.794520548,0.205479452
+2019-20,School,DeKalb County,DeKalb School of the Arts,All Students,74,74,0,1,0
+2019-20,School,Twiggs County,Twiggs County High School,All Students,74,63,11,0.851351351,0.148648649
+2019-20,School,Thomas County,Bishop Hall Charter School,All Students,75,59,16,0.786666667,0.213333333
+2019-20,School,Emanuel County,Emanuel County Institute,All Students,77,73,4,0.948051948,0.051948052
+2019-20,School,State Charter Schools II- Academy For Classical Education,Academy For Classical Education,All Students,77,77,0,1,0
+2019-20,School,Richmond County,Richmond County Technical Career Magnet School,All Students,78,78,0,1,0
+2019-20,School,Wheeler County,Wheeler County High School,All Students,78,71,7,0.91025641,0.08974359
+2019-20,School,Meriwether County,Greenville High School,All Students,80,66,14,0.825,0.175
+2019-20,School,Dooly County,Dooly County High School,All Students,82,74,8,0.902439024,0.097560976
+2019-20,School,Atlanta Public Schools,Early College High School at Carver,All Students,83,76,7,0.915662651,0.084337349
+2019-20,School,Carroll County,Mt. Zion High School,All Students,85,85,0,1,0
+2019-20,School,Turner County,Turner County High School,All Students,85,81,4,0.952941176,0.047058824
+2019-20,School,McIntosh County,McIntosh Academy,All Students,86,84,2,0.976744186,0.023255814
+2019-20,School,Mitchell County,Mitchell County High School,All Students,86,73,13,0.848837209,0.151162791
+2019-20,School,Wilcox County,Wilcox County High School,All Students,86,82,4,0.953488372,0.046511628
+2019-20,School,Lincoln County,Lincoln County High School,All Students,89,84,5,0.943820225,0.056179775
+2019-20,School,Johnson County,Johnson County High School,All Students,93,84,9,0.903225806,0.096774194
+2019-20,School,Richmond County,Johnson Magnet,All Students,93,92,1,0.989247312,0.010752688
+2019-20,School,Schley County,Schley Middle High School,All Students,93,86,7,0.924731183,0.075268817
+2019-20,School,Terrell County,Terrell High School,All Students,96,85,11,0.885416667,0.114583333
+2019-20,School,Commerce City,Commerce High School,All Students,96,88,8,0.916666667,0.083333333
+2019-20,School,Richmond County,Davidson Magnet School,All Students,98,98,0,1,0
+2019-20,School,Carroll County,Bowdon High School,All Students,99,91,8,0.919191919,0.080808081
+2019-20,School,Charlton County,Charlton County High School,All Students,99,90,9,0.909090909,0.090909091
+2019-20,School,Greene County,Greene County High School,All Students,100,86,14,0.86,0.14
+2019-20,School,Pulaski County,Hawkinsville High School,All Students,100,91,9,0.91,0.09
+2019-20,School,Wilkes County,Washington-Wilkes Comprehensive High School,All Students,100,82,18,0.82,0.18
+2019-20,School,Chickamauga City,Gordon Lee High School,All Students,100,99,1,0.99,0.01
+2019-20,School,Lanier County,Lanier County High School,All Students,101,93,8,0.920792079,0.079207921
+2019-20,School,Wilkinson County,Wilkinson County High School,All Students,102,96,6,0.941176471,0.058823529
+2019-20,School,Clinch County,Clinch County High School,All Students,106,96,10,0.905660377,0.094339623
+2019-20,School,Macon County,Macon County High School,All Students,106,82,24,0.773584906,0.226415094
+2019-20,School,Seminole County,Seminole County Middle/High School,All Students,107,99,8,0.925233645,0.074766355
+2019-20,School,Taylor County,Taylor County High School,All Students,109,94,15,0.862385321,0.137614679
+2019-20,School,Social Circle City,Social Circle High School,All Students,109,103,6,0.944954128,0.055045872
+2019-20,School,Brooks County,Brooks County High School,All Students,111,104,7,0.936936937,0.063063063
+2019-20,School,Chattahoochee County,Chattahoochee County High School,All Students,111,98,13,0.882882883,0.117117117
+2019-20,School,Atlanta Public Schools,Charles Drew Charter School JA/SA,All Students,111,109,2,0.981981982,0.018018018
+2019-20,School,Meriwether County,Manchester High School,All Students,112,86,26,0.767857143,0.232142857
+2019-20,School,Atlanta Public Schools,Crim High School,All Students,114,19,95,0.166666667,0.833333333
+2019-20,School,Trion City,Trion High School,All Students,114,113,1,0.99122807,0.00877193
+2019-20,School,Crawford County,Crawford County High School,All Students,115,90,25,0.782608696,0.217391304
+2019-20,School,Pelham City,Pelham High School,All Students,115,99,16,0.860869565,0.139130435
+2019-20,School,Marion County,Marion County Middle/High School,All Students,117,107,10,0.914529915,0.085470085
+2019-20,School,Candler County,Metter High School,All Students,118,114,4,0.966101695,0.033898305
+2019-20,School,Evans County,Claxton High School,All Students,121,106,15,0.876033058,0.123966942
+2019-20,School,Telfair County,Telfair County High School,All Students,122,114,8,0.93442623,0.06557377
+2019-20,School,Dublin City,Dublin High School,All Students,123,116,7,0.943089431,0.056910569
+2019-20,School,Atkinson County,Atkinson County High School,All Students,124,114,10,0.919354839,0.080645161
+2019-20,School,Savannah-Chatham County,The School of Liberal Studies at Savannah High,All Students,124,106,18,0.85483871,0.14516129
+2019-20,School,Bacon County,Bacon County High School,All Students,126,117,9,0.928571429,0.071428571
+2019-20,School,Houston County,Houston County WIN Academy,All Students,126,36,90,0.285714286,0.714285714
+2019-20,School,Irwin County,Irwin County High School,All Students,126,118,8,0.936507937,0.063492063
+2019-20,School,Gwinnett County,Gwinnett Online Campus,All Students,129,76,53,0.589147287,0.410852713
+2019-20,School,Floyd County,Armuchee High School,All Students,130,126,4,0.969230769,0.030769231
+2019-20,School,Richmond County,Laney High School,All Students,130,106,24,0.815384615,0.184615385
+2019-20,School,Gwinnett County,Paul Duke STEM High School,All Students,132,111,21,0.840909091,0.159090909
+2019-20,School,Fulton County,Hapeville Charter Career Academy,All Students,133,125,8,0.939849624,0.060150376
+2019-20,School,Clayton County,Martha Ellen Stilwell School for the Performing Arts,All Students,138,137,1,0.992753623,0.007246377
+2019-20,School,Oglethorpe County,Oglethorpe County High School,All Students,140,135,5,0.964285714,0.035714286
+2019-20,School,Screven County,Screven County High School,All Students,142,123,19,0.866197183,0.133802817
+2019-20,School,Bryan County,Bryan County High School,All Students,143,129,14,0.902097902,0.097902098
+2019-20,School,Laurens County,East Laurens High School,All Students,148,130,18,0.878378378,0.121621622
+2019-20,School,Richmond County,Josey High School,All Students,150,119,31,0.793333333,0.206666667
+2019-20,School,Atlanta Public Schools,Carver High School,All Students,151,88,63,0.582781457,0.417218543
+2019-20,School,Heard County,Heard County High School,All Students,152,134,18,0.881578947,0.118421053
+2019-20,School,Whitfield County,Phoenix High School,All Students,152,76,76,0.5,0.5
+2019-20,School,Carroll County,Temple High School,All Students,154,150,4,0.974025974,0.025974026
+2019-20,School,Rabun County,Rabun County High School,All Students,154,143,11,0.928571429,0.071428571
+2019-20,School,Hall County,Cherokee Bluff High School,All Students,155,148,7,0.95483871,0.04516129
+2019-20,School,Hall County,Lanier College and Career Academy,All Students,156,68,88,0.435897436,0.564102564
+2019-20,School,Savannah-Chatham County,Woodville-Tompkins Technical and Career High School,All Students,157,157,0,1,0
+2019-20,School,DeKalb County,McNair High School,All Students,158,101,57,0.639240506,0.360759494
+2019-20,School,Dalton Public Schools,Morris Innovative High School,All Students,159,55,104,0.34591195,0.65408805
+2019-20,School,Floyd County,Coosa High School,All Students,160,145,15,0.90625,0.09375
+2019-20,School,Savannah-Chatham County,Johnson High School,All Students,163,134,29,0.82208589,0.17791411
+2019-20,School,Dade County,Dade County High School,All Students,163,142,21,0.871165644,0.128834356
+2019-20,School,Bleckley County,Bleckley County High School,All Students,164,162,2,0.987804878,0.012195122
+2019-20,School,Jasper County,Jasper County High School,All Students,166,157,9,0.945783133,0.054216867
+2019-20,School,Floyd County,Model High,All Students,167,156,11,0.934131737,0.065868263
+2019-20,School,Fulton County,McClarin High School,All Students,172,66,106,0.38372093,0.61627907
+2019-20,School,Richmond County,Glenn Hills High School,All Students,173,136,37,0.786127168,0.213872832
+2019-20,School,Early County,Early County High School,All Students,174,155,19,0.890804598,0.109195402
+2019-20,School,Bremen City,Bremen High School,All Students,175,170,5,0.971428571,0.028571429
+2019-20,School,Thomasville City,Thomasville High School,All Students,176,138,38,0.784090909,0.215909091
+2019-20,School,Elbert County,Elbert County High School,All Students,177,154,23,0.870056497,0.129943503
+2019-20,School,Atlanta Public Schools,KIPP Atlanta Collegiate Academy,All Students,177,148,29,0.836158192,0.163841808
+2019-20,School,Vidalia City,Vidalia Comprehensive High School,All Students,178,167,11,0.938202247,0.061797753
+2019-20,School,Richmond County,Butler High School,All Students,180,144,36,0.8,0.2
+2019-20,School,Atlanta Public Schools,Booker T. Washington High School,All Students,181,133,48,0.73480663,0.26519337
+2019-20,School,Toombs County,Toombs County High School,All Students,182,173,9,0.950549451,0.049450549
+2019-20,School,DeKalb County,Elizabeth Andrews High School,All Students,183,29,154,0.158469945,0.841530055
+2019-20,School,Lamar County,Lamar County High School,All Students,183,162,21,0.885245902,0.114754098
+2019-20,School,Putnam County,Putnam County High School,All Students,185,167,18,0.902702703,0.097297297
+2019-20,School,Berrien County,Berrien High School,All Students,186,170,16,0.913978495,0.086021505
+2019-20,School,Muscogee County,Kendrick High School,All Students,192,164,28,0.854166667,0.145833333
+2019-20,School,Union County,Union County High School,All Students,194,191,3,0.984536082,0.015463918
+2019-20,School,Savannah-Chatham County,Groves High School,All Students,195,149,46,0.764102564,0.235897436
+2019-20,School,Emanuel County,Swainsboro High School,All Students,195,156,39,0.8,0.2
+2019-20,School,Floyd County,Pepperell High School,All Students,195,190,5,0.974358974,0.025641026
+2019-20,School,Fulton County,Independence High School,All Students,195,59,136,0.302564103,0.697435897
+2019-20,School,Bibb County,Northeast High School,All Students,196,157,39,0.801020408,0.198979592
+2019-20,School,Jefferson County,Jefferson County High School,All Students,198,179,19,0.904040404,0.095959596
+2019-20,School,Ben Hill County,Fitzgerald High School,All Students,199,179,20,0.899497487,0.100502513
+2019-20,School,Murray County,Murray County High School,All Students,200,192,8,0.96,0.04
+2019-20,School,Dodge County,Dodge County High School,All Students,201,193,8,0.960199005,0.039800995
+2019-20,School,Jeff Davis County,Jeff Davis High School,All Students,201,187,14,0.930348259,0.069651741
+2019-20,School,Gordon County,Gordon Central High School,All Students,202,190,12,0.940594059,0.059405941
+2019-20,School,Atlanta Public Schools,South Atlanta High School,All Students,204,166,38,0.81372549,0.18627451
+2019-20,School,Troup County,Callaway High School,All Students,205,187,18,0.912195122,0.087804878
+2019-20,School,Muscogee County,Spencer High School,All Students,206,171,35,0.830097087,0.169902913
+2019-20,School,Chattooga County,Chattooga High School,All Students,207,175,32,0.845410628,0.154589372
+2019-20,School,Haralson County,Haralson County High School,All Students,207,203,4,0.980676329,0.019323671
+2019-20,School,Washington County,Washington County High School,All Students,210,189,21,0.9,0.1
+2019-20,School,Clayton County,North Clayton High School,All Students,214,165,49,0.771028037,0.228971963
+2019-20,School,Cook County,Cook High School,All Students,214,202,12,0.943925234,0.056074766
+2019-20,School,Murray County,North Murray High School,All Students,219,215,4,0.98173516,0.01826484
+2019-20,School,Worth County,Worth County High School,All Students,219,179,40,0.817351598,0.182648402
+2019-20,School,Bartow County,Adairsville High School,All Students,220,203,17,0.922727273,0.077272727
+2019-20,School,DeKalb County,Towers High School,All Students,220,131,89,0.595454545,0.404545455
+2019-20,School,Muscogee County,Carver High School,All Students,220,203,17,0.922727273,0.077272727
+2019-20,School,Appling County,Appling County High School,All Students,221,205,16,0.92760181,0.07239819
+2019-20,School,Savannah-Chatham County,Savannah Arts Academy,All Students,222,220,2,0.990990991,0.009009009
+2019-20,School,DeKalb County,Redan High School,All Students,222,184,38,0.828828829,0.171171171
+2019-20,School,Jackson County,East Jackson Comprehensive High School,All Students,222,210,12,0.945945946,0.054054054
+2019-20,School,Banks County,Banks County High School,All Students,223,197,26,0.883408072,0.116591928
+2019-20,School,Tattnall County,Tattnall County High School,All Students,223,199,24,0.892376682,0.107623318
+2019-20,School,Morgan County,Morgan County High School,All Students,224,206,18,0.919642857,0.080357143
+2019-20,School,Richmond County,Westside High School,All Students,224,199,25,0.888392857,0.111607143
+2019-20,School,Bibb County,Rutland High School,All Students,225,175,50,0.777777778,0.222222222
+2019-20,School,Gwinnett County,"Gwinnett School of Mathematics, Science and Technology",All Students,225,225,0,1,0
+2019-20,School,Bibb County,Southwest High School,All Students,227,154,73,0.678414097,0.321585903
+2019-20,School,Cobb County,Cobb Horizon High School,All Students,228,75,153,0.328947368,0.671052632
+2019-20,School,Fannin County,Fannin County High School,All Students,228,217,11,0.951754386,0.048245614
+2019-20,School,Muscogee County,Jordan Vocational High School,All Students,228,185,43,0.811403509,0.188596491
+2019-20,School,Hart County,Hart County High School,All Students,230,219,11,0.952173913,0.047826087
+2019-20,School,Atlanta Public Schools,Therrell High School,All Students,230,185,45,0.804347826,0.195652174
+2019-20,School,Savannah-Chatham County,Windsor Forest High School,All Students,234,213,21,0.91025641,0.08974359
+2019-20,School,Pike County,Pike County High School,All Students,235,226,9,0.961702128,0.038297872
+2019-20,School,Polk County,Rockmart High School,All Students,236,215,21,0.911016949,0.088983051
+2019-20,School,Butts County,Jackson High School,All Students,237,208,29,0.877637131,0.122362869
+2019-20,School,Clayton County,Mount Zion High School,All Students,239,210,29,0.878661088,0.121338912
+2019-20,School,Whitfield County,Coahulla Creek High School,All Students,239,229,10,0.958158996,0.041841004
+2019-20,School,Atlanta Public Schools,Douglass High School,All Students,239,183,56,0.765690377,0.234309623
+2019-20,School,Long County,Long County High School,All Students,242,214,28,0.884297521,0.115702479
+2019-20,School,Lumpkin County,Lumpkin County High School,All Students,245,237,8,0.967346939,0.032653061
+2019-20,School,Sumter County,Americus Sumter High School (Old Americus-Sumter HS S),All Students,245,232,13,0.946938776,0.053061224
+2019-20,School,Stephens County,Stephens County High School,All Students,246,231,15,0.93902439,0.06097561
+2019-20,School,White County,White County High School,All Students,246,233,13,0.947154472,0.052845528
+2019-20,School,Savannah-Chatham County,Beach High School,All Students,247,199,48,0.805668016,0.194331984
+2019-20,School,Brantley County,Brantley County High School,All Students,249,235,14,0.9437751,0.0562249
+2019-20,School,Savannah-Chatham County,Islands High School,All Students,252,237,15,0.94047619,0.05952381
+2019-20,School,Clayton County,Riverdale High School,All Students,252,218,34,0.865079365,0.134920635
+2019-20,School,DeKalb County,Columbia High School,All Students,252,194,58,0.76984127,0.23015873
+2019-20,School,Liberty County,Liberty County High School,All Students,252,237,15,0.94047619,0.05952381
+2019-20,School,Bulloch County,Southeast Bulloch High School,All Students,254,228,26,0.897637795,0.102362205
+2019-20,School,Catoosa County,Lakeview-Fort Oglethorpe High School,All Students,257,208,49,0.809338521,0.190661479
+2019-20,School,Fayette County,Sandy Creek High School,All Students,257,217,40,0.844357977,0.155642023
+2019-20,School,Peach County,Peach County High School,All Students,258,226,32,0.875968992,0.124031008
+2019-20,School,Richmond County,Cross Creek High School,All Students,262,225,37,0.858778626,0.141221374
+2019-20,School,Savannah-Chatham County,Jenkins High School,All Students,265,235,30,0.886792453,0.113207547
+2019-20,School,Richmond County,Hephzibah High School,All Students,265,218,47,0.822641509,0.177358491
+2019-20,School,Calhoun City,Calhoun High School,All Students,266,266,0,1,0
+2019-20,School,Fulton County,Skyview High School,All Students,267,26,241,0.097378277,0.902621723
+2019-20,School,Hall County,West Hall High School,All Students,267,255,12,0.95505618,0.04494382
+2019-20,School,Walker County,LaFayette High School,All Students,267,237,30,0.887640449,0.112359551
+2019-20,School,Dawson County,Dawson County High School,All Students,269,258,11,0.959107807,0.040892193
+2019-20,School,Walton County,Monroe Area High School,All Students,269,249,20,0.925650558,0.074349442
+2019-20,School,Columbia County,Harlem High School,All Students,270,249,21,0.922222222,0.077777778
+2019-20,School,Jackson County,Jackson County Comprehensive High School,All Students,270,250,20,0.925925926,0.074074074
+2019-20,School,McDuffie County,Thomson High School,All Students,271,222,49,0.819188192,0.180811808
+2019-20,School,Bibb County,Central High School,All Students,272,224,48,0.823529412,0.176470588
+2019-20,School,Hall County,East Hall High School,All Students,273,245,28,0.897435897,0.102564103
+2019-20,School,Catoosa County,Ringgold High School,All Students,274,261,13,0.952554745,0.047445255
+2019-20,School,Grady County,Cairo High School,All Students,274,246,28,0.897810219,0.102189781
+2019-20,School,Oconee County,Oconee County High School,All Students,274,265,9,0.967153285,0.032846715
+2019-20,School,Richmond County,Performance Learning Center,All Students,274,69,205,0.251824818,0.748175182
+2019-20,School,Franklin County,Franklin County High School,All Students,275,252,23,0.916363636,0.083636364
+2019-20,School,DeKalb County,Cedar Grove High School,All Students,279,234,45,0.838709677,0.161290323
+2019-20,School,Burke County,Burke County High School,All Students,280,257,23,0.917857143,0.082142857
+2019-20,School,Muscogee County,Shaw High School,All Students,280,256,24,0.914285714,0.085714286
+2019-20,School,Clayton County,Jonesboro High School,All Students,281,225,56,0.800711744,0.199288256
+2019-20,School,Dougherty County,Dougherty Comprehensive High School,All Students,281,233,48,0.829181495,0.170818505
+2019-20,School,Muscogee County,Columbus High School,All Students,281,281,0,1,0
+2019-20,School,Pierce County,Pierce County High School,All Students,284,244,40,0.85915493,0.14084507
+2019-20,School,DeKalb County,Stone Mountain High School,All Students,286,200,86,0.699300699,0.300699301
+2019-20,School,Baldwin County,Baldwin High School,All Students,287,244,43,0.850174216,0.149825784
+2019-20,School,Thomas County,Thomas County Central High School,All Students,287,278,9,0.968641115,0.031358885
+2019-20,School,Muscogee County,Hardaway High School,All Students,288,258,30,0.895833333,0.104166667
+2019-20,School,Gilmer County,Gilmer High School,All Students,289,261,28,0.903114187,0.096885813
+2019-20,School,Gordon County,Sonoraville High School,All Students,290,270,20,0.931034483,0.068965517
+2019-20,School,Jefferson City,Jefferson High School,All Students,290,288,2,0.993103448,0.006896552
+2019-20,School,Henry County,McDonough High School,All Students,291,254,37,0.872852234,0.127147766
+2019-20,School,Rockdale County,Salem High School,All Students,291,242,49,0.83161512,0.16838488
+2019-20,School,Walker County,Ridgeland High School,All Students,291,269,22,0.924398625,0.075601375
+2019-20,School,Savannah-Chatham County,New Hampstead High School,All Students,292,276,16,0.945205479,0.054794521
+2019-20,School,Bibb County,Westside High School,All Students,293,207,86,0.706484642,0.293515358
+2019-20,School,Crisp County,Crisp County High School,All Students,294,267,27,0.908163265,0.091836735
+2019-20,School,Dougherty County,Monroe High School,All Students,294,234,60,0.795918367,0.204081633
+2019-20,School,Troup County,LaGrange High School,All Students,294,243,51,0.826530612,0.173469388
+2019-20,School,Hall County,North Hall High School,All Students,295,275,20,0.93220339,0.06779661
+2019-20,School,Richmond County,Academy of Richmond County High School,All Students,297,271,26,0.912457912,0.087542088
+2019-20,School,Laurens County,West Laurens High School,All Students,299,273,26,0.913043478,0.086956522
+2019-20,School,Whitfield County,Southeast Whitfield County High School,All Students,299,275,24,0.919732441,0.080267559
+2019-20,School,DeKalb County,"Arabia Mountain High School - Academy of Engineering, Medicine and Environm",All Students,300,299,1,0.996666667,0.003333333
+2019-20,School,Bibb County,Howard High School,All Students,301,249,52,0.827242525,0.172757475
+2019-20,School,DeKalb County,Miller Grove High School,All Students,301,223,78,0.740863787,0.259136213
+2019-20,School,DeKalb County,Southwest DeKalb High School,All Students,303,261,42,0.861386139,0.138613861
+2019-20,School,Monroe County,Mary Persons High School,All Students,304,280,24,0.921052632,0.078947368
+2019-20,School,Carroll County,Central High School,All Students,305,284,21,0.931147541,0.068852459
+2019-20,School,Henry County,Luella High School,All Students,305,265,40,0.868852459,0.131147541
+2019-20,School,Madison County,Madison County High School,All Students,306,291,15,0.950980392,0.049019608
+2019-20,School,Henry County,Hampton High School,All Students,308,269,39,0.873376623,0.126623377
+2019-20,School,Walton County,Walnut Grove High School,All Students,310,278,32,0.896774194,0.103225806
+2019-20,School,Hall County,Chestatee High School,All Students,312,290,22,0.929487179,0.070512821
+2019-20,School,Pickens County,Pickens County High School,All Students,314,295,19,0.939490446,0.060509554
+2019-20,School,Clayton County,Mundy's Mill High School,All Students,316,271,45,0.857594937,0.142405063
+2019-20,School,Decatur County,Bainbridge High School,All Students,316,293,23,0.92721519,0.07278481
+2019-20,School,DeKalb County,Druid Hills High School,All Students,316,271,45,0.857594937,0.142405063
+2019-20,School,Bartow County,Woodland High School,All Students,317,291,26,0.917981073,0.082018927
+2019-20,School,Clayton County,Charles R. Drew High School,All Students,318,239,79,0.751572327,0.248427673
+2019-20,School,Houston County,Perry High School,All Students,318,297,21,0.933962264,0.066037736
+2019-20,School,Clarke County,Cedar Shoals High School,All Students,319,246,73,0.771159875,0.228840125
+2019-20,School,Whitfield County,Northwest Whitfield County High School,All Students,320,297,23,0.928125,0.071875
+2019-20,School,Catoosa County,Heritage High School,All Students,325,299,26,0.92,0.08
+2019-20,School,Fayette County,Fayette County High School,All Students,325,272,53,0.836923077,0.163076923
+2019-20,School,Troup County,Troup County High School,All Students,327,283,44,0.865443425,0.134556575
+2019-20,School,Thomaston-Upson County,Upson-Lee High School,All Students,327,290,37,0.886850153,0.113149847
+2019-20,School,DeKalb County,Lithonia High School,All Students,328,271,57,0.826219512,0.173780488
+2019-20,School,Atlanta Public Schools,"Maynard H. Jackson, Jr. High School",All Students,330,272,58,0.824242424,0.175757576
+2019-20,School,Griffin-Spalding County,Spalding High School,All Students,331,304,27,0.918429003,0.081570997
+2019-20,School,Atlanta Public Schools,Grady High School,All Students,331,301,30,0.909365559,0.090634441
+2019-20,School,Decatur City,Decatur High School,All Students,332,315,17,0.948795181,0.051204819
+2019-20,School,Oconee County,North Oconee High School,All Students,333,327,6,0.981981982,0.018018018
+2019-20,School,Bartow County,Cass High School,All Students,334,300,34,0.898203593,0.101796407
+2019-20,School,Griffin-Spalding County,Griffin High School,All Students,334,304,30,0.910179641,0.089820359
+2019-20,School,Ware County,Ware County High School,All Students,338,310,28,0.917159763,0.082840237
+2019-20,School,Hall County,Johnson High School,All Students,345,313,32,0.907246377,0.092753623
+2019-20,School,Buford City,Buford High School,All Students,345,320,25,0.927536232,0.072463768
+2019-20,School,Fulton County,Banneker High School,All Students,346,266,80,0.768786127,0.231213873
+2019-20,School,Atlanta Public Schools,Mays High School,All Students,349,273,76,0.782234957,0.217765043
+2019-20,School,Fulton County,Tri-Cities High School,All Students,350,295,55,0.842857143,0.157142857
+2019-20,School,Carroll County,Villa Rica High School,All Students,352,336,16,0.954545455,0.045454545
+2019-20,School,Dougherty County,Westover High School,All Students,353,311,42,0.88101983,0.11898017
+2019-20,School,Wayne County,Wayne County High School,All Students,353,326,27,0.923512748,0.076487252
+2019-20,School,Fayette County,Starrs Mill High School,All Students,354,341,13,0.963276836,0.036723164
+2019-20,School,Hall County,Flowery Branch High,All Students,355,338,17,0.952112676,0.047887324
+2019-20,School,Douglas County,Chapel Hill High School,All Students,356,338,18,0.949438202,0.050561798
+2019-20,School,Polk County,Cedartown High School,All Students,356,299,57,0.83988764,0.16011236
+2019-20,School,Fulton County,North Springs High School,All Students,358,329,29,0.918994413,0.081005587
+2019-20,School,Henry County,Woodland High School,All Students,358,340,18,0.94972067,0.05027933
+2019-20,School,Cartersville City,Cartersville High School,All Students,359,325,34,0.905292479,0.094707521
+2019-20,School,Houston County,Warner Robins High School,All Students,363,319,44,0.878787879,0.121212121
+2019-20,School,Henry County,Stockbridge High School,All Students,364,295,69,0.81043956,0.18956044
+2019-20,School,Henry County,Locust Grove High,All Students,366,320,46,0.87431694,0.12568306
+2019-20,School,Liberty County,Bradwell Institute,All Students,367,343,24,0.934604905,0.065395095
+2019-20,School,Muscogee County,Northside High School,All Students,367,343,24,0.934604905,0.065395095
+2019-20,School,DeKalb County,Stephenson High School,All Students,370,308,62,0.832432432,0.167567568
+2019-20,School,Fayette County,Whitewater High School,All Students,372,354,18,0.951612903,0.048387097
+2019-20,School,Cobb County,Allatoona High School,All Students,373,352,21,0.943699732,0.056300268
+2019-20,School,Effingham County,South Effingham High School,All Students,375,357,18,0.952,0.048
+2019-20,School,Paulding County,Hiram High School,All Students,377,331,46,0.877984085,0.122015915
+2019-20,School,Columbia County,Greenbrier High School,All Students,378,373,5,0.986772487,0.013227513
+2019-20,School,DeKalb County,Clarkston High School,All Students,378,214,164,0.566137566,0.433862434
+2019-20,School,Clarke County,Clarke Central High School,All Students,379,327,52,0.862796834,0.137203166
+2019-20,School,Forsyth County,Denmark High School,All Students,380,363,17,0.955263158,0.044736842
+2019-20,School,Newton County,Eastside High School,All Students,380,339,41,0.892105263,0.107894737
+2019-20,School,Jones County,Jones County High School,All Students,384,339,45,0.8828125,0.1171875
+2019-20,School,Walton County,Loganville High School,All Students,385,358,27,0.92987013,0.07012987
+2019-20,School,Clayton County,Morrow High School,All Students,386,318,68,0.823834197,0.176165803
+2019-20,School,Henry County,Union Grove High,All Students,386,371,15,0.961139896,0.038860104
+2019-20,School,DeKalb County,Cross Keys High School,All Students,387,237,150,0.612403101,0.387596899
+2019-20,School,Henry County,Eagle's Landing High School,All Students,387,327,60,0.84496124,0.15503876
+2019-20,School,DeKalb County,Tucker High School,All Students,392,314,78,0.801020408,0.198979592
+2019-20,School,Cobb County,Kell High School,All Students,393,363,30,0.923664122,0.076335878
+2019-20,School,DeKalb County,"Martin Luther King, Jr. High School",All Students,393,303,90,0.770992366,0.229007634
+2019-20,School,Gwinnett County,Phoenix High School,All Students,393,61,332,0.155216285,0.844783715
+2019-20,School,Glynn County,Brunswick High School,All Students,397,362,35,0.911838791,0.088161209
+2019-20,School,Coffee County,Coffee County High School,All Students,398,370,28,0.929648241,0.070351759
+2019-20,School,Paulding County,East Paulding High School,All Students,401,362,39,0.902743142,0.097256858
+2019-20,School,Fayette County,McIntosh High School,All Students,405,380,25,0.938271605,0.061728395
+2019-20,School,Clayton County,Lovejoy High School,All Students,407,355,52,0.872235872,0.127764128
+2019-20,School,Clayton County,Forest Park High School,All Students,415,310,105,0.746987952,0.253012048
+2019-20,School,Bulloch County,Statesboro High School,All Students,418,330,88,0.789473684,0.210526316
+2019-20,School,Carrollton City,Carrollton High School,All Students,418,379,39,0.906698565,0.093301435
+2019-20,School,Henry County,Ola High School,All Students,420,396,24,0.942857143,0.057142857
+2019-20,School,Houston County,Veterans High School,All Students,421,407,14,0.966745843,0.033254157
+2019-20,School,Douglas County,New Manchester High School,All Students,423,359,64,0.848699764,0.151300236
+2019-20,School,Fulton County,Chattahoochee High School,All Students,423,407,16,0.962174941,0.037825059
+2019-20,School,Paulding County,South Paulding High School,All Students,424,383,41,0.903301887,0.096698113
+2019-20,School,Cobb County,Sprayberry High School,All Students,427,380,47,0.889929742,0.110070258
+2019-20,School,Fulton County,Creekside High School,All Students,430,346,84,0.804651163,0.195348837
+2019-20,School,Douglas County,Lithia Springs Comprehensive High School,All Students,431,375,56,0.870069606,0.129930394
+2019-20,School,Coweta County,Northgate High School,All Students,434,405,29,0.933179724,0.066820276
+2019-20,School,Columbia County,Lakeside High School,All Students,435,400,35,0.91954023,0.08045977
+2019-20,School,Glynn County,Glynn Academy,All Students,435,416,19,0.956321839,0.043678161
+2019-20,School,Paulding County,Paulding County High School,All Students,435,392,43,0.901149425,0.098850575
+2019-20,School,Rockdale County,Heritage High School,All Students,435,374,61,0.859770115,0.140229885
+2019-20,School,Fulton County,Riverwood International Charter School,All Students,436,392,44,0.899082569,0.100917431
+2019-20,School,Fulton County,Northview High School,All Students,437,420,17,0.961098398,0.038901602
+2019-20,School,Harris County,Harris County High School,All Students,437,390,47,0.892448513,0.107551487
+2019-20,School,Gwinnett County,Lanier High School,All Students,439,418,21,0.952164009,0.047835991
+2019-20,School,Rome City,Rome High School,All Students,442,411,31,0.929864253,0.070135747
+2019-20,School,Habersham County,Habersham Central High School,All Students,444,425,19,0.957207207,0.042792793
+2019-20,School,Barrow County,Apalachee High School,All Students,446,383,63,0.858744395,0.141255605
+2019-20,School,Douglas County,Alexander High School,All Students,446,420,26,0.941704036,0.058295964
+2019-20,School,Effingham County,Effingham County High School,All Students,447,390,57,0.872483221,0.127516779
+2019-20,School,Henry County,Dutchtown High,All Students,448,411,37,0.917410714,0.082589286
+2019-20,School,DeKalb County,Chamblee Charter High School,All Students,450,349,101,0.775555556,0.224444444
+2019-20,School,Houston County,Northside High School,All Students,452,411,41,0.909292035,0.090707965
+2019-20,School,Fulton County,Langston Hughes High School,All Students,455,388,67,0.852747253,0.147252747
+2019-20,School,Cherokee County,River Ridge High School,All Students,460,409,51,0.889130435,0.110869565
+2019-20,School,Barrow County,Winder-Barrow High School,All Students,462,390,72,0.844155844,0.155844156
+2019-20,School,Houston County,Houston County High School,All Students,463,454,9,0.980561555,0.019438445
+2019-20,School,Columbia County,Evans High School,All Students,464,415,49,0.894396552,0.105603448
+2019-20,School,Fulton County,Westlake High School,All Students,464,440,24,0.948275862,0.051724138
+2019-20,School,Cherokee County,Sequoyah High School,All Students,470,429,41,0.912765957,0.087234043
+2019-20,School,Valdosta City,Valdosta High School,All Students,472,427,45,0.904661017,0.095338983
+2019-20,School,Columbia County,Grovetown High School,All Students,474,422,52,0.890295359,0.109704641
+2019-20,School,Cobb County,Kennesaw Mountain High School,All Students,476,433,43,0.909663866,0.090336134
+2019-20,School,Dalton Public Schools,Dalton High School,All Students,481,457,24,0.95010395,0.04989605
+2019-20,School,Newton County,Alcovy High School,All Students,484,429,55,0.886363636,0.113636364
+2019-20,School,Coweta County,Newnan High School,All Students,486,449,37,0.923868313,0.076131687
+2019-20,School,Lee County,Lee County High School,All Students,487,455,32,0.934291581,0.065708419
+2019-20,School,Fulton County,Centennial High School,All Students,490,434,56,0.885714286,0.114285714
+2019-20,School,Gwinnett County,Dacula High School,All Students,492,444,48,0.902439024,0.097560976
+2019-20,School,DeKalb County,Dunwoody High School,All Students,495,443,52,0.894949495,0.105050505
+2019-20,School,Cobb County,Wheeler High School,All Students,497,445,52,0.895372233,0.104627767
+2019-20,School,Cherokee County,Creekview High School,All Students,498,479,19,0.96184739,0.03815261
+2019-20,School,Fulton County,Cambridge High School,All Students,499,490,9,0.981963928,0.018036072
+2019-20,School,Cobb County,Pope High School,All Students,504,483,21,0.958333333,0.041666667
+2019-20,School,Gwinnett County,Central Gwinnett High School,All Students,505,389,116,0.77029703,0.22970297
+2019-20,School,Cobb County,South Cobb High School,All Students,507,424,83,0.836291913,0.163708087
+2019-20,School,Fulton County,Johns Creek High School,All Students,521,507,14,0.973128599,0.026871401
+2019-20,School,DeKalb County,Lakeside High School,All Students,522,443,79,0.848659004,0.151340996
+2019-20,School,Cobb County,Lassiter High School,All Students,532,519,13,0.97556391,0.02443609
+2019-20,School,Douglas County,Douglas County High School,All Students,536,467,69,0.871268657,0.128731343
+2019-20,School,Cobb County,Osborne High School,All Students,538,399,139,0.741635688,0.258364312
+2019-20,School,Gwinnett County,Shiloh High School,All Students,539,405,134,0.751391466,0.248608534
+2019-20,School,Gainesville City,Gainesville High School,All Students,539,464,75,0.860853432,0.139146568
+2019-20,School,Bryan County,Richmond Hill High School,All Students,543,510,33,0.939226519,0.060773481
+2019-20,School,Atlanta Public Schools,North Atlanta High School,All Students,543,501,42,0.922651934,0.077348066
+2019-20,School,Fulton County,Roswell High School,All Students,545,481,64,0.882568807,0.117431193
+2019-20,School,Forsyth County,South Forsyth High School,All Students,552,546,6,0.989130435,0.010869565
+2019-20,School,Fulton County,Milton High School,All Students,556,539,17,0.96942446,0.03057554
+2019-20,School,Rockdale County,Rockdale County High School,All Students,563,496,67,0.880994671,0.119005329
+2019-20,School,Cherokee County,Woodstock High School,All Students,569,526,43,0.924428822,0.075571178
+2019-20,School,Cobb County,Harrison High School,All Students,575,565,10,0.982608696,0.017391304
+2019-20,School,Fulton County,Alpharetta High School,All Students,575,555,20,0.965217391,0.034782609
+2019-20,School,Gwinnett County,South Gwinnett High School,All Students,583,470,113,0.806174957,0.193825043
+2019-20,School,Tift County,Tift County High School,All Students,584,510,74,0.873287671,0.126712329
+2019-20,School,Colquitt County,Colquitt County High School,All Students,591,522,69,0.883248731,0.116751269
+2019-20,School,Cherokee County,Etowah High School,All Students,592,550,42,0.929054054,0.070945946
+2019-20,School,Camden County,Camden County High School,All Students,596,570,26,0.956375839,0.043624161
+2019-20,School,Cobb County,Walton High School,All Students,598,583,15,0.974916388,0.025083612
+2019-20,School,State Charter Schools- Georgia Connections Academy,Georgia Connections Academy,All Students,605,302,303,0.499173554,0.500826446
+2019-20,School,Cobb County,Hillgrove High School,All Students,608,586,22,0.963815789,0.036184211
+2019-20,School,Gwinnett County,Duluth High School,All Students,612,522,90,0.852941176,0.147058824
+2019-20,School,Cobb County,McEachern High School,All Students,617,563,54,0.912479741,0.087520259
+2019-20,School,Paulding County,North Paulding High School,All Students,621,584,37,0.94041868,0.05958132
+2019-20,School,Gwinnett County,Mountain View High School,All Students,625,573,52,0.9168,0.0832
+2019-20,School,Newton County,Newton High School,All Students,630,574,56,0.911111111,0.088888889
+2019-20,School,Marietta City,Marietta High School,All Students,631,528,103,0.836767036,0.163232964
+2019-20,School,Forsyth County,North Forsyth High School,All Students,637,596,41,0.935635793,0.064364207
+2019-20,School,Forsyth County,West Forsyth High School,All Students,646,615,31,0.952012384,0.047987616
+2019-20,School,Gwinnett County,Discovery High School,All Students,656,530,126,0.807926829,0.192073171
+2019-20,School,Gwinnett County,Archer High School,All Students,659,596,63,0.904400607,0.095599393
+2019-20,School,Lowndes County,Lowndes High School,All Students,661,622,39,0.940998487,0.059001513
+2019-20,School,Clayton County,Perry Career Academy - Eula Wilburn Ponds Perry Center for Learning,All Students,663,335,328,0.505279035,0.494720965
+2019-20,School,Cherokee County,Cherokee High School,All Students,675,561,114,0.831111111,0.168888889
+2019-20,School,Forsyth County,Forsyth Central High School,All Students,681,646,35,0.948604993,0.051395007
+2019-20,School,Gwinnett County,Berkmar High School,All Students,692,537,155,0.776011561,0.223988439
+2019-20,School,Gwinnett County,Meadowcreek High School,All Students,699,565,134,0.808297568,0.191702432
+2019-20,School,Cobb County,Pebblebrook High School,All Students,704,523,181,0.742897727,0.257102273
+2019-20,School,Cobb County,Campbell High School,All Students,709,628,81,0.885754584,0.114245416
+2019-20,School,Gwinnett County,Grayson High School,All Students,710,667,43,0.93943662,0.06056338
+2019-20,School,Cobb County,North Cobb High School,All Students,716,669,47,0.934357542,0.065642458
+2019-20,School,Forsyth County,Lambert High School,All Students,726,716,10,0.986225895,0.013774105
+2019-20,School,Gwinnett County,Parkview High School,All Students,727,661,66,0.909215956,0.090784044
+2019-20,School,State Charter Schools- Coastal Plains Charter High School - Candler Campus,Coastal Plains Charter High School - Candler Campus,All Students,741,56,685,0.075573549,0.924426451
+2019-20,School,Gwinnett County,North Gwinnett High School,All Students,759,736,23,0.96969697,0.03030303
+2019-20,School,Gwinnett County,Collins Hill High School,All Students,764,658,106,0.861256545,0.138743455
+2019-20,School,Coweta County,East Coweta High School,All Students,786,709,77,0.902035623,0.097964377
+2019-20,School,Gwinnett County,Norcross High School,All Students,797,628,169,0.787954831,0.212045169
+2019-20,School,Gwinnett County,Peachtree Ridge High School,All Students,850,781,69,0.918823529,0.081176471
+2019-20,School,Gwinnett County,Brookwood High School,All Students,867,811,56,0.935409458,0.064590542
+2019-20,School,Gwinnett County,Mill Creek High School,All Students,899,828,71,0.921023359,0.078976641
+2019-20,School,State Charter Schools- Georgia Cyber Academy,Georgia Cyber Academy,All Students,1058,624,434,0.58979206,0.41020794
+2019-20,School,State Charter Schools- Mountain Education Center School,Mountain Education Charter High School,All Students,1228,176,1052,0.143322476,0.856677524
+2019-20,School,State Charter Schools- Foothills Charter High School (Madison Campus),Foothills Charter High School (Central Office - Athens),All Students,1281,147,1134,0.114754098,0.885245902
