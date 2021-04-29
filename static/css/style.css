@@ -1,56 +1,95 @@
+#visualization1 {
+  justify-Content: flex-end;
+}
+.container {
+   position: relative;
+}
+
 body {
-  font-family: Lobster;
-margin-top: 50px;
-  padding: 0;
-  margin: 0;
+   background: #2d5986;
 }
 
-html{
-  background-color: #00d5ff;
+div {
+   padding:2px;
+}
+#map,
+#img2,
+#img3 {
+   position: absolute;
+   left: 10px;
 }
 
-body{
-  background-color: #00d5ff;
+.imgPanel {
+   border-radius: 5px;
+   padding: 2px;
+   width:50%;
 }
 
-.jumbotron {
-  text-align: center;
-  color: black;
-  position: relative;
-  background: #76ffff;
-  width: 100%;
-  height: 100%;
-  background-size: cover;
-  overflow: hidden;
+#map {
+   width: 800px;
+   height: 500px;
 }
-/* set map, body, and html to 100% of the screen size */
-#mapid,
-body,
-html {
-  height: 100%;
-}
-
 .info {
-  padding: 6px 8px;
-  font: 14px/16px Arial, Helvetica, sans-serif;
-  background: rgb(255, 255, 255);
-  background: rgb(255, 255, 255);
-  box-shadow: 0 0 15px rgb(7, 6, 6);
-  border-radius: 5px;
+   padding: 6px 8px;
+   font: 14px/16px Arial, Helvetica, sans-serif;
+   background: white;
+   background: rgba(255,255,255,0.8);
+   box-shadow: 0 0 10px rgba(0,0,0,0.2);
+   border-radius: 5px;
 }
-.info h4 {
-  margin: 0 0 5px;
-  color: rgb(252, 248, 15);
-}
+
+   .info h4 {
+       margin: 0 0 5px;
+       color: #777;
+   }
 
 .legend {
-  line-height: 18px;
-  color: rgb(252, 248, 15);
+   text-align: left;
+   line-height: 18px;
+   color: #555;
 }
-.legend i {
-  width: 18px;
-  height: 18px;
-  float: left;
-  margin-right: 8px;
-  opacity: 0.7;
+   .legend i {
+       width: 18px;
+       height: 18px;
+       float: left;
+       margin-right: 8px;
+       opacity: 0.7;
+   }
+
+.View_Header {
+   display: inline-block;
+   width: 100%;
+   height:540px;
+   padding:10px;
+}
+
+.panelOne {
+   float: left;
+   height: 540px;
+   column-width:730px;
+   align-content:center;
+}
+
+.panelTwo {
+   float: right;
+   padding-right: 5px;
+   padding:1px;
+}
+
+hr.new5 {
+   border: 2px solid #00aaff;
+   border-radius: 1px;
+}
+
+#container {
+   overflow: hidden;
+   width: 100%;
+   min-height: 36px; /* Remember absolute positioning is outside the page flow! */
+   position: relative;
+}
+
+#middle-element {
+   margin: 0 auto;
+   text-align: center;
+   width: 300px;
 }

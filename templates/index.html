@@ -1,40 +1,87 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="utf-8">
-  <title>Johnny's map</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
-  <!-- Leaflet CSS & JS -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" />
-  <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"></script>
+	
+	<title>Project II. 5Aces</title>
 
-  <!--D3 cdn-->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
+	<link rel="stylesheet" href="../static/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
 
-  <!-- Our CSS -->
-  <link rel="stylesheet" type="text/css" href="../static/css/style.css">
 </head>
-
 <body>
-    <div class="container-fluid">
-        <div class="jumbotron text-center">
-            <h1>Big map energy</h1>
-            <p>I am making a map there are many like it but this one is mine
-            </p>
-       
-          </div>
-      </div>
-  <!-- The div for the map -->
-<div class="col-md-1"> </div>
-<div class="col-md-10" id="mapid"></div>
-<div class="col-md-1"> </div>
+	<div class="container-fluid text-left View_Header">
+		<div>
+					<table class="table" width="100%">
+						<thead>
+							<tr>
+								<td bgcolor="#7279da">
+									<h3>Title:</h3>
+								</td>
+							</tr>
+						</thead>
+					</table>
+				</div>
+			<div class="row align-items-start">
+				<div class="panelOne col-12 col-md-8">
+					<div id="map" class="panelOne col-12 col-md-8">
+						<!--Area for display map & chart-->
+					</div>
+					<div id="img2" class="panelOne">
+						<img src="images/view2.PNG" width="500" alt="view2"><br />
+					</div>
+					<div id="img3" class="panelOne">
+						<img src="images/daily-normals.png" width="500" alt="view3"><br />
+					</div>
+				</div>
 
-  <!-- Our JS -->
-  <script type="text/javascript" src="../static/js/config.js"></script>
-  <script type="text/javascript" src="../static/js/nygar.js"></script>
-   </div>
-   
-  </body>
+				<div class="text-center panelTwo col-md-4 col-12">
+						<table width="90%" border="1" >
+							<tr>
+								<td bgcolor="#7279da">
+									<h3>Visualizations:</h3><hr class="new5">
+									<div class="col-1  col-sm-4 col-md-12">
+										<img class="imgPanel" src="images/mapStates.PNG" alt="view1" id="view1">
+									</div>
+									<div class="col-1 col-sm-4 col-md-12">
+										<img class="imgPanel" src="images/view2.png" alt="view2" id="view2">
+									</div>
+									<div class="col-1 col-sm-4 col-md-12">
+										<img class="imgPanel" src="images/daily-normals.png" alt="view3" id="view3">
+									</div>
+								</tdbgcolor="#006699">
+							</tr>
+						</table>
+						
+				</div>
+			</div>
+		<div class="row">
+			<div class="col-md-7" >
+				<details>
+					<summary>
+						<img class="img1" src="/images/Fig6.png">
+					</summary>
+					<p><br /><br /><br />
+						the intercept :86.934 <br>
+						correlation:0.83<br>
+						Lat linear regression model :y = 0.96x + 86.93<br>
+						==============================================<br><br>
+						There is a very high correlation based on the value 0.83, that is: 83.0%, which indicates that they are directly proportional, while the Latitude increases, Lat approaches zero (Equator), the Temeprature °F also increases, in the same proportion.
+					</p>
+				</details>
+			</div>
+		</div>
+	</div>
+	
 
+	
+</body>
 </html>
+
+    <script src = "/static/js/app.js"> </script>
+	<script src="https://d3js.org/d3.v6.min.js"></script>
+	<script type="text/javascript" src="/static/js/appMap.js"></script>
