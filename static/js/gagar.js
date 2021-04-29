@@ -96,13 +96,6 @@ var countyLinesURL = "../data/us_Counties.json"
 //  legend.addTo(myMap);
 }
 
-// var countyLinesURL = L.geoJSON(data, {
-//   filter: function (feature) {
-//       return {true: feature.properties.state = 3};
-//   }
-// }).addTo(countyLines);
-
   d3.json(gaGar, function(data) {
     createFeatures(data)
-    // L.geoJson(data).addTo(myMap)
   });
