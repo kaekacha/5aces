@@ -1,18 +1,18 @@
 from flask import Flask, render_template, redirect, jsonify
 from flask import PyMongo
 
-# Create an instance of Flask
+## Create an instance of Flask
 app = Flask(__name__)
 
-# Use PyMongo to establish Mongo connection
+## Use PyMongo to establish Mongo connection
 mongo = PyMongo(app, uri="mongodb://localhost:27017/5aces")
 
-# Create render template app
+## Create render template app
 @app.route("/")
 def home():
     return render_template("index.html")
 
-# Route to render index.html template using data from Mongo
+## Route to render index.html template using data from Mongo (while runnging the db in the background)
 @app.route("/datanygarden")
 @app.route("/datanygrad")
 @app.route("/datagagarden")
@@ -32,9 +32,10 @@ def datanygarden():
     #     "ga_grad": ga_grad
     # }
     
-    # Return template and data
+    ## Return template and data
     # return jsonify(all_data["nyg_data"])
     return jsonify(gg_datany)
+
 def datanygrad():
     # Find one record of data from the mongo database
     # This creates a python copy of the collection in the db
