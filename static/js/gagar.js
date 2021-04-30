@@ -56,7 +56,7 @@ var countyLinesURL = "../data/us_Counties.json"
         "Garden": garden,
         "County Lines": countyLines
       };
-    var myMap = L.map("mapid", {
+    var myMap = L.map("mapJohnny2", {
         center: [
         32.83192252099581,-83.6318021142516],
         zoom: 8,
@@ -80,6 +80,7 @@ var countyLinesURL = "../data/us_Counties.json"
         collapsed: false
         }).addTo(myMap);
 
+// use this code to start adding data
 // legend.onAdd = function(myMap){
 //     var div = L.DomUtil.create('div', 'info legend'),
 //         grades = [0, 1, 2, 3, 4, 5],

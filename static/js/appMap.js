@@ -172,21 +172,32 @@ d3.selectAll(".imgPanel").on("click", function () {
     switch (viewCase) {
         case "view1":
             d3.select("#map").style("display", "block");
+            d3.select("#mapJohnny").style("display", "none");
             d3.select("#img2").style("display", "none")
             d3.select("#img3").style("display", "none")
             break;
         case "view2":
             d3.select("#map").style("display", "none");
+            d3.select("#mapJohnny").style("display", "none");
             d3.select("#img2").style("display", "block")
             d3.select("#img3").style("display", "none")
             break;
-        case "view3":
-            console.log(`3: ${viewCase}`)
-            d3.select("#map").style("display", "none");
-            d3.select("#img2").style("display", "none")
-            d3.select("#img3").style("display", "block")
-            break;
-        default:
+            case "view3":
+                console.log(`3: ${viewCase}`)
+                d3.select("#map").style("display", "none");
+                d3.select("#mapJohnny").style("display", "none");
+                d3.select("#img2").style("display", "none")
+                d3.select("#img3").style("display", "block")
+                break;
+                case "view4":
+                    console.log(`3: ${viewCase}`)
+                    d3.select("#map").style("display", "none");
+                    d3.select("#mapJohnny").style("display", "block");
+                    d3.select("#img2").style("display", "none")
+                    d3.select("#img3").style("display", "none")
+                    break;
+               
+            default:
     }
 });
 

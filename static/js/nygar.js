@@ -57,7 +57,7 @@ var countyLinesURL = "../data/us_Counties.json"
         "Garden": garden,
         "County Lines": countyLines
       };
-    var myMap = L.map("mapid", {
+    var myMap = L.map("mapJohnny", {
         center: [
         43.14223781173655,-75.15938000650515],
         zoom: 7,
