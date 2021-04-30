@@ -12,7 +12,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
-
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
 </head>
 <body>
 	<div class="container-fluid text-left View_Header">
@@ -30,6 +30,12 @@
 			<div class="row align-items-start">
 				<div class="panelOne col-12 col-md-8">
 					<div id="map" class="panelOne col-12 col-md-8">
+						<!--Area for display map & chart-->
+					</div>
+					<div id="mapJohnny" class="panelOne col-12 col-md-8">
+						<!--Area for display map & chart-->
+					</div>
+					<div id="mapJohnny2" class="panelOne col-12 col-md-8">
 						<!--Area for display map & chart-->
 					</div>
 					<div id="img2" class="panelOne">
@@ -53,6 +59,11 @@
 									</div>
 									<div class="col-1 col-sm-4 col-md-12">
 										<img class="imgPanel" src="images/daily-normals.png" alt="view3" id="view3">
+									</div>
+									<div class="col-1 col-sm-4 col-md-12">
+										<img class="imgPanel" src="images/daily-normals.png" alt="view4" id="view4">
+									</div><div class="col-1 col-sm-4 col-md-12">
+										<img class="imgPanel" src="images/daily-normals.png" alt="view5" id="view5">
 									</div>
 								</tdbgcolor="#006699">
 							</tr>
@@ -78,13 +89,18 @@
 		</div>
 	</div>
 	
-
+	<script src = "/static/js/app.js"> </script>
+	<script src="https://d3js.org/d3.v6.min.js"></script>
+	<script type="text/javascript" src="/static/js/appMap.js"></script>
+	<script type="text/javascript" src="static/js/config.js"></script>
+	<script type="text/javascript" src="/static/js/gagar.js"></script>
+	<script type="text/javascript" src="/static/js/nygar.js"></script>
 	
 </body>
 </html>
 
-    <script src = "/static/js/app.js"> </script>
+    <!-- <script src = "/static/js/app.js"> </script>
 	<script src="https://d3js.org/d3.v6.min.js"></script>
-
-	<script type="text/javascript" src="/static/js/appMap.js"></script>
+	<script type="text/javascript" src="static/js/config.js"></script>
+	<script type="text/javascript" src="/static/js/gagar.js"></script> -->
 	
