@@ -1,33 +1,36 @@
-
 <!DOCTYPE html>
 <html>
-<head>
-	
-	<title>Project II. 5Aces</title>
+	<head>
+		
+		<title>Project II. 5Aces</title>
 
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
-	<link rel="stylesheet" href="../static/css/style.css">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
-</head>
-<body>
-	<div class="container-fluid text-left View_Header">
-		<div>
-					<table class="table" width="100%">
-						<thead>
-							<tr>
-								<td bgcolor="#7279da">
-									<h3>Title:</h3>
-								</td>
-							</tr>
-						</thead>
-					</table>
-				</div>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
+		<link rel="stylesheet" href="../static/css/style.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+		<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
+	</head>
+
+	<body>
+		<div class="container-fluid text-left View_Header">
+
+			<div>
+				<table class="table" width="100%">
+					<thead>
+						<tr>
+							<td bgcolor="#7279da">
+								<h3>Title:</h3>
+							</td>
+						</tr>
+					</thead>
+				</table>
+			</div>
+
 			<div class="row align-items-start">
+
 				<div class="panelOne col-12 col-md-8">
 					<div id="map" class="panelOne col-12 col-md-8">
 						<!--Area for display map & chart-->
@@ -47,60 +50,66 @@
 				</div>
 
 				<div class="text-center panelTwo col-md-4 col-12">
-						<table width="90%" border="1" >
-							<tr>
-								<td bgcolor="#7279da">
-									<h3>Visualizations:</h3><hr class="new5">
-									<div class="col-1  col-sm-4 col-md-12">
-										<img class="imgPanel" src="images/mapStates.PNG" alt="view1" id="view1">
-									</div>
-									<div class="col-1 col-sm-4 col-md-12">
-										<img class="imgPanel" src="images/view2.png" alt="view2" id="view2">
-									</div>
-									<div class="col-1 col-sm-4 col-md-12">
-										<img class="imgPanel" src="images/daily-normals.png" alt="view3" id="view3">
-									</div>
-									<div class="col-1 col-sm-4 col-md-12">
-										<img class="imgPanel" src="images/daily-normals.png" alt="view4" id="view4">
-									</div><div class="col-1 col-sm-4 col-md-12">
-										<img class="imgPanel" src="images/daily-normals.png" alt="view5" id="view5">
-									</div>
-								</tdbgcolor="#006699">
-							</tr>
-						</table>
-						
+
+					<table width="90%" border="1" >
+						<tr>
+							<td bgcolor="#7279da">
+								<h3>Visualizations:</h3><hr class="new5">
+								<div class="col-1  col-sm-4 col-md-12">
+									<img class="imgPanel" src="images/mapStates.PNG" alt="view1" id="view1">
+								</div>
+								<div class="col-1 col-sm-4 col-md-12">
+									<img class="imgPanel" src="images/view2.png" alt="view2" id="view2">
+								</div>
+								<div class="col-1 col-sm-4 col-md-12">
+									<img class="imgPanel" src="images/daily-normals.png" alt="view3" id="view3">
+								</div>
+								<div class="col-1 col-sm-4 col-md-12">
+									<img class="imgPanel" src="images/daily-normals.png" alt="view4" id="view4">
+								</div><div class="col-1 col-sm-4 col-md-12">
+									<img class="imgPanel" src="images/daily-normals.png" alt="view5" id="view5">
+								</div>
+							</tdbgcolor="#006699">
+						</tr>
+					</table>
+
 				</div>
+
 			</div>
-		<div class="row">
-			<div class="col-md-7" >
-				<details>
-					<summary>
-						<img class="img1" src="/images/Fig6.png">
-					</summary>
-					<p><br /><br /><br />
-						the intercept :86.934 <br>
-						correlation:0.83<br>
-						Lat linear regression model :y = 0.96x + 86.93<br>
-						==============================================<br><br>
-						There is a very high correlation based on the value 0.83, that is: 83.0%, which indicates that they are directly proportional, while the Latitude increases, Lat approaches zero (Equator), the Temeprature °F also increases, in the same proportion.
-					</p>
-				</details>
+
+			<div class="row">
+
+				<div class="col-md-7" >
+					<details>
+						<summary>
+							<img class="img1" src="/images/Fig6.png">
+						</summary>
+						<p><br /><br /><br />
+							the intercept :86.934 <br>
+							correlation:0.83<br>
+							Lat linear regression model :y = 0.96x + 86.93<br>
+							==============================================<br><br>
+							There is a very high correlation based on the value 0.83, that is: 83.0%, which indicates that they are directly proportional, while the Latitude increases, Lat approaches zero (Equator), the Temeprature °F also increases, in the same proportion.
+						</p>
+					</details>
+				</div>
+
 			</div>
+
 		</div>
-	</div>
-	
-	<script src = "/static/js/app.js"> </script>
-	<script src="https://d3js.org/d3.v6.min.js"></script>
-	<script type="text/javascript" src="/static/js/appMap.js"></script>
-	<script type="text/javascript" src="static/js/config.js"></script>
-	<script type="text/javascript" src="/static/js/gagar.js"></script>
-	<script type="text/javascript" src="/static/js/nygar.js"></script>
-	
-</body>
+		
+		<script src = "/static/js/app.js"> </script>
+		<script src = "https://d3js.org/d3.v6.min.js"></script>
+		<script type="text/javascript" src="/static/js/appMap.js"></script>
+		<script type="text/javascript" src="static/js/config.js"></script>
+		<script type="text/javascript" src="/static/js/gagar.js"></script>
+		<script type="text/javascript" src="/static/js/nygar.js"></script>
+		
+	</body>
 </html>
 
-    <!-- <script src = "/static/js/app.js"> </script>
-	<script src="https://d3js.org/d3.v6.min.js"></script>
-	<script type="text/javascript" src="static/js/config.js"></script>
-	<script type="text/javascript" src="/static/js/gagar.js"></script> -->
+<!-- <script src = "/static/js/app.js"> </script>
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<script type="text/javascript" src="static/js/config.js"></script>
+<script type="text/javascript" src="/static/js/gagar.js"></script> -->
 	
