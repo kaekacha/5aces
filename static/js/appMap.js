@@ -167,16 +167,18 @@ d3.selectAll(".imgPanel").on("click", function () {
     switch (viewCase) {
         case "view1":
             // d3.select("p").remove();
-            d3.select("p").text("Title: View 1");
+            d3.select("p").text("Title: Slect view");
             d3.select("#map").style("display", "block");
             d3.select("#scatter").style("display", "none");
+	        d3.select("#scatterNY").style("display", "none");
             d3.select("#mapJohnny").style("display", "none");
             d3.select("#mapJohnny2").style("display", "none");
             break;
         case "view2":
-            d3.select("p").text("Title: Graduation rate in Georgia schools.");
+            d3.select("p").text("Title: Graduation rate in Georgia.");
             d3.select("#map").style("display", "none");
             d3.select("#scatter").style("display", "block");
+            d3.select("#scatterNY").style("display", "none");
             d3.select("#mapJohnny").style("display", "none");
             d3.select("#mapJohnny2").style("display", "none");
             break;
@@ -184,13 +186,23 @@ d3.selectAll(".imgPanel").on("click", function () {
             d3.select("p").text("Title: New York Gardens.");
             d3.select("#map").style("display", "none");
             d3.select("#scatter").style("display", "none");
-            d3.select("#mapJohnny").style("display", "block");
+            d3.select("#scatterNY").style("display", "block");
+            d3.select("#mapJohnny").style("display", "none");
             d3.select("#mapJohnny2").style("display", "none");
             break;
         case "view4":
             d3.select("p").text("Title: Georgia Gardens.");
             d3.select("#map").style("display", "none");
             d3.select("#scatter").style("display", "none");
+            d3.select("#scatterNY").style("display", "none");
+            d3.select("#mapJohnny").style("display", "block");
+            d3.select("#mapJohnny2").style("display", "none");
+            break;
+        case "view5":
+            d3.select("p").text("Title: Georgia Gardens.");
+            d3.select("#map").style("display", "none");
+            d3.select("#scatter").style("display", "none");
+            d3.select("#scatterNY").style("display", "none");
             d3.select("#mapJohnny").style("display", "none");
             d3.select("#mapJohnny2").style("display", "block");
             break;
