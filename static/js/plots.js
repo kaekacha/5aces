@@ -6,14 +6,14 @@
   // this function populates dropdown menu with state names and draw charts by default (using the first state)
 function init() {
     resetData(); // reset any previous data; see function definition below
-    d3.json("../data/ga_ny_grad.json").then((data => {
+    d3.json("../data/ga_ny_grad.json").then((data) => {
     plotCharts(id.property("value")); // plot charts with value ID changed in drop down menu; see function definition below
 }
 
   // this function resets the html id tags
   function resetData() {
       bar.html("");
-  }; 
+}); 
   
   // create a function to read JSON and plot charts
   function plotCharts(id) {
