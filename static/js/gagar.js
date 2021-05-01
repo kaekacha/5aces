@@ -1,92 +1,87 @@
 var gaGar = "https://opendata.arcgis.com/datasets/20847c0908834a6bb1e3474275985640_123.geojson"
-var nyGar = "../data/NYGarden.GeoJson"
-var countyLinesURL = "../data/us_Counties.json"
+//var nyGar = "../data/NYGarden.GeoJson"
 
-function createFeatures(GAG) {
+//var gaGar = "/static/data/georgia_Garden_DATA.csv"
+var countyLinesURL = "/static/GeoJSON/us_Counties.json"
 
-  // loop through feature array
-  // Give each feature a popup describing the magnitude, place and time 
-  // Create a layer containing the features array
+    function createFeatures(GAG) {
 
-  var garden = L.geoJSON(GAG, {
-    onEachFeature: function(feature, layer) {
-      layer.bindPopup("<h3>Gargen Name: " + feature.properties.garden_name +"</h3><h3>County: "+ feature.properties.county +"</h3><hr><p>" + new Date(feature.properties.timestamp) + "</p>");
-    },
-    pointToLayer: function (feature, latlng) {
-      return L.marker(latlng)
+    // loop through feature array
+    // Give each feature a popup describing the magnitude, place and time 
+    // Create a layer containing the features array
+    var garden = L.geoJSON(GAG, {
+      onEachFeature: function(feature, layer) {
+        layer.bindPopup("<h3>Gargen Name: " + feature.properties.Name +"</h3><h3>County: "+ feature.properties.County +"</h3><hr><p>" + new Date(feature.properties.timestamp) + "</p>");
+      },
+      pointToLayer: function (feature, latlng) {
+        return L.marker(latlng)
     }
-  });
-
-  createMap(garden);
-
-};
-
-function createMap(garden) {
-
-  // Define streetmap and darkmap layers
-  var outdoors = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
-    attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
-    tileSize: 512,
-    maxZoom: 18,
-    zoomOffset: -1,
-    id: "mapbox/outdoors-v11",
-    accessToken: API_KEY
     });
 
-  var satellite = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
-    attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
-    tileSize: 512,
-    maxZoom: 18,
-    zoomOffset: -1,
-    id: "mapbox/satellite-v9",
-    accessToken: API_KEY
-  });
+    createMap(garden);
+  }
+  function createMap(garden) {
 
-  var darkmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
-    attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
-    tileSize: 512,
-    maxZoom: 18,
-    zoomOffset: -1,
-    id: "mapbox/dark-v10",
-    accessToken: API_KEY
-  });
-
-  var baseMaps = {
-      "Outdoors": outdoors,
-      "Satellite": satellite,
-      "Dark Map": darkmap
-    };
-
-  // don't forget county lines
-  var countyLines = new L.LayerGroup();
-  var overlayMaps = {
-      "Garden": garden,
-      "County Lines": countyLines
-    };
-
-  var myMap = L.map("mapJohnny2", {
-    center: [
-    32.83192252099581,-83.6318021142516],
-    zoom: 8,
-    layers: [outdoors, garden, countyLines]
-  });
-
-  // Add Fault lines data
-  d3.json(countyLinesURL, function(countyData) {
-    // Adding our geoJSON data, along with style and filter infomation information, to the tectonicplates
-    // layer.
-    L.geoJson(countyData, {
-      color: "black",
-      weight: 2,
-      filter: function(feature) {
-        return (feature.properties.STATE == 13)
-      }
-    }).addTo(countyLines)
-  });
-
-  L.control.layers(baseMaps, overlayMaps, {
-    collapsed: false
-  }).addTo(myMap);
+      // Define streetmap and darkmap layers
+    var outdoors = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
+        attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
+        tileSize: 512,
+        maxZoom: 18,
+        zoomOffset: -1,
+        id: "mapbox/outdoors-v11",
+        accessToken: API_KEY
+      });
+    var satellite = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
+      attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
+      tileSize: 512,
+      maxZoom: 18,
+      zoomOffset: -1,
+      id: "mapbox/satellite-v9",
+      accessToken: API_KEY
+    });
+    var darkmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
+      attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
+      tileSize: 512,
+      maxZoom: 18,
+      zoomOffset: -1,
+      id: "mapbox/dark-v10",
+      accessToken: API_KEY
+    });
+    var baseMaps = {
+        "Outdoors": outdoors,
+        "Satellite": satellite,
+        "Dark Map": darkmap
+      };
+    // don't forget county lines
+    var countyLines = new L.LayerGroup();
+    var overlayMaps = {
+        "Garden": garden,
+        "County Lines": countyLines
+      };
+    var myMap = L.map("mapJohnny2", {
+        center: [
+        32.83192252099581,-83.6318021142516],
+        zoom: 8,
+        layers: [outdoors, garden, countyLines]
+  
+    });
+        // Add Fault lines data
+      
+        d3.json(countyLinesURL).then(function (countyData) {
+            // Adding our geoJSON data, along with style and filter infomation information, to the tectonicplates
+            // layer.
+            L.geoJson(countyData, {
+              color: "black",
+              weight: 2,
+              filter: function(feature) {
+                return (feature.properties.STATE == 13)
+              }
+            })
+            .addTo(countyLines);
+    });
+    L.control.layers(baseMaps, overlayMaps, {
+        collapsed: false
+        }).addTo(myMap);
 
 // use this code to start adding data
 // legend.onAdd = function(myMap){
@@ -103,8 +98,13 @@ function createMap(garden) {
 //   };
 
 //  legend.addTo(myMap);
-};
+}
 
-d3.json(gaGar, function(data) {
-  createFeatures(data)
+  /*d3.json(gaGar, function(data) {
+    createFeatures(data)
+  });*/
+
+d3.json(gaGar).then(function (data) {
+    console.log(data)
+    createFeatures(data.features)
 });

@@ -15,7 +15,7 @@ div {
 }
 #map,
 #img2,
-#img3 {
+#img3, #mapJohnny, #mapJohnny2 {
     position: absolute;
     left: 10px;
 }
@@ -30,6 +30,12 @@ div {
     width: 800px;
     height: 500px;
 }
+
+#mapJohnny, #mapJohnny2 {
+    width: 800px;
+    height: 500px;
+}
+
 .info {
     padding: 6px 8px;
     font: 14px/16px Arial, Helvetica, sans-serif;
@@ -49,13 +55,13 @@ div {
     line-height: 18px;
     color: #555;
 }
-    .legend i {
-        width: 18px;
-        height: 18px;
-        float: left;
-        margin-right: 8px;
-        opacity: 0.7;
-    }
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
 
 .View_Header {
     display: inline-block;
@@ -93,4 +99,8 @@ hr.new5 {
     margin: 0 auto;
     text-align: center;
     width: 300px;
+}
+
+#scatter {
+    background-color: #f9f9eb;
 }
