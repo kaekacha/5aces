@@ -1,5 +1,4 @@
 var grad_data="../data/ga_ny_grad.json"
-
 console.log(grad_data)
 
 // var dataPoints2 = [];

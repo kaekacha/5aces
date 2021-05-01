@@ -1,115 +1,124 @@
+
 <!DOCTYPE html>
 <html>
-	<head>
-		
-		<title>Project II. 5Aces</title>
+<head>
 
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
-		<link rel="stylesheet" href="../static/css/style.css">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
-		<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
-	</head>
+	<title>Project II. 5Aces</title>
 
-	<body>
-		<div class="container-fluid text-left View_Header">
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="static/css/bootstrap.min.css">
+	<link rel="stylesheet" href="static/css/style.css">
+	<link rel="stylesheet" href="static/css/d3Style.css">
 
-			<div>
-				<table class="table" width="100%">
-					<thead>
-						<tr>
-							<td bgcolor="#7279da">
-								<h3>Title:</h3>
-							</td>
-						</tr>
-					</thead>
-				</table>
-			</div>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
+	<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+	<!--<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+		  integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+		  crossorigin="" />-->
+</head>
+<body>
 
-			<div class="row align-items-start">
+	<div class="container">
+		<div class="row">
+			<table class="table" width="90%" border="0">
+				<thead>
+					<tr>
+						<th bgcolor="#cad2d3" colspan="2">
+							<div id="title"><p>Title: &nbsp;View 1</p></div>
+						</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr height="570px">
+						<td>
+							<div id="map" class="panelOne">
+								<!--Area for display map & chart-->
+							</div>
+							<div id="scatter" class="panelOne">
+								<!-- We append our chart here. -->
+							</div>
+							<div id="mapJohnny" class="panelOne">
+								<!--Area for display map & chart-->
+							</div>
+							<div id="mapJohnny2" class="panelOne">
+								<!--Area for display map & chart-->
+							</div>
+							<!--<div id="img2" class="panelOne">
+								<img src="static/images/view2.png" width="800" alt="view2"><br />
+							</div>
+							<div id="img3" class="panelOne">
+								<img src="static/images/daily-normals.png" width="800" alt="view3"><br />
+							</div>-->
+						</td>
+						<td width="200">
+							<table width="200">
+								<tr>
+									<td>
+										<div>
+											<img class="imgPanel" width="150" src="static/images/mapStates.PNG" alt="view1" id="view1">
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										hola
+										<div>
+											<img class="imgPanel" width="150" src="static/images/view2.png" alt="view2" id="view2">
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<div>
+											<img class="imgPanel" width="150" src="static/images/NYG.png" alt="view3" id="view3">
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<div>
+											<img class="imgPanel" width="150" src="static/images/GGA.png" alt="view4" id="view4">
+										</div>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<details>
+								<summary>
+									<img width="100" class="img1" src="static/images/mapStates.PNG">
+								</summary>
+								<p>
+									<br /><br /><br />
+									The ACT score range is from 1-36. As you might imagine, the higher your score, the better you did. But is there a certain cutoff that delineates a "good" ACT score?
 
-				<div class="panelOne col-12 col-md-8">
-					<div id="map" class="panelOne col-12 col-md-8">
-						<!--Area for display map & chart-->
-					</div>
-					<div id="mapJohnny" class="panelOne col-12 col-md-8">
-						<!--Area for display map & chart-->
-					</div>
-					<div id="mapJohnny2" class="panelOne col-12 col-md-8">
-						<!--Area for display map & chart-->
-					</div>
-					<div id="img2" class="panelOne">
-						<img src="images/view2.PNG" width="500" alt="view2"><br />
-					</div>
-					<div id="img3" class="panelOne">
-						<img src="images/daily-normals.png" width="500" alt="view3"><br />
-					</div>
-				</div>
-
-				<div class="text-center panelTwo col-md-4 col-12">
-
-					<table width="90%" border="1" >
-						<tr>
-							<td bgcolor="#7279da">
-								<h3>Visualizations:</h3><hr class="new5">
-								<div class="col-1  col-sm-4 col-md-12">
-									<img class="imgPanel" src="images/mapStates.PNG" alt="view1" id="view1">
-								</div>
-								<div class="col-1 col-sm-4 col-md-12">
-									<img class="imgPanel" src="images/view2.png" alt="view2" id="view2">
-								</div>
-								<div class="col-1 col-sm-4 col-md-12">
-									<img class="imgPanel" src="images/daily-normals.png" alt="view3" id="view3">
-								</div>
-								<div class="col-1 col-sm-4 col-md-12">
-									<img class="imgPanel" src="images/daily-normals.png" alt="view4" id="view4">
-								</div><div class="col-1 col-sm-4 col-md-12">
-									<img class="imgPanel" src="images/daily-normals.png" alt="view5" id="view5">
-								</div>
-							</tdbgcolor="#006699">
-						</tr>
-					</table>
-
-				</div>
-
-			</div>
-
-			<div class="row">
-
-				<div class="col-md-7" >
-					<details>
-						<summary>
-							<img class="img1" src="/images/Fig6.png">
-						</summary>
-						<p><br /><br /><br />
-							the intercept :86.934 <br>
-							correlation:0.83<br>
-							Lat linear regression model :y = 0.96x + 86.93<br>
-							==============================================<br><br>
-							There is a very high correlation based on the value 0.83, that is: 83.0%, which indicates that they are directly proportional, while the Latitude increases, Lat approaches zero (Equator), the Temeprature °F also increases, in the same proportion.
-						</p>
-					</details>
-				</div>
-
-			</div>
+									To answer this question, it's important to understand how ACT scores work. Your composite score from 1-36 corresponds to a percentile that compares how you did to the general population of ACT test-takers. A higher percentile means you scored higher than that percent of students. (So, a 55th percentile score means your score was higher than 55% of students).
+								</p>
+							</details>
+						</td>
+						<td>&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
 
 		</div>
-		
-		<script src = "/static/js/app.js"> </script>
-		<script src = "https://d3js.org/d3.v6.min.js"></script>
-		<script type="text/javascript" src="/static/js/appMap.js"></script>
-		<script type="text/javascript" src="static/js/config.js"></script>
-		<script type="text/javascript" src="/static/js/gagar.js"></script>
-		<script type="text/javascript" src="/static/js/nygar.js"></script>
-		
-	</body>
+	</div>
+	<script src="https://d3js.org/d3.v6.min.js"></script>
+	<script src="http://d3js.org/d3.v5.min.js" charset="utf-8"></script>
+	<script src="https://d3js.org/topojson.v2.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+
+	<script type="text/javascript" src="/static/js/appChart.js"></script>
+	<script type="text/javascript" src="/static/js/config.js"></script>
+	<script type="text/javascript" src="/static/js/gagar.js"></script>
+	<script type="text/javascript" src="/static/js/nygar.js"></script>
+	<script type="text/javascript" src="/static/js/appMap.js"></script>
+
+
+</body>
 </html>
 
-<!-- <script src = "/static/js/app.js"> </script>
-<script src="https://d3js.org/d3.v6.min.js"></script>
-<script type="text/javascript" src="static/js/config.js"></script>
-<script type="text/javascript" src="/static/js/gagar.js"></script> -->
-	
+
